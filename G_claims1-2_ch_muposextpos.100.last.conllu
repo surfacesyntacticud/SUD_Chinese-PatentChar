@@ -3572,26 +3572,26 @@
 22	元	_	NOUN	_	_	24	mod	_	EXTPOS=NOUN|SpaceAfter=No
 23	模	_	NOUN	_	_	24	mod:m	_	SpaceAfter=No
 24	型	_	NOUN	_	_	14	comp	_	EXTPOS=VERB|SpaceAfter=No
-25	进	_	VERB	_	_	14	comp	_	EXTPOS=NOUN|SpaceAfter=No|SpaceAfter=No
+25	进	_	VERB	_	_	14	comp	_	EXTPOS=NOUN|SpaceAfter=No
 26	行	_	VERB	_	_	25	conj:m	_	SpaceAfter=No
 27	修	_	VERB	_	_	25	comp	_	SpaceAfter=No
 28	改	_	VERB	_	_	27	conj:m	_	SpaceAfter=No
 29	，	_	PUNCT	_	_	30	punct	_	SpaceAfter=No
-30	获	_	VERB	_	_	14	parataxis	_	EXTPOS=VERB|SpaceAfter=No|SpaceAfter=No
+30	获	_	VERB	_	_	14	parataxis	_	EXTPOS=VERB|SpaceAfter=No
 31	得	_	VERB	_	_	30	conj:m	_	SpaceAfter=No
 32	优	_	ADV	_	_	33	mod:m	_	SpaceAfter=No
-33	化	_	VERB	_	_	34	comp	_	EXTPOS=VERB|SpaceAfter=No|SpaceAfter=No
+33	化	_	VERB	_	_	34	comp	_	EXTPOS=VERB|SpaceAfter=No
 34	后	_	PART	_	_	35	comp	_	SpaceAfter=No
 35	的	_	PART	_	_	44	mod	_	SpaceAfter=No
-36	第	_	NUM	_	_	44	mod	_	EXTPOS=NOUN|SpaceAfter=No|SpaceAfter=No
+36	第	_	NUM	_	_	44	mod	_	EXTPOS=NOUN|SpaceAfter=No
 37	一	_	NUM	_	_	36	comp:m	_	SpaceAfter=No
 38	整	_	ADJ	_	_	39	mod:m	_	SpaceAfter=No
-39	车	_	NOUN	_	_	42	mod	_	EXTPOS=NOUN|SpaceAfter=No|SpaceAfter=No
+39	车	_	NOUN	_	_	42	mod	_	EXTPOS=NOUN|SpaceAfter=No
 40	梁	_	NOUN	_	_	42	mod	_	SpaceAfter=No
 41	单	_	ADJ	_	_	42	mod:m	_	SpaceAfter=No
-42	元	_	NOUN	_	_	44	mod	_	EXTPOS=NOUN|SpaceAfter=No|SpaceAfter=No
+42	元	_	NOUN	_	_	44	mod	_	EXTPOS=NOUN|SpaceAfter=No
 43	模	_	NOUN	_	_	44	mod:m	_	SpaceAfter=No
-44	型	_	NOUN	_	_	30	comp	_	EXTPOS=NOUN|SpaceAfter=No|SpaceAfter=No
+44	型	_	NOUN	_	_	30	comp	_	EXTPOS=NOUN|SpaceAfter=No
 45	；	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 1624582481.492965-696801_00212
