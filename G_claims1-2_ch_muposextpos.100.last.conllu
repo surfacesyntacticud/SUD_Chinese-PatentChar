@@ -288,7 +288,7 @@
 # sent_id = 1624582481.492965-696801_00114
 # patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
 # text = 处理器，所述处理器配置有两个以上的SFP接口，其中，各所述SFP接口通过所述处理器内部的PHY芯片自适应10M/100M/1000M的以太口，进而，所述SFP接口可插接百兆光模块、千兆光模块、RJ45接口和SFP模块中的一种或两种以上。
-1	处	_	VERB	_	_	3	mod:m	_	ExtPos=NOUN|SpaceAfter=No
+1	处	_	VERB	_	_	3	mod:m	_	ExtPos=VERB|SpaceAfter=No
 2	理	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	器	_	NOUN	_	_	0	root	_	ExtPos=NOUN|SpaceAfter=No
 4	，	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
@@ -308,38 +308,38 @@
 18	SFP	_	NOUN	_	_	20	mod	_	SpaceAfter=No
 19	接	_	VERB	_	_	20	mod:m	_	SpaceAfter=No
 20	口	_	NOUN	_	_	12	comp	_	ExtPos=NOUN|SpaceAfter=No
-21	，	_	PUNCT	_	_	61	punct	_	SpaceAfter=No
+21	，	_	PUNCT	_	_	45	punct	_	SpaceAfter=No
 22	其	_	PRON	_	_	23	comp:m	_	SpaceAfter=No
-23	中	_	PART	_	_	53	mod	_	ExtPos=ADP|SpaceAfter=No
-24	，	_	PUNCT	_	_	52	punct	_	SpaceAfter=No
+23	中	_	PART	_	_	45	cc	_	ExtPos=SCONJ|SpaceAfter=No
+24	，	_	PUNCT	_	_	23		_	SpaceAfter=No
 25	各	_	ADJ	_	_	26	mod	_	SpaceAfter=No
 26	所	_	PART	_	_	30	mod	_	ExtPos=NUM|SpaceAfter=No
 27	述	_	VERB	_	_	26	comp:m	_	SpaceAfter=No
 28	SFP	_	PROPN	_	_	30	mod	_	SpaceAfter=No
 29	接	_	VERB	_	_	30	mod:m	_	SpaceAfter=No
-30	口	_	NOUN	_	_	31	comp	_	ExtPos=NOUN|SpaceAfter=No
-31	通	_	VERB	_	_	40	comp	_	ExtPos=VERB|SpaceAfter=No
+30	口	_	NOUN	_	_	45	subj	_	ExtPos=NOUN|SpaceAfter=No
+31	通	_	VERB	_	_	45	mod	_	ExtPos=VERB|SpaceAfter=No
 32	过	_	ADP	_	_	31	comp:m	_	SpaceAfter=No
 33	所	_	PART	_	_	39	mod	_	ExtPos=ADJ|SpaceAfter=No
 34	述	_	VERB	_	_	33	comp:m	_	SpaceAfter=No
-35	处	_	VERB	_	_	37	mod	_	ExtPos=NOUN|SpaceAfter=No
+35	处	_	VERB	_	_	37	mod	_	ExtPos=VERB|SpaceAfter=No
 36	理	_	VERB	_	_	35	conj:m	_	SpaceAfter=No
 37	器	_	NOUN	_	_	39	mod	_	ExtPos=NOUN|SpaceAfter=No
 38	内	_	NOUN	_	_	39	mod:m	_	SpaceAfter=No
 39	部	_	NOUN	_	_	40	comp	_	ExtPos=NOUN|SpaceAfter=No
-40	的	_	PART	_	_	51	mod	_	SpaceAfter=No
+40	的	_	PART	_	_	43	mod	_	SpaceAfter=No
 41	PHY	_	PROPN	_	_	43	mod	_	SpaceAfter=No
 42	芯	_	NOUN	_	_	43	mod:m	_	SpaceAfter=No
-43	片	_	NOUN	_	_	45	subj	_	ExtPos=NOUN|SpaceAfter=No
+43	片	_	NOUN	_	_	31	comp	_	ExtPos=NOUN|SpaceAfter=No
 44	自	_	ADV	_	_	45	mod:m	_	SpaceAfter=No
-45	适	_	VERB	_	_	48	comp	_	ExtPos=VERB|SpaceAfter=No
+45	适	_	VERB	_	_	10	conj	_	ExtPos=VERB|SpaceAfter=No
 46	应	_	VERB	_	_	45	conj:m	_	SpaceAfter=No
-47	10M/100M/1000M	_	NUM	_	_	45	comp	_	SpaceAfter=No
+47	10M/100M/1000M	_	NUM	_	_	48	comp	_	SpaceAfter=No
 48	的	_	PART	_	_	51	mod	_	SpaceAfter=No
 49	以	_	PROPN	_	_	51	mod:m	_	ExtPos=NOUN|SpaceAfter=No
 50	太	_	ADV	_	_	49	flat:m	_	SpaceAfter=No
-51	口	_	NOUN	_	_	31	comp	_	ExtPos=NOUN|SpaceAfter=No
-52	，	_	PUNCT	_	_	23	punct	_	SpaceAfter=No
+51	口	_	NOUN	_	_	45	comp	_	ExtPos=NOUN|SpaceAfter=No
+52	，	_	PUNCT	_	_	61	punct	_	SpaceAfter=No
 53	进	_	VERB	_	_	61	cc	_	ExtPos=CCONJ|SpaceAfter=No
 54	而	_	SCONJ	_	_	53	conj:m	_	SpaceAfter=No
 55	，	_	PUNCT	_	_	53	punct	_	SpaceAfter=No
@@ -379,7 +379,7 @@
 89	种	_	NUM	_	_	86	conj	_	ExtPos=NUM|SpaceAfter=No
 90	以	_	ADP	_	_	89	mod	_	ExtPos=PART|SpaceAfter=No
 91	上	_	PART	_	_	90	comp:m	_	SpaceAfter=No
-92	。	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
+92	。	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = 1624582481.492965-696801_00115
 # patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
