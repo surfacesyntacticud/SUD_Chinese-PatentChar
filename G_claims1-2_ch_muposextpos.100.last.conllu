@@ -1,6 +1,6 @@
-# sent_id = 1624582481.492965-696801_00101|SpaceAfter=No
-# patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y|SpaceAfter=No
-# text = 接收在轨卫星的遥测参数数据，根据关联关系模型计算遥测参数之间的互信息系数；|SpaceAfter=No
+# sent_id = 1624582481.492965-696801_00101
+# patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
+# text = 接收在轨卫星的遥测参数数据，根据关联关系模型计算遥测参数之间的互信息系数；
 1	接	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 2	收	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	在	_	ADP	_	_	6	mod	_	ExtPos=ADJ|SpaceAfter=No
@@ -38,10 +38,10 @@
 35	系	_	VERB	_	_	36	mod:m	_	SpaceAfter=No
 36	数	_	NOUN	_	_	23	comp	_	ExtPos=NOUN|SpaceAfter=No
 37	；	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00102|SpaceAfter=No
-# patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y|SpaceAfter=No
-# text = 根据遥测参数之间的互信息系数与卫星在正常状态下以及异常状态下的互信息系数的分布计算马氏距离，根据马氏距离判断多参数关联状态是否异常。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00102
+# patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
+# text = 根据遥测参数之间的互信息系数与卫星在正常状态下以及异常状态下的互信息系数的分布计算马氏距离，根据马氏距离判断多参数关联状态是否异常。
 1	根	_	ADV	_	_	2	mod:m	_	SpaceAfter=No
 2	据	_	VERB	_	_	40	mod	_	ExtPos=ADP|SpaceAfter=No
 3	遥	_	ADV	_	_	4	mod:m	_	SpaceAfter=No
@@ -108,10 +108,10 @@
 64	异	_	ADV	_	_	65	mod:m	_	SpaceAfter=No
 65	常	_	ADJ	_	_	62	comp	_	ExtPos=ADJ|SpaceAfter=No
 66	。	_	PUNCT	_	_	40	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00103|SpaceAfter=No
-# patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y|SpaceAfter=No
-# text = 2.根据权利要求1所述的一种基于多参数关联的在轨卫星异常状态监测方法，其特征在于，所述遥测参数之间的关联关系模型确定方式包括以下步骤：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00103
+# patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
+# text = 2.根据权利要求1所述的一种基于多参数关联的在轨卫星异常状态监测方法，其特征在于，所述遥测参数之间的关联关系模型确定方式包括以下步骤：
 1	2.	_	PUNCT	_	_	32	punct	_	SpaceAfter=No
 2	根	_	ADV	_	_	3	mod:m	_	SpaceAfter=No
 3	据	_	ADP	_	_	9	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -178,10 +178,10 @@
 64	步	_	VERB	_	_	60	comp	_	ExtPos=NOUN|SpaceAfter=No
 65	骤	_	VERB	_	_	64	conj:m	_	SpaceAfter=No
 66	：	_	PUNCT	_	_	32	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00111|SpaceAfter=No
-# patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y|SpaceAfter=No
-# text = 遍历所有卫星S|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00111
+# patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
+# text = 遍历所有卫星S
 1	遍	_	ADV	_	_	2	mod:m	_	SpaceAfter=No
 2	历	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 3	所	_	PART	_	_	6	mod	_	ExtPos=DET|SpaceAfter=No
@@ -189,10 +189,10 @@
 5	卫	_	VERB	_	_	6	mod:m	_	SpaceAfter=No
 6	星	_	NOUN	_	_	2	comp	_	ExtPos=NOUN|SpaceAfter=No
 7	S	_	PROPN	_	_	6	appos	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00112|SpaceAfter=No
-# patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y|SpaceAfter=No
-# text = 重复上述第一网格划分方案的构建过程并以最终的第一网格划分方案作为遥测参数之间的关联关系模型。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00112
+# patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
+# text = 重复上述第一网格划分方案的构建过程并以最终的第一网格划分方案作为遥测参数之间的关联关系模型。
 1	重	_	VERB	_	_	11	mod	_	ExtPos=VERB|SpaceAfter=No
 2	复	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	上	_	PART	_	_	4	mod:m	_	SpaceAfter=No
@@ -239,10 +239,10 @@
 44	模	_	NOUN	_	_	31	comp	_	ExtPos=NOUN|SpaceAfter=No
 45	型	_	NOUN	_	_	44	conj:m	_	SpaceAfter=No
 46	。	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00113|SpaceAfter=No
-# patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005|SpaceAfter=No
-# text = 1.一种变电站的智能电子设备，用于监视及分析智能变电站产生的信息，其特征在于，包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00113
+# patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
+# text = 1.一种变电站的智能电子设备，用于监视及分析智能变电站产生的信息，其特征在于，包括：
 1	1.	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
 2	一	_	NUM	_	_	3	mod:m	_	SpaceAfter=No
 3	种	_	NUM	_	_	6	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -284,10 +284,10 @@
 39	包	_	VERB	_	_	37	comp	_	ExtPos=VERB|SpaceAfter=No
 40	括	_	VERB	_	_	39	conj:m	_	SpaceAfter=No
 41	：	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00114|SpaceAfter=No
-# patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005|SpaceAfter=No
-# text = 处理器，所述处理器配置有两个以上的SFP接口，其中，各所述SFP接口通过所述处理器内部的PHY芯片自适应10M/100M/1000M的以太口，进而，所述SFP接口可插接百兆光模块、千兆光模块、RJ45接口和SFP模块中的一种或两种以上。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00114
+# patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
+# text = 处理器，所述处理器配置有两个以上的SFP接口，其中，各所述SFP接口通过所述处理器内部的PHY芯片自适应10M/100M/1000M的以太口，进而，所述SFP接口可插接百兆光模块、千兆光模块、RJ45接口和SFP模块中的一种或两种以上。
 1	处	_	VERB	_	_	3	mod:m	_	ExtPos=NOUN|SpaceAfter=No
 2	理	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	器	_	NOUN	_	_	0	root	_	ExtPos=NOUN|SpaceAfter=No
@@ -380,10 +380,10 @@
 90	以	_	ADP	_	_	89	mod	_	ExtPos=PART|SpaceAfter=No
 91	上	_	PART	_	_	90	comp:m	_	SpaceAfter=No
 92	。	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00115|SpaceAfter=No
-# patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005|SpaceAfter=No
-# text = 2.根据权利要求1所述的变电站的智能电子设备，其特征在于：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00115
+# patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
+# text = 2.根据权利要求1所述的变电站的智能电子设备，其特征在于：
 1	2.	_	PUNCT	_	_	20	punct	_	SpaceAfter=No
 2	根	_	ADV	_	_	3	mod:m	_	SpaceAfter=No
 3	据	_	VERB	_	_	9	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -412,10 +412,10 @@
 26	在	_	VERB	_	_	20	parataxis	_	ExtPos=VERB|SpaceAfter=No
 27	于	_	ADP	_	_	26	comp:m	_	SpaceAfter=No
 28	：	_	PUNCT	_	_	20	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00116|SpaceAfter=No
-# patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005|SpaceAfter=No
-# text = 所述智能电子设备包括后端FPGA以及两个以上的DSP，所述处理器还配置有一个RGMII接口，所述后端FPGA配置有一个RGMII接口，所述后端FPGA的RGMII接口与所述处理器的RGMII接口连接；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00116
+# patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
+# text = 所述智能电子设备包括后端FPGA以及两个以上的DSP，所述处理器还配置有一个RGMII接口，所述后端FPGA配置有一个RGMII接口，所述后端FPGA的RGMII接口与所述处理器的RGMII接口连接；
 1	所	_	PART	_	_	7	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	智	_	NOUN	_	_	4	mod:m	_	SpaceAfter=No
@@ -489,10 +489,10 @@
 71	连	_	VERB	_	_	9	parataxis	_	ExtPos=VERB|SpaceAfter=No
 72	接	_	VERB	_	_	71	conj:m	_	SpaceAfter=No
 73	；	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00117|SpaceAfter=No
-# patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005|SpaceAfter=No
-# text = 其中，各所述DSP分别通过HPI接口连接至所述后端FPGA。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00117
+# patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
+# text = 其中，各所述DSP分别通过HPI接口连接至所述后端FPGA。
 1	其	_	PRON	_	_	2	comp:m	_	SpaceAfter=No
 2	中	_	PART	_	_	15	mod	_	ExtPos=ADP|SpaceAfter=No
 3	，	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -515,10 +515,10 @@
 20	后	_	ADJ	_	_	21	mod:m	_	SpaceAfter=No
 21	端	_	NOUN	_	_	22	mod	_	ExtPos=NOUN|SpaceAfter=No
 22	FPGA。	_	PROPN	_	_	17	comp	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00118|SpaceAfter=No
-# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T|SpaceAfter=No
-# text = 1.一种封闭式液冷服务器，包括壳体和服务器主板；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00118
+# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
+# text = 1.一种封闭式液冷服务器，包括壳体和服务器主板；
 1	1.	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
 2	一	_	NUM	_	_	3	mod:m	_	SpaceAfter=No
 3	种	_	NUM	_	_	11	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -542,20 +542,20 @@
 21	主	_	ADJ	_	_	22	mod:m	_	SpaceAfter=No
 22	板	_	NOUN	_	_	16	conj	_	ExtPos=NOUN|SpaceAfter=No
 23	；	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00119|SpaceAfter=No
-# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T|SpaceAfter=No
-# text = 其特征在于：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00119
+# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
+# text = 其特征在于：
 1	其	_	PRON	_	_	3	mod	_	SpaceAfter=No
 2	特	_	ADJ	_	_	3	mod:m	_	SpaceAfter=No
 3	征	_	NOUN	_	_	4	subj	_	ExtPos=NOUN|SpaceAfter=No
 4	在	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 5	于	_	ADP	_	_	4	comp:m	_	SpaceAfter=No
 6	：	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00120|SpaceAfter=No
-# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T|SpaceAfter=No
-# text = 所述壳体内容纳有制冷剂；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00120
+# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
+# text = 所述壳体内容纳有制冷剂；
 1	所	_	PART	_	_	4	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	壳	_	NOUN	_	_	4	mod:m	_	SpaceAfter=No
@@ -568,10 +568,10 @@
 10	冷	_	NOUN	_	_	9	comp:m	_	SpaceAfter=No
 11	剂	_	NOUN	_	_	6	comp	_	ExtPos=NOUN|SpaceAfter=No
 12	；	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00121|SpaceAfter=No
-# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T|SpaceAfter=No
-# text = 所述服务器主板设置在壳体中，壳体内的制冷剂浸没服务器主板；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00121
+# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
+# text = 所述服务器主板设置在壳体中，壳体内的制冷剂浸没服务器主板；
 1	所	_	PART	_	_	7	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	服	_	VERB	_	_	5	mod:m	_	ExtPos=VERB|SpaceAfter=No
@@ -601,10 +601,10 @@
 27	主	_	ADJ	_	_	28	mod:m	_	SpaceAfter=No
 28	板	_	NOUN	_	_	22	comp	_	ExtPos=NOUN|SpaceAfter=No
 29	；	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00122|SpaceAfter=No
-# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T|SpaceAfter=No
-# text = 所述制冷剂为硅油。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00122
+# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
+# text = 所述制冷剂为硅油。
 1	所	_	PART	_	_	5	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	制	_	VERB	_	_	5	mod:m	_	ExtPos=VERB|SpaceAfter=No
@@ -614,10 +614,10 @@
 7	硅	_	NOUN	_	_	8	mod:m	_	SpaceAfter=No
 8	油	_	NOUN	_	_	6	comp	_	ExtPos=NOUN|SpaceAfter=No
 9	。	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00123|SpaceAfter=No
-# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T|SpaceAfter=No
-# text = 2.根据权利要求1所述的一种封闭式液冷服务器，其特征在于：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00123
+# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
+# text = 2.根据权利要求1所述的一种封闭式液冷服务器，其特征在于：
 1	2.	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
 2	根	_	ADV	_	_	3	mod:m	_	SpaceAfter=No
 3	据	_	ADP	_	_	9	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -646,10 +646,10 @@
 26	在	_	ADP	_	_	21	parataxis	_	ExtPos=VERB|SpaceAfter=No
 27	于	_	ADP	_	_	26	comp:m	_	SpaceAfter=No
 28	：	_	PUNCT	_	_	26	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00124|SpaceAfter=No
-# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T|SpaceAfter=No
-# text = 所述壳体是一个金属的密封腔体或者金属铸造密封腔体，制冷剂和服务器主板设置于密封腔体内，制冷剂浸没服务器主板的所有发热元件。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00124
+# patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
+# text = 所述壳体是一个金属的密封腔体或者金属铸造密封腔体，制冷剂和服务器主板设置于密封腔体内，制冷剂浸没服务器主板的所有发热元件。
 1	所	_	PART	_	_	4	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	壳	_	NOUN	_	_	4	mod:m	_	SpaceAfter=No
@@ -711,10 +711,10 @@
 59	元	_	NOUN	_	_	60	mod:m	_	SpaceAfter=No
 60	件	_	NOUN	_	_	47	comp	_	ExtPos=NOUN|SpaceAfter=No
 61	。	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00125|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 1.一种燃煤热值修正方法，其特征在于，包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00125
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 1.一种燃煤热值修正方法，其特征在于，包括：
 1	1.	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
 2	一	_	NUM	_	_	3	mod:m	_	SpaceAfter=No
 3	种	_	NUM	_	_	10	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -736,10 +736,10 @@
 19	包	_	VERB	_	_	17	comp	_	ExtPos=VERB|SpaceAfter=No
 20	括	_	NOUN	_	_	19	conj:m	_	SpaceAfter=No
 21	：	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00126|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 实时获取发电机功率和燃煤流量；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00126
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 实时获取发电机功率和燃煤流量；
 1	实	_	VERB	_	_	2	mod:m	_	SpaceAfter=No
 2	时	_	PART	_	_	3	mod	_	ExtPos=ADV|SpaceAfter=No
 3	获	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
@@ -755,10 +755,10 @@
 13	流	_	VERB	_	_	14	mod:m	_	SpaceAfter=No
 14	量	_	NOUN	_	_	9	conj	_	ExtPos=NOUN|SpaceAfter=No
 15	；	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00127|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 分别对所述发电机功率和燃煤流量进行积分累积运算，得到当前时刻的发电机功率累积值和当前时刻的燃煤流量累积值；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00127
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 分别对所述发电机功率和燃煤流量进行积分累积运算，得到当前时刻的发电机功率累积值和当前时刻的燃煤流量累积值；
 1	分	_	VERB	_	_	3	mod	_	ExtPos=ADV|SpaceAfter=No
 2	别	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	对	_	ADP	_	_	16	comp	_	SpaceAfter=No
@@ -812,10 +812,10 @@
 51	积	_	VERB	_	_	50	conj:m	_	SpaceAfter=No
 52	值	_	NOUN	_	_	40	comp	_	ExtPos=NOUN|SpaceAfter=No
 53	；	_	PUNCT	_	_	16	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00128|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 分别将所述当前时刻的发电机功率累积值和当前时刻的燃煤流量累积值存储到预设的存储器中；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00128
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 分别将所述当前时刻的发电机功率累积值和当前时刻的燃煤流量累积值存储到预设的存储器中；
 1	分	_	VERB	_	_	3	mod	_	ExtPos=ADV|SpaceAfter=No
 2	别	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	将	_	ADV	_	_	0	root	_	SpaceAfter=No
@@ -858,10 +858,10 @@
 40	器	_	NOUN	_	_	41	comp	_	ExtPos=NOUN|SpaceAfter=No
 41	中	_	PART	_	_	34	comp	_	ExtPos=PART|SpaceAfter=No
 42	；	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00129|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 获取预设时长的发电机功率累积值和燃煤流量累积值；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00129
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 获取预设时长的发电机功率累积值和燃煤流量累积值；
 1	获	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 2	取	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	预	_	ADV	_	_	4	mod:m	_	SpaceAfter=No
@@ -886,10 +886,10 @@
 22	积	_	VERB	_	_	21	conj:m	_	SpaceAfter=No
 23	值	_	NOUN	_	_	15	conj	_	ExtPos=NOUN|SpaceAfter=No
 24	；	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00130|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 依据所述预设时长的发电机功率累积值和燃煤流量累积值，计算煤电比；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00130
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 依据所述预设时长的发电机功率累积值和燃煤流量累积值，计算煤电比；
 1	依	_	ADP	_	_	27	mod	_	ExtPos=ADP|SpaceAfter=No
 2	据	_	ADP	_	_	1	conj:m	_	SpaceAfter=No
 3	所	_	PART	_	_	17	mod	_	ExtPos=ADJ|SpaceAfter=No
@@ -922,10 +922,10 @@
 30	电	_	NOUN	_	_	29	conj:m	_	SpaceAfter=No
 31	比	_	NOUN	_	_	27	comp	_	ExtPos=NOUN|SpaceAfter=No
 32	；	_	PUNCT	_	_	27	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00131|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 依据所述煤电比对当前燃煤热值进行修正。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00131
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 依据所述煤电比对当前燃煤热值进行修正。
 1	依	_	ADP	_	_	8	mod	_	ExtPos=ADP|SpaceAfter=No
 2	据	_	ADP	_	_	1	conj:m	_	SpaceAfter=No
 3	所	_	PART	_	_	7	mod	_	ExtPos=ADJ|SpaceAfter=No
@@ -945,10 +945,10 @@
 17	修	_	VERB	_	_	15	comp	_	ExtPos=VERB|SpaceAfter=No
 18	正	_	ADJ	_	_	17	comp:m	_	SpaceAfter=No
 19	。	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00132|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 2.根据权利要求1所述的方法，其特征在于，所述分别对所述发电机功率和燃煤流量进行积分累积运算，得到当前时刻的发电机功率累积值和当前时刻的燃煤流量累积值中，对所述发电机功率进行积分累积运算，得到发电机功率累积值，包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00132
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 2.根据权利要求1所述的方法，其特征在于，所述分别对所述发电机功率和燃煤流量进行积分累积运算，得到当前时刻的发电机功率累积值和当前时刻的燃煤流量累积值中，对所述发电机功率进行积分累积运算，得到发电机功率累积值，包括：
 1	2.	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
 2	根	_	ADV	_	_	3	mod:m	_	SpaceAfter=No
 3	据	_	VERB	_	_	9	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -1056,10 +1056,10 @@
 105	包	_	VERB	_	_	38	parataxis	_	ExtPos=VERB|SpaceAfter=No
 106	括	_	VERB	_	_	105	conj:m	_	SpaceAfter=No
 107	：	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00134|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 判断所述第一发电机功率累积值是否超过了预设的第一阈值，并判断所述第二发电机功率是否超过了预设的第二阈值；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00134
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 判断所述第一发电机功率累积值是否超过了预设的第一阈值，并判断所述第二发电机功率是否超过了预设的第二阈值；
 1	判	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 2	断	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	所	_	PART	_	_	14	mod	_	ExtPos=ADJ|SpaceAfter=No
@@ -1112,10 +1112,10 @@
 50	阈	_	NOUN	_	_	51	mod:m	_	SpaceAfter=No
 51	值	_	NOUN	_	_	42	comp	_	ExtPos=NOUN|SpaceAfter=No
 52	；	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00135|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 若所述第一发电机功率累积值超过了预设的第一阈值，将所述第一积分运算器中的第一发电机功率累积值清零，并重新对所述发电机功率进行积分累积运算；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00135
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 若所述第一发电机功率累积值超过了预设的第一阈值，将所述第一积分运算器中的第一发电机功率累积值清零，并重新对所述发电机功率进行积分累积运算；
 1	若	_	SCONJ	_	_	25	cc	_	SpaceAfter=No
 2	所	_	PART	_	_	13	mod	_	ExtPos=ADJ|SpaceAfter=No
 3	述	_	VERB	_	_	2	comp:m	_	SpaceAfter=No
@@ -1185,10 +1185,10 @@
 67	运	_	VERB	_	_	61	comp	_	ExtPos=VERB|SpaceAfter=No
 68	算	_	VERB	_	_	67	comp:m	_	SpaceAfter=No
 69	；	_	PUNCT	_	_	25	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00137|SpaceAfter=No
-# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003|SpaceAfter=No
-# text = 从所述第一积分运算器和第二积分运算器中确定主积分运算器，主积分运算器中得到的积分运算结果为当前时刻的发电机功率累积值。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00137
+# patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
+# text = 从所述第一积分运算器和第二积分运算器中确定主积分运算器，主积分运算器中得到的积分运算结果为当前时刻的发电机功率累积值。
 1	从	_	ADP	_	_	21	mod	_	SpaceAfter=No
 2	所	_	PART	_	_	10	mod	_	ExtPos=ADJ|SpaceAfter=No
 3	述	_	VERB	_	_	2	comp:m	_	SpaceAfter=No
@@ -1248,10 +1248,10 @@
 57	积	_	VERB	_	_	56	conj:m	_	SpaceAfter=No
 58	值	_	NOUN	_	_	45	comp	_	ExtPos=NOUN|SpaceAfter=No
 59	。	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00138|SpaceAfter=No
-# patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L|SpaceAfter=No
-# text = 1.一种电子地图索引方法，其特征在于，包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00138
+# patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L
+# text = 1.一种电子地图索引方法，其特征在于，包括：
 1	1.	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
 2	一	_	NUM	_	_	3	mod:m	_	SpaceAfter=No
 3	种	_	NUM	_	_	8	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -1273,10 +1273,10 @@
 19	包	_	VERB	_	_	17	comp	_	ExtPos=VERB|SpaceAfter=No
 20	括	_	VERB	_	_	19	conj:m	_	SpaceAfter=No
 21	：	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00139|SpaceAfter=No
-# patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L|SpaceAfter=No
-# text = 根据用户的操作指令，在图层界面上显示业务数据显示区，所述业务数据显示区显示所述图层界面所对应的应用的业务数据项，当所述业务数据项被选中时，在所述图层界面上显示所述业务数据项对应的兴趣点；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00139
+# patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L
+# text = 根据用户的操作指令，在图层界面上显示业务数据显示区，所述业务数据显示区显示所述图层界面所对应的应用的业务数据项，当所述业务数据项被选中时，在所述图层界面上显示所述业务数据项对应的兴趣点；
 1	根	_	ADV	_	_	2	mod:m	_	SpaceAfter=No
 2	据	_	ADP	_	_	17	mod	_	ExtPos=ADP|SpaceAfter=No
 3	用	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -1370,10 +1370,10 @@
 91	趣	_	NOUN	_	_	90	conj:m	_	SpaceAfter=No
 92	点	_	NOUN	_	_	78	comp	_	ExtPos=NOUN|SpaceAfter=No
 93	；	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00140|SpaceAfter=No
-# patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L|SpaceAfter=No
-# text = 其中，所述图层界面显示在基础地图的上方。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00140
+# patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L
+# text = 其中，所述图层界面显示在基础地图的上方。
 1	其	_	PRON	_	_	2	comp:m	_	SpaceAfter=No
 2	中	_	PART	_	_	10	mod	_	ExtPos=ADP|SpaceAfter=No
 3	，	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -1394,10 +1394,10 @@
 18	上	_	PART	_	_	19	mod:m	_	SpaceAfter=No
 19	方	_	NOUN	_	_	12	comp	_	ExtPos=NOUN|SpaceAfter=No
 20	。	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00141|SpaceAfter=No
-# patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L|SpaceAfter=No
-# text = 2.根据权利要求1所述的方法，其特征在于，所述根据用户的操作指令，在图层界面上显示业务数据显示区，包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00141
+# patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L
+# text = 2.根据权利要求1所述的方法，其特征在于，所述根据用户的操作指令，在图层界面上显示业务数据显示区，包括：
 1	2.	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
 2	根	_	ADV	_	_	3	mod:m	_	SpaceAfter=No
 3	据	_	VERB	_	_	9	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -1449,10 +1449,10 @@
 49	包	_	VERB	_	_	39	parataxis	_	ExtPos=VERB|SpaceAfter=No
 50	括	_	VERB	_	_	49	conj:m	_	SpaceAfter=No
 51	：	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00142|SpaceAfter=No
-# patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L|SpaceAfter=No
-# text = 响应于来自用户的显示业务数据显示区的操作指令，在所述图层界面上显示所述业务数据显示区。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00142
+# patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L
+# text = 响应于来自用户的显示业务数据显示区的操作指令，在所述图层界面上显示所述业务数据显示区。
 1	响	_	VERB	_	_	32	mod	_	ExtPos=VERB|SpaceAfter=No
 2	应	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	于	_	ADP	_	_	1	comp	_	SpaceAfter=No
@@ -1496,10 +1496,10 @@
 41	示	_	VERB	_	_	40	conj:m	_	SpaceAfter=No
 42	区	_	NOUN	_	_	32	comp	_	ExtPos=NOUN|SpaceAfter=No
 43	。	_	PUNCT	_	_	32	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00143|SpaceAfter=No
-# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I|SpaceAfter=No
-# text = 1.一种相似用户识别方法，其特征在于，包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00143
+# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
+# text = 1.一种相似用户识别方法，其特征在于，包括：
 1	1.	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
 2	一	_	NUM	_	_	3	mod:m	_	SpaceAfter=No
 3	种	_	NUM	_	_	10	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -1521,10 +1521,10 @@
 19	包	_	VERB	_	_	17	comp	_	ExtPos=VERB|SpaceAfter=No
 20	括	_	VERB	_	_	19	conj:m	_	SpaceAfter=No
 21	：	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00144|SpaceAfter=No
-# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I|SpaceAfter=No
-# text = 提取用户通信行为发生的位置和时间；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00144
+# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
+# text = 提取用户通信行为发生的位置和时间；
 1	提	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 2	取	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	用	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -1542,10 +1542,10 @@
 15	时	_	NOUN	_	_	12	conj	_	ExtPos=NOUN|SpaceAfter=No
 16	间	_	NOUN	_	_	15	conj:m	_	SpaceAfter=No
 17	；	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00145|SpaceAfter=No
-# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I|SpaceAfter=No
-# text = 根据用户在预定时间段内通信行为发生的位置和时间计算用户相对于基站的基站常用指数；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00145
+# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
+# text = 根据用户在预定时间段内通信行为发生的位置和时间计算用户相对于基站的基站常用指数；
 1	根	_	ADV	_	_	2	mod:m	_	SpaceAfter=No
 2	据	_	ADP	_	_	24	mod	_	ExtPos=ADP|SpaceAfter=No
 3	用	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -1586,10 +1586,10 @@
 38	指	_	VERB	_	_	39	mod:m	_	SpaceAfter=No
 39	数	_	NOUN	_	_	24	comp	_	ExtPos=NOUN|SpaceAfter=No
 40	；	_	PUNCT	_	_	24	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00146|SpaceAfter=No
-# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I|SpaceAfter=No
-# text = 根据用户相对于不同基站的所述基站常用指数提取预定数量基站，生成用户常用基站特征向量；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00146
+# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
+# text = 根据用户相对于不同基站的所述基站常用指数提取预定数量基站，生成用户常用基站特征向量；
 1	根	_	ADV	_	_	2	mod:m	_	SpaceAfter=No
 2	据	_	ADP	_	_	21	mod	_	ExtPos=ADP|SpaceAfter=No
 3	用	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -1632,10 +1632,10 @@
 40	向	_	VERB	_	_	41	mod:m	_	SpaceAfter=No
 41	量	_	NOUN	_	_	30	comp	_	ExtPos=NOUN|SpaceAfter=No
 42	；	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00147|SpaceAfter=No
-# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I|SpaceAfter=No
-# text = 根据不同用户的所述用户常用基站特征向量确定用户相似度指数。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00147
+# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
+# text = 根据不同用户的所述用户常用基站特征向量确定用户相似度指数。
 1	根	_	ADV	_	_	2	mod:m	_	SpaceAfter=No
 2	据	_	NOUN	_	_	21	mod	_	ExtPos=ADP|SpaceAfter=No
 3	不	_	ADV	_	_	4	mod:m	_	SpaceAfter=No
@@ -1665,10 +1665,10 @@
 27	指	_	VERB	_	_	28	mod:m	_	SpaceAfter=No
 28	数	_	NOUN	_	_	21	comp	_	ExtPos=NOUN|SpaceAfter=No
 29	。	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00148|SpaceAfter=No
-# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I|SpaceAfter=No
-# text = 2.根据权利要求1所述的方法，其特征在于，|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00148
+# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
+# text = 2.根据权利要求1所述的方法，其特征在于，
 1	2.	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
 2	根	_	ADV	_	_	3	mod:m	_	SpaceAfter=No
 3	据	_	VERB	_	_	9	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -1689,10 +1689,10 @@
 18	在	_	ADP	_	_	12	parataxis	_	ExtPos=VERB|SpaceAfter=No
 19	于	_	ADP	_	_	18	comp:m	_	SpaceAfter=No
 20	，	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00149|SpaceAfter=No
-# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I|SpaceAfter=No
-# text = 所述用户通信行为包括通话和/或连接数据网络；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00149
+# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
+# text = 所述用户通信行为包括通话和/或连接数据网络；
 1	所	_	PART	_	_	7	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	用	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -1715,10 +1715,10 @@
 20	网	_	NOUN	_	_	16	comp	_	ExtPos=NOUN|SpaceAfter=No
 21	络	_	NOUN	_	_	20	conj:m	_	SpaceAfter=No
 22	；	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00150|SpaceAfter=No
-# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I|SpaceAfter=No
-# text = 所述用户通信行为发生的位置为用户发生通信行为时交互的基站。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00150
+# patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
+# text = 所述用户通信行为发生的位置为用户发生通信行为时交互的基站。
 1	所	_	PART	_	_	7	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	用	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -1748,10 +1748,10 @@
 27	基	_	NOUN	_	_	28	mod:m	_	SpaceAfter=No
 28	站	_	NOUN	_	_	14	comp	_	ExtPos=NOUN|SpaceAfter=No
 29	。	_	PUNCT	_	_	14	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00151|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 1.一种触控显示面板，包括显示区和围绕所述显示区的非显示区，其特征在于，包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00151
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 1.一种触控显示面板，包括显示区和围绕所述显示区的非显示区，其特征在于，包括：
 1	1.	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
 2	一	_	NUM	_	_	3	mod:m	_	SpaceAfter=No
 3	种	_	NUM	_	_	9	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -1790,10 +1790,10 @@
 36	包	_	VERB	_	_	34	comp	_	ExtPos=VERB|SpaceAfter=No
 37	括	_	VERB	_	_	36	conj:m	_	SpaceAfter=No
 38	：	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00152|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 所述显示区设置有多个自容式触控位置检测电极；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00152
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 所述显示区设置有多个自容式触控位置检测电极；
 1	所	_	PART	_	_	5	mod	_	ExtPos=NOUN|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	显	_	VERB	_	_	5	mod:m	_	ExtPos=VERB|SpaceAfter=No
@@ -1816,10 +1816,10 @@
 20	电	_	NOUN	_	_	21	mod:m	_	SpaceAfter=No
 21	极	_	NOUN	_	_	8	comp	_	ExtPos=NOUN|SpaceAfter=No
 22	；	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00153|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 所述非显示区设置有驱动电路和多个压感触控单元；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00153
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 所述非显示区设置有驱动电路和多个压感触控单元；
 1	所	_	PART	_	_	6	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	非	_	ADV	_	_	4	mod	_	SpaceAfter=No
@@ -1843,10 +1843,10 @@
 21	单	_	ADJ	_	_	22	mod:m	_	SpaceAfter=No
 22	元	_	NUM	_	_	13	conj	_	ExtPos=NOUN|SpaceAfter=No
 23	；	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00154|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 所述显示区设置有多条触控位置走线；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00154
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 所述显示区设置有多条触控位置走线；
 1	所	_	PART	_	_	5	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	显	_	VERB	_	_	5	mod:m	_	ExtPos=VERB|SpaceAfter=No
@@ -1864,10 +1864,10 @@
 15	走	_	VERB	_	_	16	mod:m	_	SpaceAfter=No
 16	线	_	NOUN	_	_	8	comp	_	ExtPos=NOUN|SpaceAfter=No
 17	；	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00155|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 每个所述自容式触控位置检测电极与至少一条所述触控位置走线电连接；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00155
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 每个所述自容式触控位置检测电极与至少一条所述触控位置走线电连接；
 1	每	_	DET	_	_	2	mod:m	_	SpaceAfter=No
 2	个	_	NUM	_	_	15	mod	_	ExtPos=DET|SpaceAfter=No
 3	所	_	PART	_	_	15	mod	_	ExtPos=ADJ|SpaceAfter=No
@@ -1900,10 +1900,10 @@
 30	连	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 31	接	_	VERB	_	_	30	conj:m	_	SpaceAfter=No
 32	；	_	PUNCT	_	_	30	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00156|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 所述压感触控单元包括第一输入端、第二输入端、第一输出端和第二输出端；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00156
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 所述压感触控单元包括第一输入端、第二输入端、第一输出端和第二输出端；
 1	所	_	PART	_	_	8	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	压	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -1938,10 +1938,10 @@
 32	出	_	AUX	_	_	31	comp:m	_	SpaceAfter=No
 33	端	_	NOUN	_	_	21	conj	_	ExtPos=NOUN|SpaceAfter=No
 34	；	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00157|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 所述压感触控单元的第一输入端与第一电源信号线电连接，所述压感触控单元的第二输入端与第二电源信号线电连接，所述压感触控单元的第一输出端与第一压感检测信号线电连接，所述压感触控单元的第二输出端与第二压感检测信号线电连接；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00157
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 所述压感触控单元的第一输入端与第一电源信号线电连接，所述压感触控单元的第二输入端与第二电源信号线电连接，所述压感触控单元的第一输出端与第一压感检测信号线电连接，所述压感触控单元的第二输出端与第二压感检测信号线电连接；
 1	所	_	PART	_	_	8	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	压	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -2050,10 +2050,10 @@
 106	连	_	VERB	_	_	24	parataxis	_	ExtPos=VERB|SpaceAfter=No
 107	接	_	VERB	_	_	106	conj:m	_	SpaceAfter=No
 108	；	_	PUNCT	_	_	24	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00158|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 所述第一电源信号线和所述第二电源信号线用于向所述压感触控单元输入偏置电压信号；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00158
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 所述第一电源信号线和所述第二电源信号线用于向所述压感触控单元输入偏置电压信号；
 1	所	_	PART	_	_	9	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	第	_	NUM	_	_	9	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -2093,10 +2093,10 @@
 37	信	_	NOUN	_	_	38	mod:m	_	SpaceAfter=No
 38	号	_	NOUN	_	_	31	comp	_	ExtPos=NOUN|SpaceAfter=No
 39	；	_	PUNCT	_	_	20	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00159|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 所述第一压感检测信号线和所述第二压感检测信号线用于从所述压感触控单元输出压感检测信号；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00159
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 所述第一压感检测信号线和所述第二压感检测信号线用于从所述压感触控单元输出压感检测信号；
 1	所	_	PART	_	_	11	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	第	_	NUM	_	_	11	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -2140,10 +2140,10 @@
 41	信	_	NOUN	_	_	42	mod:m	_	SpaceAfter=No
 42	号	_	NOUN	_	_	35	comp	_	ExtPos=NOUN|SpaceAfter=No
 43	；	_	PUNCT	_	_	24	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00160|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 所述多条触控位置走线包括第一触控位置走线，所述第一触控位置走线复用为所述第一电源信号线、所述第二电源信号线、所述第一压感检测信号线和所述第二压感检测信号线中的至少一种；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00160
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 所述多条触控位置走线包括第一触控位置走线，所述第一触控位置走线复用为所述第一电源信号线、所述第二电源信号线、所述第一压感检测信号线和所述第二压感检测信号线中的至少一种；
 1	所	_	PART	_	_	10	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	多	_	NUM	_	_	4	mod:m	_	SpaceAfter=No
@@ -2228,10 +2228,10 @@
 82	一	_	NUM	_	_	83	mod:m	_	SpaceAfter=No
 83	种	_	NUM	_	_	43	conj	_	ExtPos=NUM|SpaceAfter=No
 84	；	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00161|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 所述第一触控位置走线通过开关选择器分别与所述驱动电路的触控位置检测接口以及对应的压感检测接口电连接；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00161
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 所述第一触控位置走线通过开关选择器分别与所述驱动电路的触控位置检测接口以及对应的压感检测接口电连接；
 1	所	_	PART	_	_	10	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	第	_	NUM	_	_	10	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -2282,10 +2282,10 @@
 48	连	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 49	接	_	VERB	_	_	48	conj:m	_	SpaceAfter=No
 50	；	_	PUNCT	_	_	48	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00162|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 在触控位置检测阶段，所述开关选择器控制所述第一触控位置走线与所述驱动电路的触控位置检测接口电连接；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00162
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 在触控位置检测阶段，所述开关选择器控制所述第一触控位置走线与所述驱动电路的触控位置检测接口电连接；
 1	在	_	ADP	_	_	18	mod	_	SpaceAfter=No
 2	触	_	VERB	_	_	3	mod:m	_	SpaceAfter=No
 3	控	_	VERB	_	_	4	mod	_	ExtPos=ADJ|SpaceAfter=No
@@ -2335,10 +2335,10 @@
 47	连	_	VERB	_	_	18	comp	_	ExtPos=VERB|SpaceAfter=No
 48	接	_	VERB	_	_	47	conj:m	_	SpaceAfter=No
 49	；	_	PUNCT	_	_	18	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00163|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 在压力检测阶段，所述开关选择器控制所述第一触控位置走线与对应的所述压感检测接口电连接。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00163
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 在压力检测阶段，所述开关选择器控制所述第一触控位置走线与对应的所述压感检测接口电连接。
 1	在	_	ADP	_	_	16	mod	_	SpaceAfter=No
 2	压	_	VERB	_	_	3	mod:m	_	SpaceAfter=No
 3	力	_	NOUN	_	_	4	mod	_	ExtPos=NOUN|SpaceAfter=No
@@ -2382,10 +2382,10 @@
 41	连	_	VERB	_	_	16	comp	_	ExtPos=VERB|SpaceAfter=No
 42	接	_	VERB	_	_	41	conj:m	_	SpaceAfter=No
 43	。	_	PUNCT	_	_	16	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00164|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 2.根据权利要求1所述的触控显示面板，其特征在于，所述第一触控位置走线复用为所述第一电源信号线；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00164
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 2.根据权利要求1所述的触控显示面板，其特征在于，所述第一触控位置走线复用为所述第一电源信号线；
 1	2.	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
 2	根	_	ADV	_	_	3	mod:m	_	SpaceAfter=No
 3	据	_	ADP	_	_	9	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -2433,10 +2433,10 @@
 45	号	_	NOUN	_	_	46	mod:m	_	ExtPos=NOUN|SpaceAfter=No
 46	线	_	NOUN	_	_	37	comp	_	ExtPos=NOUN|SpaceAfter=No
 47	；	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00165|SpaceAfter=No
-# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F|SpaceAfter=No
-# text = 所述压感检测接口包括地线接口，所述第一触控位置走线通过所述开关选择器分别与对应的所述触控位置检测接口以及所述地线接口电连接。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00165
+# patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
+# text = 所述压感检测接口包括地线接口，所述第一触控位置走线通过所述开关选择器分别与对应的所述触控位置检测接口以及所述地线接口电连接。
 1	所	_	PART	_	_	8	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	ADV	_	_	1	comp:m	_	SpaceAfter=No
 3	压	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -2499,10 +2499,10 @@
 60	连	_	VERB	_	_	9	parataxis	_	ExtPos=VERB|SpaceAfter=No
 61	接	_	VERB	_	_	60	conj:m	_	SpaceAfter=No
 62	。	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00166|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 1.面向XenServer平台的虚拟机内存取证方法，其特征是，包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00166
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 1.面向XenServer平台的虚拟机内存取证方法，其特征是，包括：
 1	1.	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
 2	面	_	VERB	_	_	7	comp	_	ExtPos=ADP|SpaceAfter=No
 3	向	_	ADP	_	_	2	comp:m	_	SpaceAfter=No
@@ -2528,10 +2528,10 @@
 23	包	_	VERB	_	_	21	comp	_	ExtPos=VERB|SpaceAfter=No
 24	括	_	VERB	_	_	23	conj:m	_	SpaceAfter=No
 25	：	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00168|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 获取宿主机的物理内存信息存为内存镜像文件；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00168
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 获取宿主机的物理内存信息存为内存镜像文件；
 1	获	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 2	取	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	宿	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -2553,10 +2553,10 @@
 19	文	_	NOUN	_	_	14	comp	_	ExtPos=NOUN|SpaceAfter=No
 20	件	_	NUM	_	_	19	comp:m	_	SpaceAfter=No
 21	；	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00170|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 获取宿主机中的内核符号表文件；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00170
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 获取宿主机中的内核符号表文件；
 1	获	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 2	取	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	宿	_	VERB	_	_	4	mod:m	_	SpaceAfter=No
@@ -2572,10 +2572,10 @@
 13	文	_	NOUN	_	_	1	comp	_	ExtPos=NOUN|SpaceAfter=No
 14	件	_	NUM	_	_	13	comp:m	_	SpaceAfter=No
 15	；	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00171|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 所述内核符号表文件，包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00171
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 所述内核符号表文件，包括：
 1	所	_	PART	_	_	8	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	内	_	ADJ	_	_	4	mod:m	_	SpaceAfter=No
@@ -2589,10 +2589,10 @@
 11	包	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 12	括	_	VERB	_	_	11	conj:m	_	SpaceAfter=No
 13	：	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00172|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = vmcoreinfo_data的值和paddr_vmcoreinfo_xen的值；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00172
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = vmcoreinfo_data的值和paddr_vmcoreinfo_xen的值；
 1	vmcoreinfo_data	_	PROPN	_	_	2	comp	_	SpaceAfter=No
 2	的	_	PART	_	_	3	mod	_	SpaceAfter=No
 3	值	_	NOUN	_	_	0	root	_	SpaceAfter=No
@@ -2601,10 +2601,10 @@
 6	的	_	PART	_	_	7	mod	_	SpaceAfter=No
 7	值	_	NOUN	_	_	3	conj	_	SpaceAfter=No
 8	；	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00174|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 从内存镜像文件中搜索vmcoreinfo_data内容；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00174
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 从内存镜像文件中搜索vmcoreinfo_data内容；
 1	从	_	ADP	_	_	9	mod	_	SpaceAfter=No
 2	内	_	ADJ	_	_	3	mod:m	_	SpaceAfter=No
 3	存	_	NOUN	_	_	6	mod	_	ExtPos=NOUN|SpaceAfter=No
@@ -2619,10 +2619,10 @@
 12	内	_	ADJ	_	_	13	mod:m	_	SpaceAfter=No
 13	容	_	NOUN	_	_	9	comp	_	ExtPos=NOUN|SpaceAfter=No
 14	；	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00175|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 将vmcoreinfo_data>中获取的vmcoreinfo_data的值进行对比，获取到这两个值的差值，即为DIRECTMAP_VIRT_START的值；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00175
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 将vmcoreinfo_data>中获取的vmcoreinfo_data的值进行对比，获取到这两个值的差值，即为DIRECTMAP_VIRT_START的值；
 1	将	_	ADP	_	_	0	root	_	SpaceAfter=No
 2	vmcoreinfo_data>	_	PROPN	_	_	3	comp	_	SpaceAfter=No
 3	中	_	PART	_	_	4	mod	_	SpaceAfter=No
@@ -2654,10 +2654,10 @@
 29	的	_	PART	_	_	30	mod	_	SpaceAfter=No
 30	值	_	NOUN	_	_	24	appos	_	SpaceAfter=No
 31	；	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00177|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 在内核符号表文件中搜索获取paddr_vmcoreinfo_xen的值，将paddr_vmcoreinfo_xen的值和DIRECTMAP_VIRT_START的值进行做差运算，得到paddr_vmcoreinfo_xen的物理地址，根据paddr_vmcoreinfo_xen的物理地址在内存镜像文件中指向的值获取到vmcoreinfo_xen内容的物理地址；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00177
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 在内核符号表文件中搜索获取paddr_vmcoreinfo_xen的值，将paddr_vmcoreinfo_xen的值和DIRECTMAP_VIRT_START的值进行做差运算，得到paddr_vmcoreinfo_xen的物理地址，根据paddr_vmcoreinfo_xen的物理地址在内存镜像文件中指向的值获取到vmcoreinfo_xen内容的物理地址；
 1	在	_	ADP	_	_	10	mod	_	SpaceAfter=No
 2	内	_	ADJ	_	_	3	mod:m	_	SpaceAfter=No
 3	核	_	NOUN	_	_	7	mod	_	ExtPos=NOUN|SpaceAfter=No
@@ -2731,10 +2731,10 @@
 71	地	_	NOUN	_	_	72	mod:m	_	SpaceAfter=No
 72	址	_	NOUN	_	_	62	comp	_	ExtPos=NOUN|SpaceAfter=No
 73	；	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00179|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 根据vmcoreinfo_xen内容的物理地址获取vmcoreinfo_xen的内容，从中解析出内核符号的虚拟地址domain_list和pgd_l4；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00179
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 根据vmcoreinfo_xen内容的物理地址获取vmcoreinfo_xen的内容，从中解析出内核符号的虚拟地址domain_list和pgd_l4；
 1	根	_	ADV	_	_	2	mod:m	_	SpaceAfter=No
 2	据	_	VERB	_	_	11	mod	_	ExtPos=ADP|SpaceAfter=No
 3	vmcoreinfo_xen	_	PROPN	_	_	5	mod	_	SpaceAfter=No
@@ -2769,10 +2769,10 @@
 32	domain_list	_	PROPN	_	_	31	appos	_	SpaceAfter=No
 33	和	_	CCONJ	_	_	34	cc	_	SpaceAfter=No
 34	pgd_l4；	_	PROPN	_	_	32	conj	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00180|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 其中，domain_list指向虚拟机所对应的domain结构体；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00180
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 其中，domain_list指向虚拟机所对应的domain结构体；
 1	其	_	PRON	_	_	2	comp:m	_	SpaceAfter=No
 2	中	_	PART	_	_	5	mod	_	ExtPos=ADP|SpaceAfter=No
 3	，	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -2791,10 +2791,10 @@
 16	构	_	VERB	_	_	15	conj:m	_	SpaceAfter=No
 17	体	_	NOUN	_	_	6	comp	_	ExtPos=NOUN|SpaceAfter=No
 18	；	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00181|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = pgd_l4指向转换domain结构体中各虚拟地址需要的页目录基地址；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00181
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = pgd_l4指向转换domain结构体中各虚拟地址需要的页目录基地址；
 1	pgd_l4	_	PROPN	_	_	2	subj	_	SpaceAfter=No
 2	指	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 3	向	_	ADP	_	_	2	comp:m	_	SpaceAfter=No
@@ -2820,10 +2820,10 @@
 23	地	_	NOUN	_	_	24	mod:m	_	SpaceAfter=No
 24	址	_	NOUN	_	_	3	comp	_	ExtPos=NOUN|SpaceAfter=No
 25	；	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00185|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 根据pgd_l4物理地址对domain_list进行地址转换，获取domain_list指向内容对应domain结构体地址；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00185
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 根据pgd_l4物理地址对domain_list进行地址转换，获取domain_list指向内容对应domain结构体地址；
 1	根	_	ADV	_	_	2	mod:m	_	SpaceAfter=No
 2	据	_	VERB	_	_	10	mod	_	ExtPos=ADP|SpaceAfter=No
 3	pgd_l4	_	PROPN	_	_	7	mod	_	SpaceAfter=No
@@ -2856,10 +2856,10 @@
 30	地	_	NOUN	_	_	31	mod:m	_	SpaceAfter=No
 31	址	_	NOUN	_	_	17	comp	_	ExtPos=NOUN|SpaceAfter=No
 32	；	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00187|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 根据domain、vcpu、ach_vcpu、hvm_vcpu、arch_vmx_struct结构体之间的关系来获取虚拟机对应的vmcs_struct结构体；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00187
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 根据domain、vcpu、ach_vcpu、hvm_vcpu、arch_vmx_struct结构体之间的关系来获取虚拟机对应的vmcs_struct结构体；
 1	根	_	ADV	_	_	2	mod:m	_	SpaceAfter=No
 2	据	_	VERB	_	_	20	mod	_	ExtPos=ADP|SpaceAfter=No
 3	domain	_	PROPN	_	_	16	comp	_	SpaceAfter=No
@@ -2893,10 +2893,10 @@
 31	构	_	VERB	_	_	30	conj:m	_	SpaceAfter=No
 32	体	_	NOUN	_	_	21	comp	_	ExtPos=NOUN|SpaceAfter=No
 33	；	_	PUNCT	_	_	20	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00189|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 从vmcs_struct结构体中获取ept指针和guest cr3；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00189
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 从vmcs_struct结构体中获取ept指针和guest cr3；
 1	从	_	ADP	_	_	7	mod	_	SpaceAfter=No
 2	vmcs_struct	_	PROPN	_	_	5	mod	_	SpaceAfter=No
 3	结	_	VERB	_	_	5	mod:m	_	ExtPos=NOUN|SpaceAfter=No
@@ -2911,10 +2911,10 @@
 12	和	_	CCONJ	_	_	13	cc	_	SpaceAfter=No
 13	guest	_	PROPN	_	_	11	conj	_	ExtPos=NOUN|SpaceAfter=No
 14	cr3；	_	PROPN	_	_	13	goeswith	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00190|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 实现虚拟机物理地址的地址转换；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00190
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 实现虚拟机物理地址的地址转换；
 1	实	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 2	现	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	虚	_	ADV	_	_	4	mod:m	_	SpaceAfter=No
@@ -2930,10 +2930,10 @@
 13	转	_	VERB	_	_	1	comp	_	ExtPos=VERB|SpaceAfter=No
 14	换	_	VERB	_	_	13	conj:m	_	SpaceAfter=No
 15	；	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00192|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 获取到虚拟机物理内存内容后，进行虚拟机操作系统版本的判定；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00192
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 获取到虚拟机物理内存内容后，进行虚拟机操作系统版本的判定；
 1	获	_	VERB	_	_	13	comp	_	ExtPos=VERB|SpaceAfter=No
 2	取	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	到	_	AUX	_	_	1	comp	_	SpaceAfter=No
@@ -2963,10 +2963,10 @@
 27	判	_	VERB	_	_	15	comp	_	ExtPos=VERB|SpaceAfter=No
 28	定	_	VERB	_	_	27	conj:m	_	SpaceAfter=No
 29	；	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00193|SpaceAfter=No
-# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G|SpaceAfter=No
-# text = 虚拟机操作系统确定后，根据虚拟机操作系统版本的不同使用相应的内存分析方法进行物理内存分析。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00193
+# patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
+# text = 虚拟机操作系统确定后，根据虚拟机操作系统版本的不同使用相应的内存分析方法进行物理内存分析。
 1	虚	_	ADJ	_	_	2	mod:m	_	SpaceAfter=No
 2	拟	_	VERB	_	_	3	mod:m	_	ExtPos=ADJ|SpaceAfter=No
 3	机	_	NOUN	_	_	6	mod	_	ExtPos=NOUN|SpaceAfter=No
@@ -3012,10 +3012,10 @@
 43	分	_	VERB	_	_	37	comp	_	ExtPos=VERB|SpaceAfter=No
 44	析	_	VERB	_	_	43	conj:m	_	SpaceAfter=No
 45	。	_	PUNCT	_	_	26	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00197|SpaceAfter=No
-# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000|SpaceAfter=No
-# text = 1.一种数据快照创建的方法，其特征在于，包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00197
+# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
+# text = 1.一种数据快照创建的方法，其特征在于，包括：
 1	1.	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
 2	一	_	NUM	_	_	3	mod:m	_	SpaceAfter=No
 3	种	_	NUM	_	_	11	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -3038,10 +3038,10 @@
 20	包	_	VERB	_	_	18	comp	_	ExtPos=VERB|SpaceAfter=No
 21	括	_	VERB	_	_	20	conj:m	_	SpaceAfter=No
 22	：	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00198|SpaceAfter=No
-# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000|SpaceAfter=No
-# text = 将源数据添加第一时间戳，并实时同步到第一镜像；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00198
+# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
+# text = 将源数据添加第一时间戳，并实时同步到第一镜像；
 1	将	_	ADP	_	_	0	root	_	SpaceAfter=No
 2	源	_	ADJ	_	_	4	mod	_	SpaceAfter=No
 3	数	_	NOUN	_	_	4	mod:m	_	SpaceAfter=No
@@ -3065,10 +3065,10 @@
 21	镜	_	NOUN	_	_	22	mod:m	_	SpaceAfter=No
 22	像	_	NOUN	_	_	18	comp	_	ExtPos=NOUN|SpaceAfter=No
 23	；	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00199|SpaceAfter=No
-# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000|SpaceAfter=No
-# text = 当所述第一镜像中的数据的第一时间戳小于等于创建快照的第二时间戳时，将所述第一镜像中的数据同步到第二镜像，并将所述第二镜像的数据复制至快照数据存放区；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00199
+# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
+# text = 当所述第一镜像中的数据的第一时间戳小于等于创建快照的第二时间戳时，将所述第一镜像中的数据同步到第二镜像，并将所述第二镜像的数据复制至快照数据存放区；
 1	当	_	ADP	_	_	32	comp	_	SpaceAfter=No
 2	所	_	PART	_	_	7	mod	_	ExtPos=ADJ|SpaceAfter=No
 3	述	_	VERB	_	_	2	comp:m	_	SpaceAfter=No
@@ -3143,10 +3143,10 @@
 72	放	_	VERB	_	_	71	conj:m	_	SpaceAfter=No
 73	区	_	NOUN	_	_	66	comp	_	ExtPos=NOUN|SpaceAfter=No
 74	；	_	PUNCT	_	_	34	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00200|SpaceAfter=No
-# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000|SpaceAfter=No
-# text = 当所述第一镜像中的数据的第一时间戳大于创建快照的第二时间戳时，停止将所述第一镜像中的数据同步到第二镜像；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00200
+# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
+# text = 当所述第一镜像中的数据的第一时间戳大于创建快照的第二时间戳时，停止将所述第一镜像中的数据同步到第二镜像；
 1	当	_	ADP	_	_	30	comp	_	SpaceAfter=No
 2	所	_	PART	_	_	7	mod	_	ExtPos=ADJ|SpaceAfter=No
 3	述	_	VERB	_	_	2	comp:m	_	SpaceAfter=No
@@ -3199,10 +3199,10 @@
 50	镜	_	NOUN	_	_	51	mod:m	_	SpaceAfter=No
 51	像	_	NOUN	_	_	47	comp	_	ExtPos=NOUN|SpaceAfter=No
 52	；	_	PUNCT	_	_	32	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00201|SpaceAfter=No
-# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000|SpaceAfter=No
-# text = 为所述快照数据存放区的数据建立快照。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00201
+# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
+# text = 为所述快照数据存放区的数据建立快照。
 1	为	_	ADP	_	_	14	mod	_	SpaceAfter=No
 2	所	_	PART	_	_	10	mod	_	ExtPos=ADJ|SpaceAfter=No
 3	述	_	VERB	_	_	2	comp:m	_	SpaceAfter=No
@@ -3221,10 +3221,10 @@
 16	快	_	ADV	_	_	17	mod:m	_	SpaceAfter=No
 17	照	_	VERB	_	_	14	comp	_	ExtPos=NOUN|SpaceAfter=No
 18	。	_	PUNCT	_	_	14	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00202|SpaceAfter=No
-# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000|SpaceAfter=No
-# text = 2.根据权利要求1所述的方法，其特征在于，所述将源数据添加第一时间戳，并实时同步到第一镜像之前，还包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00202
+# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
+# text = 2.根据权利要求1所述的方法，其特征在于，所述将源数据添加第一时间戳，并实时同步到第一镜像之前，还包括：
 1	2.	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
 2	根	_	ADV	_	_	3	mod:m	_	SpaceAfter=No
 3	据	_	VERB	_	_	9	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -3276,10 +3276,10 @@
 49	包	_	VERB	_	_	19	comp	_	ExtPos=VERB|SpaceAfter=No
 50	括	_	VERB	_	_	49	conj:m	_	SpaceAfter=No
 51	：	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00203|SpaceAfter=No
-# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000|SpaceAfter=No
-# text = 判断源数据是否需要创建快照；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00203
+# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
+# text = 判断源数据是否需要创建快照；
 1	判	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 2	断	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	源	_	ADJ	_	_	5	mod	_	SpaceAfter=No
@@ -3294,10 +3294,10 @@
 12	快	_	ADV	_	_	13	mod:m	_	SpaceAfter=No
 13	照	_	VERB	_	_	10	comp	_	ExtPos=NOUN|SpaceAfter=No
 14	；	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00204|SpaceAfter=No
-# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000|SpaceAfter=No
-# text = 若是，则继续执行所述将源数据添加第一时间戳，并实时同步到第一镜像的步骤；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00204
+# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
+# text = 若是，则继续执行所述将源数据添加第一时间戳，并实时同步到第一镜像的步骤；
 1	若	_	SCONJ	_	_	5	mod	_	ExtPos=SCONJ|SpaceAfter=No
 2	是	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
@@ -3334,10 +3334,10 @@
 34	步	_	VERB	_	_	7	comp	_	ExtPos=NOUN|SpaceAfter=No
 35	骤	_	VERB	_	_	34	conj:m	_	SpaceAfter=No
 36	；	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00205|SpaceAfter=No
-# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000|SpaceAfter=No
-# text = 若否，则将源数据实时同步到第一镜像。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00205
+# patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
+# text = 若否，则将源数据实时同步到第一镜像。
 1	若	_	SCONJ	_	_	5	mod	_	ExtPos=VERB|SpaceAfter=No
 2	否	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
@@ -3356,10 +3356,10 @@
 16	镜	_	NOUN	_	_	17	mod:m	_	SpaceAfter=No
 17	像	_	VERB	_	_	13	comp	_	ExtPos=NOUN|SpaceAfter=No
 18	。	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00206|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = 1.一种客车结构优化方法，其特征在于，所述客车结构优化方法包括如下步骤：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00206
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = 1.一种客车结构优化方法，其特征在于，所述客车结构优化方法包括如下步骤：
 1	1.	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
 2	一	_	NUM	_	_	3	mod:m	_	SpaceAfter=No
 3	种	_	NUM	_	_	10	mod	_	ExtPos=NUM|SpaceAfter=No
@@ -3395,10 +3395,10 @@
 33	步	_	VERB	_	_	29	comp	_	ExtPos=NOUN|SpaceAfter=No
 34	骤	_	VERB	_	_	33	conj:m	_	SpaceAfter=No
 35	：	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00207|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S1、建立整车梁单元初始模型，对其进行模态分析，并与同类型车的模态进行对比；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00207
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S1、建立整车梁单元初始模型，对其进行模态分析，并与同类型车的模态进行对比；
 1	S1	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
 3	建	_	VERB	_	_	1	appos	_	ExtPos=VERB|SpaceAfter=No
@@ -3436,10 +3436,10 @@
 35	对	_	ADJ	_	_	36	mod:m	_	SpaceAfter=No
 36	比	_	VERB	_	_	33	comp	_	ExtPos=VERB|SpaceAfter=No
 37	；	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00208|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S2、根据对比结果，建立拓扑壳单元模型，同时删除其中所有梁单元；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00208
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S2、根据对比结果，建立拓扑壳单元模型，同时删除其中所有梁单元；
 1	S2	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
 3	根	_	ADV	_	_	4	mod:m	_	SpaceAfter=No
@@ -3471,10 +3471,10 @@
 29	单	_	ADJ	_	_	30	mod:m	_	SpaceAfter=No
 30	元	_	NOUN	_	_	22	comp	_	ExtPos=NOUN|SpaceAfter=No
 31	；	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00209|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S3、基于所述拓扑壳单元模型，定义优化分析工况的弯曲工况以及扭转工况；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00209
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S3、基于所述拓扑壳单元模型，定义优化分析工况的弯曲工况以及扭转工况；
 1	S3	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
 3	基	_	VERB	_	_	15	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -3509,10 +3509,10 @@
 32	工	_	NOUN	_	_	33	mod:m	_	SpaceAfter=No
 33	况	_	NOUN	_	_	27	conj	_	ExtPos=NOUN|SpaceAfter=No
 34	；	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00210|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S4、基于所述拓扑壳单元模型，定义拓扑优化的边界条件和目标函数；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00210
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S4、基于所述拓扑壳单元模型，定义拓扑优化的边界条件和目标函数；
 1	S4	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
 3	基	_	VERB	_	_	15	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -3544,10 +3544,10 @@
 29	函	_	NOUN	_	_	30	mod:m	_	SpaceAfter=No
 30	数	_	NOUN	_	_	24	conj	_	ExtPos=NOUN|SpaceAfter=No
 31	；	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00211|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S5、根据步骤S4的优化结果，对初始的拓扑壳单元模型进行修改，获得优化后的第一整车梁单元模型；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00211
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S5、根据步骤S4的优化结果，对初始的拓扑壳单元模型进行修改，获得优化后的第一整车梁单元模型；
 1	S5	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	14	punct	_	SpaceAfter=No
 3	根	_	ADV	_	_	4	mod:m	_	SpaceAfter=No
@@ -3593,10 +3593,10 @@
 43	模	_	NOUN	_	_	44	mod:m	_	SpaceAfter=No
 44	型	_	NOUN	_	_	30	comp	_	ExtPos=NOUN|SpaceAfter=No
 45	；	_	PUNCT	_	_	14	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00212|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S6、按照整车参数配置表，将载荷作用到优化后的第一整车梁单元模型上；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00212
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S6、按照整车参数配置表，将载荷作用到优化后的第一整车梁单元模型上；
 1	S6	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
 3	按	_	VERB	_	_	13	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -3630,10 +3630,10 @@
 31	型	_	NOUN	_	_	32	comp	_	ExtPos=NOUN|SpaceAfter=No
 32	上	_	PART	_	_	18	comp	_	SpaceAfter=No
 33	；	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00213|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S7、基于所述优化后的第一整车梁单元模型，定义优化分析工况的弯曲工况以及扭转工况；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00213
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S7、基于所述优化后的第一整车梁单元模型，定义优化分析工况的弯曲工况以及扭转工况；
 1	S7	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
 3	基	_	VERB	_	_	21	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -3674,10 +3674,10 @@
 38	工	_	NOUN	_	_	39	mod:m	_	SpaceAfter=No
 39	况	_	NOUN	_	_	33	conj	_	ExtPos=NOUN|SpaceAfter=No
 40	；	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00214|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S8、定义尺寸优化的设计变量；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00214
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S8、定义尺寸优化的设计变量；
 1	S8	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
 3	定	_	VERB	_	_	1	appos	_	ExtPos=VERB|SpaceAfter=No
@@ -3692,10 +3692,10 @@
 12	变	_	VERB	_	_	13	mod:m	_	SpaceAfter=No
 13	量	_	NOUN	_	_	3	comp	_	ExtPos=NOUN|SpaceAfter=No
 14	；	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00215|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S9、根据定义的优化设计变量及设计规范，确定优化区域方钢规格，获得第二整车梁单元模型；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00215
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S9、根据定义的优化设计变量及设计规范，确定优化区域方钢规格，获得第二整车梁单元模型；
 1	S9	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
 3	根	_	ADV	_	_	4	mod:m	_	SpaceAfter=No
@@ -3738,10 +3738,10 @@
 40	模	_	NOUN	_	_	41	mod:m	_	SpaceAfter=No
 41	型	_	NOUN	_	_	31	conj	_	ExtPos=NOUN|SpaceAfter=No
 42	；	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00216|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S10、建立整车的壳单元模型，并按照整车参数配置表，把载荷作用到壳单元模型上；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00216
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S10、建立整车的壳单元模型，并按照整车参数配置表，把载荷作用到壳单元模型上；
 1	S10	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
 3	建	_	VERB	_	_	1	appos	_	ExtPos=VERB|SpaceAfter=No
@@ -3779,10 +3779,10 @@
 35	型	_	NOUN	_	_	36	comp	_	ExtPos=NOUN|SpaceAfter=No
 36	上	_	PART	_	_	30	comp	_	SpaceAfter=No
 37	；	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00217|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S11、基于所述整车的壳单元模型，定义优化分析工况的弯曲工况、扭转工况、转向工况以及制动工况；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00217
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S11、基于所述整车的壳单元模型，定义优化分析工况的弯曲工况、扭转工况、转向工况以及制动工况；
 1	S11	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	16	punct	_	SpaceAfter=No
 3	基	_	VERB	_	_	16	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -3828,10 +3828,10 @@
 43	工	_	NOUN	_	_	44	mod:m	_	SpaceAfter=No
 44	况	_	NOUN	_	_	38	conj	_	ExtPos=NOUN|SpaceAfter=No
 45	；	_	PUNCT	_	_	16	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00218|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = S12、对所述第二整车梁单元模型进行调整，确定最终结构优化方案。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00218
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = S12、对所述第二整车梁单元模型进行调整，确定最终结构优化方案。
 1	S12	_	X	_	_	0	root	_	SpaceAfter=No
 2	、	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
 3	对	_	ADP	_	_	15	mod	_	SpaceAfter=No
@@ -3862,10 +3862,10 @@
 28	方	_	NOUN	_	_	21	comp	_	ExtPos=NOUN|SpaceAfter=No
 29	案	_	NOUN	_	_	28	conj:m	_	SpaceAfter=No
 30	。	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00219|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = 2.根据权利要求1所述的客车结构优化方法，其特征在于，所述步骤S3中，所述弯曲工况包括：|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00219
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = 2.根据权利要求1所述的客车结构优化方法，其特征在于，所述步骤S3中，所述弯曲工况包括：
 1	2.	_	PUNCT	_	_	18	punct	_	SpaceAfter=No
 2	根	_	ADV	_	_	3	mod:m	_	SpaceAfter=No
 3	据	_	VERB	_	_	9	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -3908,10 +3908,10 @@
 40	包	_	VERB	_	_	25	comp	_	ExtPos=VERB|SpaceAfter=No
 41	括	_	VERB	_	_	40	conj:m	_	SpaceAfter=No
 42	：	_	PUNCT	_	_	18	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00220|SpaceAfter=No
-# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O|SpaceAfter=No
-# text = 约束前轮胎接地点的所有平动自由度，约束后轮胎除行驶方向的所有平动自由度，将客车的载荷按照整车的设计质心，均匀地作用到车身上。|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00220
+# patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
+# text = 约束前轮胎接地点的所有平动自由度，约束后轮胎除行驶方向的所有平动自由度，将客车的载荷按照整车的设计质心，均匀地作用到车身上。
 1	约	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 2	束	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	前	_	ADJ	_	_	5	mod	_	SpaceAfter=No
@@ -3974,10 +3974,10 @@
 60	身	_	NOUN	_	_	61	comp	_	ExtPos=NOUN|SpaceAfter=No
 61	上	_	PART	_	_	58	comp	_	SpaceAfter=No
 62	。	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00222|SpaceAfter=No
-# patent_id = CN102016000283925CN00001073296440AFULZH20171107CN003|SpaceAfter=No
-# text = 获取通过虚拟控件接收的在目标位置的输入的第一操作指令；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00222
+# patent_id = CN102016000283925CN00001073296440AFULZH20171107CN003
+# text = 获取通过虚拟控件接收的在目标位置的输入的第一操作指令；
 1	获	_	VERB	_	_	0	root	_	ExtPos=VERB|SpaceAfter=No
 2	取	_	VERB	_	_	1	conj:m	_	SpaceAfter=No
 3	通	_	VERB	_	_	9	mod	_	ExtPos=ADP|SpaceAfter=No
@@ -4005,10 +4005,10 @@
 25	指	_	NOUN	_	_	1	comp	_	ExtPos=NOUN|SpaceAfter=No
 26	令	_	NOUN	_	_	25	conj:m	_	SpaceAfter=No
 27	；	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00223|SpaceAfter=No
-# patent_id = CN102016000283925CN00001073296440AFULZH20171107CN003|SpaceAfter=No
-# text = 所述虚拟控件显示于当前界面，用于接收用于控制所述当前界面包含的图标移动的操作指令；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00223
+# patent_id = CN102016000283925CN00001073296440AFULZH20171107CN003
+# text = 所述虚拟控件显示于当前界面，用于接收用于控制所述当前界面包含的图标移动的操作指令；
 1	所	_	PART	_	_	6	mod	_	ExtPos=ADJ|SpaceAfter=No
 2	述	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	虚	_	ADJ	_	_	4	mod:m	_	SpaceAfter=No
@@ -4050,10 +4050,10 @@
 39	指	_	NOUN	_	_	17	comp	_	ExtPos=NOUN|SpaceAfter=No
 40	令	_	NOUN	_	_	39	conj:m	_	SpaceAfter=No
 41	；	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
-|SpaceAfter=No
-# sent_id = 1624582481.492965-696801_00239|SpaceAfter=No
-# patent_id = CN102017000851390CN00001076237870AFULZH20180123CN001|SpaceAfter=No
-# text = 在桌面的预设区域显示头像图标，所述头像图标为应用程序的未读消息的来源的头像；|SpaceAfter=No
+
+# sent_id = 1624582481.492965-696801_00239
+# patent_id = CN102017000851390CN00001076237870AFULZH20180123CN001
+# text = 在桌面的预设区域显示头像图标，所述头像图标为应用程序的未读消息的来源的头像；
 1	在	_	ADP	_	_	9	mod	_	SpaceAfter=No
 2	桌	_	NOUN	_	_	3	mod:m	_	SpaceAfter=No
 3	面	_	NOUN	_	_	4	comp	_	ExtPos=NOUN|SpaceAfter=No
