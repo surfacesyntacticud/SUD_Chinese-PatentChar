@@ -2910,7 +2910,7 @@
 11	针	_	NOUN	_	_	7	comp	_	ExtPos=NOUN|SpaceAfter=No
 12	和	_	CCONJ	_	_	13	cc	_	SpaceAfter=No
 13	guest	_	PROPN	_	_	11	conj	_	ExtPos=NOUN|SpaceAfter=No
-14	cr3；	_	PROPN	_	_	13	goeswith	_	SpaceAfter=No
+14	cr3；	_	PROPN	_	_	13	flat	_	SpaceAfter=No
 
 # sent_id = 1624582481.492965-696801_00190
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
