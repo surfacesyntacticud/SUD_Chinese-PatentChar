@@ -11,12 +11,12 @@ The syntactic analysis is originally done in SUD on the character level under th
 Data available since: UD v2.11
 License: CC BY-NC-SA 3.0
 Includes text: yes
-Genre: patent application claims
-Lemmas: NA
-UPOS: manual annotation
-XPOS: NA
-Features: manual annotation
-Relations: converted from a SUD annotation on the character level by Grew grammar rules
+Genre: legal
+Lemmas: not available
+UPOS: converted from manual
+XPOS: not available
+Features: converted from manual
+Relations: converted from manual
 Contributors: Li, Yixuan; Gerdes, Kim; Gillaume, Bruno
 Contributing: elsewhere
 Contact: li.yixuan727@gmail.com
