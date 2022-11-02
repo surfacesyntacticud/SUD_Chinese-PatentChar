@@ -196,7 +196,7 @@
 1	重	_	VERB	_	_	11	mod	_	ExtPos=VERB|SpaceAfter=No
 2	复	_	VERB	_	_	1	comp:m	_	SpaceAfter=No
 3	上	_	PART	_	_	4	mod:m	_	SpaceAfter=No
-4	述	_	VERB	_	_	11	mod:m	_	ExtPos=ADJ|SpaceAfter=No
+4	述	_	VERB	_	_	11	mod	_	ExtPos=ADJ|SpaceAfter=No
 5	第	_	NUM	_	_	9	mod	_	ExtPos=NUM|SpaceAfter=No
 6	一	_	NUM	_	_	5	comp:m	_	SpaceAfter=No
 7	网	_	NOUN	_	_	8	mod:m	_	SpaceAfter=No
