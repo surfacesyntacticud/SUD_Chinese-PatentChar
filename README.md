@@ -17,7 +17,7 @@ UPOS: manual annotation
 XPOS: NA
 Features: manual annotation
 Relations: converted from a SUD annotation on the character level by Grew grammar rules
-Contributors: Li, Yixuan
+Contributors: Li, Yixuan; Gerdes, Kim; Gillaume, Bruno
 Contributing: elsewhere
 Contact: li.yixuan727@gmail.com
 ===============================================================================
