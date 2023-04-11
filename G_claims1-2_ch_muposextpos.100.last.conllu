@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = 1624582481.492965-696801_00101
 # patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
 # text = 接收在轨卫星的遥测参数数据，根据关联关系模型计算遥测参数之间的互信息系数；
@@ -4092,3 +4093,4 @@
 36	头	_	NOUN	_	_	37	mod:m	_	SpaceAfter=No
 37	像	_	NOUN	_	_	22	comp	_	ExtPos=NOUN|SpaceAfter=No
 38	；	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
+
