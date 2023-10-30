@@ -1,8 +1,8 @@
 # global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__1
+# sent_id = zh_patentchar-sud-test__1
 # patent_id = CN102017000573680CN00001076219020AFULZH20180123CN00F
 # text = 1.一种压力传感器，所述压力传感器包括：
-1	1.	_	NUM	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NUM	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	压力	_	NOUN	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=yā_lì
@@ -14,7 +14,7 @@
 10	包括	_	VERB	_	_	5	parataxis	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 11	：	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__2
+# sent_id = zh_patentchar-sud-test__2
 # patent_id = CN102017000573680CN00001076219020AFULZH20180123CN00F
 # text = 第一导体，位于包括第一感测区和第二感测区的压力感测区中；
 1	第一	_	NUM	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
@@ -34,7 +34,7 @@
 15	中	_	NOUN	_	_	5	comp	_	Gloss=_|SpaceAfter=No|Translit=zhōng
 16	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__3
+# sent_id = zh_patentchar-sud-test__3
 # patent_id = CN102017000573680CN00001076219020AFULZH20180123CN00F
 # text = 第二导体，与所述第一导体间隔开，所述第二导体与所述第一导体形成电容，
 1	第二	_	NUM	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
@@ -58,7 +58,7 @@
 19	电容	_	NOUN	_	_	18	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=diàn_róng
 20	，	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__4
+# sent_id = zh_patentchar-sud-test__4
 # patent_id = CN102017000573680CN00001076219020AFULZH20180123CN00F
 # text = 所述第一导体包括：
 1	所述	_	ADJ	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -67,7 +67,7 @@
 4	包括	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 5	：	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__5
+# sent_id = zh_patentchar-sud-test__5
 # patent_id = CN102017000573680CN00001076219020AFULZH20180123CN00F
 # text = 第一导电部分，位于所述第一感测区中；
 1	第一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
@@ -82,7 +82,7 @@
 10	中	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhōng
 11	；	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__6
+# sent_id = zh_patentchar-sud-test__6
 # patent_id = CN102017000573680CN00001076219020AFULZH20180123CN00F
 # text = 第二导电部分，位于所述第二感测区中，
 1	第二	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
@@ -97,7 +97,7 @@
 10	中	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhōng
 11	，	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__7
+# sent_id = zh_patentchar-sud-test__7
 # patent_id = CN102017000573680CN00001076219020AFULZH20180123CN00F
 # text = 所述第二导电部分相对于所述第二感测区的面积比与所述第一导电部分相对于所述第一感测区的面积比不同。
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -127,73 +127,76 @@
 25	同	_	ADJ	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=tóng
 26	。	_	PUNCT	_	_	25	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__8
+# sent_id = zh_patentchar-sud-test__8
 # patent_id = CN102017000573680CN00001076219020AFULZH20180123CN00F
 # text = 2.根据权利要求1所述的压力传感器，其中，当将相同的压力施加到所述第一感测区和所述第二感测区中的每个时，所述第一导电部分与所述第二导体之间的距离的变化与所述第二导电部分与所述第二导体之间的距离的变化不同。
-1	2.	_	NUM	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
-2	根据	_	NOUN	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	权利	_	VERB	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
-4	要求	_	VERB	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
-5	1	_	NUM	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=1
-6	所述	_	VERB	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-7	的	_	PART	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-8	压力	_	NOUN	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=yā_lì
-9	传感器	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=chuán_gǎn_qì
-10	，	_	PUNCT	_	_	61	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-11	其中	_	NOUN	_	_	61	mod	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
-12	，	_	PUNCT	_	_	61	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-13	当	_	ADP	_	_	61	mod	_	Gloss=_|SpaceAfter=No|Translit=dāng
-14	将	_	PART	_	_	31	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiāng
-15	相同	_	NOUN	_	_	16	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xiāng_tóng
-16	的	_	PART	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-17	压力	_	NOUN	_	_	14	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yā_lì
-18	施加	_	VERB	_	_	14	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shī_jiā
-19	到	_	NOUN	_	_	18	comp:aux	_	Gloss=_|SpaceAfter=No|Translit=dào
-20	所述	_	VERB	_	_	22	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-21	第一	_	VERB	_	_	22	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
-22	感测区	_	NOUN	_	_	27	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=gǎn_cè_qū
-23	和	_	CCONJ	_	_	22	conj	_	Gloss=_|SpaceAfter=No|Translit=hé
-24	所述	_	VERB	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-25	第二	_	VERB	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
-26	感测区	_	NOUN	_	_	23	cc	_	Gloss=_|SpaceAfter=No|Translit=gǎn_cè_qū
-27	中	_	NOUN	_	_	28	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhōng
-28	的	_	PART	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-29	每	_	DET	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=měi
-30	个	_	NOUN	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=gè
-31	时	_	NOUN	_	_	61	mod	_	Gloss=_|SpaceAfter=No|Translit=shí
-32	，	_	PUNCT	_	_	61	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-33	所述	_	VERB	_	_	36	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-34	第一	_	VERB	_	_	36	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
-35	导电	_	VERB	_	_	36	mod	_	Gloss=_|SpaceAfter=No|Translit=dǎo_diàn
-36	部分	_	VERB	_	_	41	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_fēn
-37	与	_	CCONJ	_	_	36	conj	_	Gloss=_|SpaceAfter=No|Translit=yǔ
-38	所述	_	VERB	_	_	40	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-39	第二	_	VERB	_	_	40	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
-40	导体	_	NOUN	_	_	37	cc	_	Gloss=_|SpaceAfter=No|Translit=dǎo_tǐ
-41	之间	_	NOUN	_	_	42	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhī_jiān
-42	的	_	PART	_	_	43	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-43	距离	_	VERB	_	_	44	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jù_lí
-44	的	_	PART	_	_	45	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-45	变化	_	VERB	_	_	61	subj	_	Gloss=_|SpaceAfter=No|Translit=biàn_huà
-46	与	_	CCONJ	_	_	59	cc	_	Gloss=_|SpaceAfter=No|Translit=yǔ
-47	所述	_	VERB	_	_	50	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-48	第二	_	VERB	_	_	50	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
-49	导电	_	VERB	_	_	50	mod	_	Gloss=_|SpaceAfter=No|Translit=dǎo_diàn
-50	部分	_	VERB	_	_	55	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_fēn
-51	与	_	CCONJ	_	_	54	cc	_	Gloss=_|SpaceAfter=No|Translit=yǔ
-52	所述	_	VERB	_	_	54	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-53	第二	_	VERB	_	_	54	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
-54	导体	_	NOUN	_	_	50	conj	_	Gloss=_|SpaceAfter=No|Translit=dǎo_tǐ
-55	之间	_	NOUN	_	_	56	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhī_jiān
-56	的	_	PART	_	_	57	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-57	距离	_	VERB	_	_	58	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jù_lí
-58	的	_	PART	_	_	59	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-59	变化	_	VERB	_	_	45	conj	_	Gloss=_|SpaceAfter=No|Translit=biàn_huà
-60	不	_	ADV	_	_	61	mod	_	Gloss=_|SpaceAfter=No|Translit=bù
-61	同	_	ADJ	_	_	9	parataxis	_	Gloss=_|SpaceAfter=No|Translit=tóng
-62	。	_	NOUN	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=。
+1	2.	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	VERB	_	_	9	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jù
+4	权	_	NOUN	_	_	6	mod	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=quán
+5	利	_	NOUN	_	_	4	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+6	要	_	VERB	_	_	3	comp:obj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=yào
+7	求	_	VERB	_	_	6	conj@m	_	Gloss=_|SpaceAfter=No|Translit=qíu
+8	1	_	NUM	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=1
+9	所述	_	VERB	_	_	10	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+10	的	_	PART	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	压力	_	NOUN	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=yā_lì
+12	传感器	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=chuán_gǎn_qì
+13	，	_	PUNCT	_	_	64	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+14	其中	_	NOUN	_	_	64	mod	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
+15	，	_	PUNCT	_	_	64	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+16	当	_	ADP	_	_	64	mod	_	Gloss=_|SpaceAfter=No|Translit=dāng
+17	将	_	PART	_	_	34	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiāng
+18	相同	_	NOUN	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xiāng_tóng
+19	的	_	PART	_	_	20	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+20	压力	_	NOUN	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yā_lì
+21	施加	_	VERB	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shī_jiā
+22	到	_	NOUN	_	_	21	comp:aux	_	Gloss=_|SpaceAfter=No|Translit=dào
+23	所述	_	VERB	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+24	第一	_	VERB	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
+25	感测区	_	NOUN	_	_	30	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=gǎn_cè_qū
+26	和	_	CCONJ	_	_	25	conj	_	Gloss=_|SpaceAfter=No|Translit=hé
+27	所述	_	VERB	_	_	29	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+28	第二	_	VERB	_	_	29	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
+29	感测区	_	NOUN	_	_	26	cc	_	Gloss=_|SpaceAfter=No|Translit=gǎn_cè_qū
+30	中	_	NOUN	_	_	31	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhōng
+31	的	_	PART	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+32	每	_	DET	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=měi
+33	个	_	NOUN	_	_	22	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=gè
+34	时	_	NOUN	_	_	64	mod	_	Gloss=_|SpaceAfter=No|Translit=shí
+35	，	_	PUNCT	_	_	64	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+36	所述	_	VERB	_	_	39	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+37	第一	_	VERB	_	_	39	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
+38	导电	_	VERB	_	_	39	mod	_	Gloss=_|SpaceAfter=No|Translit=dǎo_diàn
+39	部分	_	VERB	_	_	44	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_fēn
+40	与	_	CCONJ	_	_	39	conj	_	Gloss=_|SpaceAfter=No|Translit=yǔ
+41	所述	_	VERB	_	_	43	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+42	第二	_	VERB	_	_	43	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
+43	导体	_	NOUN	_	_	40	cc	_	Gloss=_|SpaceAfter=No|Translit=dǎo_tǐ
+44	之间	_	NOUN	_	_	45	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhī_jiān
+45	的	_	PART	_	_	46	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+46	距离	_	VERB	_	_	47	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jù_lí
+47	的	_	PART	_	_	48	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+48	变化	_	VERB	_	_	64	subj	_	Gloss=_|SpaceAfter=No|Translit=biàn_huà
+49	与	_	CCONJ	_	_	62	cc	_	Gloss=_|SpaceAfter=No|Translit=yǔ
+50	所述	_	VERB	_	_	53	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+51	第二	_	VERB	_	_	53	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
+52	导电	_	VERB	_	_	53	mod	_	Gloss=_|SpaceAfter=No|Translit=dǎo_diàn
+53	部分	_	VERB	_	_	58	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_fēn
+54	与	_	CCONJ	_	_	57	cc	_	Gloss=_|SpaceAfter=No|Translit=yǔ
+55	所述	_	VERB	_	_	57	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+56	第二	_	VERB	_	_	57	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
+57	导体	_	NOUN	_	_	53	conj	_	Gloss=_|SpaceAfter=No|Translit=dǎo_tǐ
+58	之间	_	NOUN	_	_	59	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhī_jiān
+59	的	_	PART	_	_	60	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+60	距离	_	VERB	_	_	61	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jù_lí
+61	的	_	PART	_	_	62	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+62	变化	_	VERB	_	_	48	conj	_	Gloss=_|SpaceAfter=No|Translit=biàn_huà
+63	不	_	ADV	_	_	64	mod	_	Gloss=_|SpaceAfter=No|Translit=bù
+64	同	_	ADJ	_	_	12	parataxis	_	Gloss=_|SpaceAfter=No|Translit=tóng
+65	。	_	NOUN	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__9
+# sent_id = zh_patentchar-sud-test__9
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 1.一种数据处理方法，其特征在于，所述方法包括：
 1	1.	_	NUM	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
@@ -212,7 +215,7 @@
 14	包括	_	VERB	_	_	10	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 15	：	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__10
+# sent_id = zh_patentchar-sud-test__10
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 获取到至少一条位置相关信息，其中，所述位置相关信息至少包括网络地址的位置信息以及用户常用地址；
 1	获取	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=huò_qǔ
@@ -243,7 +246,7 @@
 26	地址	_	NOUN	_	_	22	conj	_	Gloss=_|SpaceAfter=No|Translit=dì_zhǐ
 27	；	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__11
+# sent_id = zh_patentchar-sud-test__11
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 从所述至少一条位置相关信息中获取到至少一条第一类位置相关信息；
 1	从	_	ADP	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=cóng
@@ -267,7 +270,7 @@
 19	信息	_	NOUN	_	_	10	comp	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
 20	；	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__12
+# sent_id = zh_patentchar-sud-test__12
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 其中，所述第一类位置相关信息为位置相关信息中网络地址的位置信息与用户常用地址不同的位置相关信息；
 1	其中	_	ADV	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
@@ -300,7 +303,7 @@
 28	信息	_	NOUN	_	_	9	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
 29	；	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__13
+# sent_id = zh_patentchar-sud-test__13
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 基于用户常用地址以及网络地址的位置信息对所述至少一条第一类位置相关信息进行汇聚得到至少一条第一类参考信息，其中，所述第一类参考信息表征在同一用户常用地址以及同一网络地址的位置信息出现的用户数量；
 1	基	_	VERB	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=jī
@@ -361,7 +364,7 @@
 56	数量	_	NOUN	_	_	40	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_liàng
 57	；	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__14
+# sent_id = zh_patentchar-sud-test__14
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 基于所述至少一条第一类参考信息中的所述用户数量，选取得到异常的网络地址的位置信息，对所述异常的网络地址的位置信息进行修正以使得修正后的所述网络地址的位置信息与用户常用地址相同。
 1	基	_	VERB	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=jī
@@ -420,54 +423,57 @@
 54	相同	_	ADJ	_	_	40	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xiāng_tóng
 55	。	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__15
+# sent_id = zh_patentchar-sud-test__15
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 2.根据权利要求1所述的方法，其特征在于，所述基于所述至少一条第一类参考信息中的所述用户数量，选取得到异常的网络地址的位置信息，包括：
-1	2.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
-2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
-4	要求	_	VERB	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
-5	1	_	NUM	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=1
-6	所述	_	ADJ	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-7	的	_	PART	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-8	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
-9	，	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-10	其	_	PRON	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
-11	特征	_	NOUN	_	_	12	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
-12	在	_	VERB	_	_	8	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
-13	于	_	ADP	_	_	12	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-14	，	_	PUNCT	_	_	32	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-15	所述	_	ADJ	_	_	32	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-16	基	_	VERB	_	_	32	mod	_	Gloss=_|SpaceAfter=No|Translit=jī
-17	于	_	ADP	_	_	16	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-18	所述	_	ADJ	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-19	至少	_	ADV	_	_	21	mod	_	Gloss=_|SpaceAfter=No|Translit=zhì_shǎo
-20	一	_	NUM	_	_	21	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
-21	条	_	NOUN	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=tiáo
-22	第一	_	NUM	_	_	23	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
-23	类	_	NOUN	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=lèi
-24	参考	_	VERB	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=cān_kǎo
-25	信息	_	NOUN	_	_	26	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
-26	中	_	NOUN	_	_	27	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhōng
-27	的	_	PART	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-28	所述	_	ADJ	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-29	用户	_	NOUN	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=yòng_hù
-30	数量	_	NOUN	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_liàng
-31	，	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-32	选取	_	VERB	_	_	13	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xuǎn_qǔ
-33	得到	_	VERB	_	_	32	comp:svc	_	Gloss=_|SpaceAfter=No|Translit=dé_dào
-34	异常	_	ADJ	_	_	35	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yì_cháng
-35	的	_	PART	_	_	37	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-36	网络	_	NOUN	_	_	37	mod	_	Gloss=_|SpaceAfter=No|Translit=wǎng_luò
-37	地址	_	NOUN	_	_	38	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dì_zhǐ
+1	2.	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	NOUN	_	_	9	mod	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
+4	权	_	NOUN	_	_	6	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=quán
+5	利	_	NOUN	_	_	4	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+6	要	_	VERB	_	_	3	comp:obj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=yào
+7	求	_	VERB	_	_	6	conj@m	_	Gloss=_|SpaceAfter=No|Translit=qíu
+8	1	_	NUM	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=1
+9	所述	_	ADJ	_	_	10	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+10	的	_	PART	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
+12	，	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+13	其	_	PRON	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
+14	特征	_	NOUN	_	_	15	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
+15	在	_	VERB	_	_	11	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
+16	于	_	ADP	_	_	15	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+17	，	_	PUNCT	_	_	35	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+18	所述	_	ADJ	_	_	35	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+19	基	_	VERB	_	_	35	mod	_	Gloss=_|SpaceAfter=No|Translit=jī
+20	于	_	ADP	_	_	19	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+21	所述	_	ADJ	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+22	至少	_	ADV	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=zhì_shǎo
+23	一	_	NUM	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
+24	条	_	NOUN	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=tiáo
+25	第一	_	NUM	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
+26	类	_	NOUN	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=lèi
+27	参考	_	VERB	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=cān_kǎo
+28	信息	_	NOUN	_	_	29	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
+29	中	_	NOUN	_	_	30	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhōng
+30	的	_	PART	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+31	所述	_	ADJ	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+32	用户	_	NOUN	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=yòng_hù
+33	数量	_	NOUN	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_liàng
+34	，	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+35	选取	_	VERB	_	_	16	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xuǎn_qǔ
+36	得到	_	VERB	_	_	35	comp:svc	_	Gloss=_|SpaceAfter=No|Translit=dé_dào
+37	异常	_	ADJ	_	_	38	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yì_cháng
 38	的	_	PART	_	_	40	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-39	位置	_	NOUN	_	_	40	mod	_	Gloss=_|SpaceAfter=No|Translit=wèi_zhì
-40	信息	_	NOUN	_	_	33	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
-41	，	_	PUNCT	_	_	42	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-42	包括	_	VERB	_	_	32	parataxis	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
-43	：	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=：
+39	网络	_	NOUN	_	_	40	mod	_	Gloss=_|SpaceAfter=No|Translit=wǎng_luò
+40	地址	_	NOUN	_	_	41	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dì_zhǐ
+41	的	_	PART	_	_	43	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+42	位置	_	NOUN	_	_	43	mod	_	Gloss=_|SpaceAfter=No|Translit=wèi_zhì
+43	信息	_	NOUN	_	_	36	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
+44	，	_	PUNCT	_	_	45	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+45	包括	_	VERB	_	_	35	parataxis	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
+46	：	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__16
+# sent_id = zh_patentchar-sud-test__16
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 根据所述至少一条第一类参考信息中的用户数量计算得到全部用户数量的均值；
 1	根据	_	ADP	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -492,7 +498,7 @@
 20	均值	_	NOUN	_	_	15	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jūn_zhí
 21	；	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__17
+# sent_id = zh_patentchar-sud-test__17
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 至少根据所述均值，从所述至少一条第一类参考信息中选取出至少部分第一类参考信息；
 1	至少	_	ADV	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=zhì_shǎo
@@ -520,7 +526,7 @@
 23	信息	_	NOUN	_	_	16	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
 24	；	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__18
+# sent_id = zh_patentchar-sud-test__18
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 将选取到的至少部分第一类参考信息对应的网络地址的位置信息作为异常的网络地址的位置信息。
 1	将	_	PART	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiāng
@@ -550,10 +556,10 @@
 25	信息	_	NOUN	_	_	18	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
 26	。	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__19
+# sent_id = zh_patentchar-sud-test__19
 # patent_id = CN102016000266858CN00001073159580AFULZH20171103CN00V
 # text = 1.一种数据对象的合法性验证方法，其特征在于，包括：
-1	1.	_	NUM	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	数据	_	NOUN	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
@@ -571,7 +577,7 @@
 16	包括	_	VERB	_	_	14	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 17	：	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__20
+# sent_id = zh_patentchar-sud-test__20
 # patent_id = CN102016000266858CN00001073159580AFULZH20171103CN00V
 # text = 响应于接收到待验证数据对象，判断所述待验证数据对象的类型；
 1	响应	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=xiǎng_yìng
@@ -591,7 +597,7 @@
 15	类型	_	NOUN	_	_	9	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=lèi_xíng
 16	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__21
+# sent_id = zh_patentchar-sud-test__21
 # patent_id = CN102016000266858CN00001073159580AFULZH20171103CN00V
 # text = 加载与所述待验证数据对象的类型匹配的验证配置文件；
 1	加载	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiā_zài
@@ -609,7 +615,7 @@
 13	文件	_	NOUN	_	_	1	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=wén_jiàn
 14	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__22
+# sent_id = zh_patentchar-sud-test__22
 # patent_id = CN102016000266858CN00001073159580AFULZH20171103CN00V
 # text = 解析所述验证配置文件以生成与所述待验证数据对象对应的规则对象；
 1	解析	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
@@ -631,7 +637,7 @@
 17	对象	_	NOUN	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dùi_xiàng
 18	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__23
+# sent_id = zh_patentchar-sud-test__23
 # patent_id = CN102016000266858CN00001073159580AFULZH20171103CN00V
 # text = 基于与所述待验证数据对象对应的规则对象对所述待验证数据对象进行验证，并输出验证结果信息；
 1	基	_	VERB	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=jī
@@ -660,7 +666,7 @@
 24	信息	_	NOUN	_	_	21	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
 25	；	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__24
+# sent_id = zh_patentchar-sud-test__24
 # patent_id = CN102016000266858CN00001073159580AFULZH20171103CN00V
 # text = 其中，所述规则对象包括至少一个规则。
 1	其中	_	ADV	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
@@ -675,25 +681,28 @@
 10	规则	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=gūi_zé
 11	。	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__25
+# sent_id = zh_patentchar-sud-test__25
 # patent_id = CN102016000266858CN00001073159580AFULZH20171103CN00V
 # text = 2.根据权利要求1所述的方法，其特征在于：
-1	2.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
-2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
-4	要求	_	VERB	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
-5	1	_	NUM	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=1
-6	所述	_	ADJ	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-7	的	_	PART	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-8	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
-9	，	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-10	其	_	PRON	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
-11	特征	_	NOUN	_	_	12	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
-12	在	_	VERB	_	_	8	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
-13	于	_	NOUN	_	_	12	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-14	：	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=：
+1	2.	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	NOUN	_	_	9	mod	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
+4	权	_	NOUN	_	_	6	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=quán
+5	利	_	NOUN	_	_	4	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+6	要	_	VERB	_	_	3	comp:obj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=yào
+7	求	_	VERB	_	_	6	conj@m	_	Gloss=_|SpaceAfter=No|Translit=qíu
+8	1	_	NUM	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=1
+9	所述	_	ADJ	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+10	的	_	PART	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
+12	，	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+13	其	_	PRON	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
+14	特征	_	NOUN	_	_	15	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
+15	在	_	VERB	_	_	11	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
+16	于	_	NOUN	_	_	15	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+17	：	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__26
+# sent_id = zh_patentchar-sud-test__26
 # patent_id = CN102016000266858CN00001073159580AFULZH20171103CN00V
 # text = 所述待验证数据对象通过对终端发送的表单数据进行数据绑定而生成。
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -714,10 +723,10 @@
 16	生成	_	VERB	_	_	5	conj	_	Gloss=_|SpaceAfter=No|Translit=shēng_chéng
 17	。	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__27
+# sent_id = zh_patentchar-sud-test__27
 # patent_id = CN102017000837786CN00001076439900AFULZH20180130CN007
 # text = 1.一种可配置架构的通信设备，其特征在于，包括：
-1	1.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NOUN	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	可配置	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=kě_pèi_zhì
@@ -734,7 +743,7 @@
 15	包括	_	VERB	_	_	13	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 16	：	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__28
+# sent_id = zh_patentchar-sud-test__28
 # patent_id = CN102017000837786CN00001076439900AFULZH20180130CN007
 # text = 中板，插入所述中板的至少一块前插卡，所述前插卡包括至少一块接入卡，所述接入卡包括主交换芯片、管理CPU，其中，
 1	中板	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=zhōng_bǎn
@@ -769,7 +778,7 @@
 30	其中	_	ADV	_	_	22	parataxis	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
 31	，	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__29
+# sent_id = zh_patentchar-sud-test__29
 # patent_id = CN102017000837786CN00001076439900AFULZH20180130CN007
 # text = 所述主交换芯片，用于进行数据传输；
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -784,7 +793,7 @@
 10	传输	_	VERB	_	_	8	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=chuán_shū
 11	；	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__30
+# sent_id = zh_patentchar-sud-test__30
 # patent_id = CN102017000837786CN00001076439900AFULZH20180130CN007
 # text = 管理CPU，用于对所述主交换芯片进行管理；
 1	管理	_	VERB	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=guǎn_lǐ
@@ -801,7 +810,7 @@
 12	管理	_	VERB	_	_	11	comp:svc	_	Gloss=_|SpaceAfter=No|Translit=guǎn_lǐ
 13	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__31
+# sent_id = zh_patentchar-sud-test__31
 # patent_id = CN102017000837786CN00001076439900AFULZH20180130CN007
 # text = 处理单元，用于对所述主交换芯片传输的数据进行处理或预处理。
 1	处理	_	VERB	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ
@@ -823,41 +832,44 @@
 17	预处理	_	VERB	_	_	15	conj	_	Gloss=_|SpaceAfter=No|Translit=yù_chù_lǐ
 18	。	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__32
+# sent_id = zh_patentchar-sud-test__32
 # patent_id = CN102017000837786CN00001076439900AFULZH20180130CN007
 # text = 2.根据权利要求1所述的通信设备，其特征在于，所述处理单元为扣卡形式安装在所述接入卡上。
-1	2.	_	NUM	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
-2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
-4	要求	_	VERB	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
-5	1	_	NUM	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=1
-6	所述	_	ADJ	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-7	的	_	PART	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-8	通信	_	VERB	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=tōng_xìn
-9	设备	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=shè_bèi
-10	，	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-11	其	_	PRON	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
-12	特征	_	NOUN	_	_	13	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
-13	在	_	VERB	_	_	9	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
-14	于	_	ADP	_	_	13	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-15	，	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-16	所述	_	ADJ	_	_	18	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-17	处理	_	VERB	_	_	18	mod	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ
-18	单元	_	NOUN	_	_	19	subj	_	Gloss=_|SpaceAfter=No|Translit=dān_yuán
-19	为	_	VERB	_	_	14	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=wèi
-20	扣卡	_	NOUN	_	_	21	mod	_	Gloss=_|SpaceAfter=No|Translit=kòu_qiǎ
-21	形式	_	NOUN	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xíng_shì
-22	安装	_	VERB	_	_	19	comp:svc	_	Gloss=_|SpaceAfter=No|Translit=ān_zhuāng
-23	在	_	ADP	_	_	22	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=zài
-24	所述	_	ADJ	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-25	接入卡	_	NOUN	_	_	26	comp	_	Gloss=_|SpaceAfter=No|Translit=jiē_rù_qiǎ
-26	上	_	NOUN	_	_	23	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shàng
-27	。	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=。
+1	2.	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	NOUN	_	_	9	mod	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
+4	权	_	NOUN	_	_	6	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=quán
+5	利	_	NOUN	_	_	4	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+6	要	_	VERB	_	_	9	mod	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=yào
+7	求	_	VERB	_	_	6	conj@m	_	Gloss=_|SpaceAfter=No|Translit=qíu
+8	1	_	NUM	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=1
+9	所述	_	ADJ	_	_	10	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+10	的	_	PART	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	通信	_	VERB	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=tōng_xìn
+12	设备	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=shè_bèi
+13	，	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+14	其	_	PRON	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
+15	特征	_	NOUN	_	_	16	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
+16	在	_	VERB	_	_	12	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
+17	于	_	ADP	_	_	16	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+18	，	_	PUNCT	_	_	22	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+19	所述	_	ADJ	_	_	21	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+20	处理	_	VERB	_	_	21	mod	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ
+21	单元	_	NOUN	_	_	22	subj	_	Gloss=_|SpaceAfter=No|Translit=dān_yuán
+22	为	_	VERB	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=wèi
+23	扣卡	_	NOUN	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=kòu_qiǎ
+24	形式	_	NOUN	_	_	22	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xíng_shì
+25	安装	_	VERB	_	_	22	comp:svc	_	Gloss=_|SpaceAfter=No|Translit=ān_zhuāng
+26	在	_	ADP	_	_	25	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=zài
+27	所述	_	ADJ	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+28	接入卡	_	NOUN	_	_	29	comp	_	Gloss=_|SpaceAfter=No|Translit=jiē_rù_qiǎ
+29	上	_	NOUN	_	_	26	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shàng
+30	。	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__33
+# sent_id = zh_patentchar-sud-test__33
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 1.一种用于栅控器件的集电极电流软测量方法，其特征在于，包括解析软测量建模、经验数据软测量建模和测量阶段，
-1	1.	_	NUM	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	用	_	VERB	_	_	8	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yòng
@@ -890,7 +902,7 @@
 31	阶段	_	NOUN	_	_	28	conj	_	Gloss=_|SpaceAfter=No|Translit=jiē_duàn
 32	，	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__34
+# sent_id = zh_patentchar-sud-test__34
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 所述解析软测量建模包括如下步骤：
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -902,74 +914,86 @@
 7	步骤	_	NOUN	_	_	5	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
 8	：	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__35
+# sent_id = zh_patentchar-sud-test__35
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 1.1建立所述栅控器件的稳态电流解析模型；
-1	1.1	_	NUM	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=1.1
-2	建立	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiàn_lì
-3	所述	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-4	栅控	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
-5	器件	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
-6	的	_	PART	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-7	稳态	_	NOUN	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=wěn_tài
-8	电流	_	NOUN	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
-9	解析	_	VERB	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
-10	模型	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
-11	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+1	1.1	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=1.1
+2	建	_	VERB	_	_	0	root	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=jiàn
+3	立	_	VERB	_	_	2	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+4	所	_	PART	_	_	8	mod	_	ExtPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
+5	述	_	VERB	_	_	4	comp@m	_	Gloss=_|SpaceAfter=No|Translit=shù
+6	栅	_	NOUN	_	_	7	mod@m	_	Gloss=_|SpaceAfter=No|Translit=zhà
+7	控	_	VERB	_	_	8	mod	_	ExtPos=ADJ|Gloss=_|SpaceAfter=No|Translit=kòng
+8	器	_	NOUN	_	_	10	comp:obj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qì
+9	件	_	NOUN	_	_	8	comp@m	_	Gloss=_|SpaceAfter=No|Translit=jiàn
+10	的	_	PART	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	稳态	_	NOUN	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=wěn_tài
+12	电流	_	NOUN	_	_	13	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
+13	解析	_	VERB	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
+14	模型	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
+15	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__36
+# sent_id = zh_patentchar-sud-test__36
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 1.2建立所述栅控器件的瞬态电流解析模型；
-1	1.2	_	NUM	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=1.2
-2	建立	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiàn_lì
-3	所述	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-4	栅控	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
-5	器件	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
-6	的	_	PART	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-7	瞬态	_	NOUN	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=shùn_tài
-8	电流	_	NOUN	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
-9	解析	_	VERB	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
-10	模型	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
-11	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+1	1.2	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=1.2
+2	建	_	VERB	_	_	0	root	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=jiàn
+3	立	_	VERB	_	_	2	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+4	所	_	PART	_	_	8	mod	_	ExtPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
+5	述	_	VERB	_	_	4	comp@m	_	Gloss=_|SpaceAfter=No|Translit=shù
+6	栅	_	NOUN	_	_	7	mod@m	_	Gloss=_|SpaceAfter=No|Translit=zhà
+7	控	_	VERB	_	_	8	mod	_	ExtPos=ADJ|Gloss=_|SpaceAfter=No|Translit=kòng
+8	器	_	NOUN	_	_	10	comp:obj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qì
+9	件	_	NOUN	_	_	8	comp@m	_	Gloss=_|SpaceAfter=No|Translit=jiàn
+10	的	_	PART	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	瞬态	_	NOUN	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=shùn_tài
+12	电流	_	NOUN	_	_	13	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
+13	解析	_	VERB	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
+14	模型	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
+15	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__37
+# sent_id = zh_patentchar-sud-test__37
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 1.3根据所述栅控器件的稳态电流解析模型和瞬态电流解析模型建立所述栅控器件的全局电流解析模型，筛选所述栅控器件的关键参数；
-1	1.3	_	NUM	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=1.3
-2	根据	_	ADP	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	所述	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-4	栅控	_	ADJ	_	_	5	comp	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
-5	器件	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
-6	的	_	PART	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-7	稳态	_	NOUN	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=wěn_tài
-8	电流	_	NOUN	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
-9	解析	_	VERB	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
-10	模型	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
-11	和	_	CCONJ	_	_	15	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
-12	瞬态	_	NOUN	_	_	13	mod	_	Gloss=_|SpaceAfter=No|Translit=shùn_tài
-13	电流	_	NOUN	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
-14	解析	_	VERB	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
-15	模型	_	NOUN	_	_	10	conj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
-16	建立	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiàn_lì
-17	所述	_	ADJ	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-18	栅控	_	ADJ	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
-19	器件	_	NOUN	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
-20	的	_	PART	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-21	全局	_	ADJ	_	_	22	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_jú
-22	电流	_	NOUN	_	_	23	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
-23	解析	_	VERB	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
-24	模型	_	NOUN	_	_	16	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
-25	，	_	PUNCT	_	_	26	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-26	筛选	_	VERB	_	_	16	parataxis	_	Gloss=_|SpaceAfter=No|Translit=shāi_xuǎn
-27	所述	_	ADJ	_	_	29	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-28	栅控	_	ADJ	_	_	29	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
-29	器件	_	NOUN	_	_	30	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
-30	的	_	PART	_	_	32	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-31	关键	_	ADJ	_	_	32	mod	_	Gloss=_|SpaceAfter=No|Translit=guān_jiàn
-32	参数	_	NOUN	_	_	26	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
-33	；	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+1	1.3	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=1.3
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	NOUN	_	_	20	mod	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
+4	所	_	PART	_	_	8	mod	_	ExtPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
+5	述	_	VERB	_	_	4	comp@m	_	Gloss=_|SpaceAfter=No|Translit=shù
+6	栅	_	NOUN	_	_	7	mod@m	_	Gloss=_|SpaceAfter=No|Translit=zhà
+7	控	_	VERB	_	_	8	comp	_	ExtPos=ADJ|Gloss=_|SpaceAfter=No|Translit=kòng
+8	器	_	NOUN	_	_	10	comp:obj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qì
+9	件	_	NOUN	_	_	8	comp@m	_	Gloss=_|SpaceAfter=No|Translit=jiàn
+10	的	_	PART	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	稳态	_	NOUN	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=wěn_tài
+12	电流	_	NOUN	_	_	13	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
+13	解析	_	VERB	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
+14	模型	_	NOUN	_	_	3	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
+15	和	_	CCONJ	_	_	19	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
+16	瞬态	_	NOUN	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=shùn_tài
+17	电流	_	NOUN	_	_	18	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
+18	解析	_	VERB	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
+19	模型	_	NOUN	_	_	14	conj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
+20	建立	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiàn_lì
+21	所述	_	ADJ	_	_	23	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+22	栅控	_	ADJ	_	_	23	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
+23	器件	_	NOUN	_	_	24	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
+24	的	_	PART	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+25	全局	_	ADJ	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_jú
+26	电流	_	NOUN	_	_	27	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
+27	解析	_	VERB	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=jiě_xī
+28	模型	_	NOUN	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
+29	，	_	PUNCT	_	_	30	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+30	筛选	_	VERB	_	_	20	parataxis	_	Gloss=_|SpaceAfter=No|Translit=shāi_xuǎn
+31	所述	_	ADJ	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+32	栅控	_	ADJ	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
+33	器件	_	NOUN	_	_	34	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
+34	的	_	PART	_	_	36	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+35	关键	_	ADJ	_	_	36	mod	_	Gloss=_|SpaceAfter=No|Translit=guān_jiàn
+36	参数	_	NOUN	_	_	30	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
+37	；	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__38
+# sent_id = zh_patentchar-sud-test__38
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 所述经验数据软测量建模包括如下步骤：
 1	所述	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -982,42 +1006,46 @@
 8	步骤	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
 9	：	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__39
+# sent_id = zh_patentchar-sud-test__39
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 2.1建立所述栅控器件的应用电路，并在所述应用电路上设置步骤1.3筛选出的所述关键参数的测量接口；
-1	2.1	_	NUM	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=2.1
-2	建立	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiàn_lì
-3	所述	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-4	栅控	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
-5	器件	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
-6	的	_	PART	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-7	应用	_	ADJ	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=yìng_yòng
-8	电路	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=diàn_lù
-9	，	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-10	并	_	CCONJ	_	_	16	cc	_	Gloss=_|SpaceAfter=No|Translit=bìng
-11	在	_	NOUN	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
-12	所述	_	ADJ	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-13	应用	_	ADJ	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=yìng_yòng
-14	电路	_	NOUN	_	_	15	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=diàn_lù
-15	上	_	NOUN	_	_	11	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shàng
-16	设置	_	VERB	_	_	2	conj	_	Gloss=_|SpaceAfter=No|Translit=shè_zhì
-17	步骤	_	NOUN	_	_	19	subj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
-18	1.3	_	NUM	_	_	17	appos	_	Gloss=_|SpaceAfter=No|Translit=1.3
-19	筛选	_	VERB	_	_	21	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shāi_xuǎn
-20	出	_	NOUN	_	_	19	comp:res	_	Gloss=_|SpaceAfter=No|Translit=chū
-21	的	_	PART	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-22	所述	_	ADJ	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-23	关键	_	ADJ	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=guān_jiàn
-24	参数	_	NOUN	_	_	25	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
-25	的	_	PART	_	_	27	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-26	测量	_	VERB	_	_	27	mod	_	Gloss=_|SpaceAfter=No|Translit=cè_liàng
-27	接口	_	NOUN	_	_	16	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiē_kǒu
-28	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+1	2.1	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=2.1
+2	建	_	VERB	_	_	0	root	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=jiàn
+3	立	_	VERB	_	_	2	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+4	所	_	PART	_	_	8	mod	_	ExtPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
+5	述	_	VERB	_	_	4	comp@m	_	Gloss=_|SpaceAfter=No|Translit=shù
+6	栅	_	NOUN	_	_	7	mod@m	_	Gloss=_|SpaceAfter=No|Translit=zhà
+7	控	_	VERB	_	_	8	mod	_	ExtPos=ADJ|Gloss=_|SpaceAfter=No|Translit=kòng
+8	器	_	NOUN	_	_	10	comp:obj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qì
+9	件	_	NOUN	_	_	8	comp@m	_	Gloss=_|SpaceAfter=No|Translit=jiàn
+10	的	_	PART	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	应用	_	ADJ	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=yìng_yòng
+12	电路	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=diàn_lù
+13	，	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+14	并	_	CCONJ	_	_	20	cc	_	Gloss=_|SpaceAfter=No|Translit=bìng
+15	在	_	NOUN	_	_	20	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
+16	所述	_	ADJ	_	_	18	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+17	应用	_	ADJ	_	_	18	mod	_	Gloss=_|SpaceAfter=No|Translit=yìng_yòng
+18	电路	_	NOUN	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=diàn_lù
+19	上	_	NOUN	_	_	15	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shàng
+20	设置	_	VERB	_	_	2	conj	_	Gloss=_|SpaceAfter=No|Translit=shè_zhì
+21	步骤	_	NOUN	_	_	23	subj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
+22	1.3	_	NUM	_	_	21	appos	_	Gloss=_|SpaceAfter=No|Translit=1.3
+23	筛选	_	VERB	_	_	25	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shāi_xuǎn
+24	出	_	NOUN	_	_	23	comp:res	_	Gloss=_|SpaceAfter=No|Translit=chū
+25	的	_	PART	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+26	所述	_	ADJ	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+27	关键	_	ADJ	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=guān_jiàn
+28	参数	_	NOUN	_	_	29	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
+29	的	_	PART	_	_	31	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+30	测量	_	VERB	_	_	31	mod	_	Gloss=_|SpaceAfter=No|Translit=cè_liàng
+31	接口	_	NOUN	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiē_kǒu
+32	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__40
+# sent_id = zh_patentchar-sud-test__40
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 2.2在步骤2.1建立的应用电路中采集多组测试数据，所述测试数据包括所述解析软测量建模筛选出的所述栅控器件的关键参数和对应的栅控器件的集电极电流；
-1	2.2	_	NUM	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=2.2
+1	2.2	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=2.2
 2	在	_	ADP	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
 3	步骤	_	NOUN	_	_	5	subj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
 4	2.1	_	NUM	_	_	3	appos	_	Gloss=_|SpaceAfter=No|Translit=2.1
@@ -1060,48 +1088,50 @@
 41	电流	_	NOUN	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
 42	；	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__41
+# sent_id = zh_patentchar-sud-test__41
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 2.3根据步骤2.2采集的多组测试数据建立统计数据模型，即利用机器学习算法建立所述关键参数与对应的栅控器件的集电极电流之间的关系；
-1	2.3	_	NUM	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=2.3
-2	根据	_	ADP	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	步骤	_	NOUN	_	_	5	subj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
-4	2.2	_	NUM	_	_	3	appos	_	Gloss=_|SpaceAfter=No|Translit=2.2
-5	采集	_	VERB	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cǎi_jí
-6	的	_	PART	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-7	多	_	ADJ	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=duō
-8	组	_	NOUN	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=zǔ
-9	测试	_	VERB	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=cè_shì
-10	数据	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
-11	建立	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiàn_lì
-12	统计	_	VERB	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=tǒng_jì
-13	数据	_	NOUN	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
-14	模型	_	NOUN	_	_	11	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
-15	，	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-16	即	_	SCONJ	_	_	17	cc	_	Gloss=_|SpaceAfter=No|Translit=jí
-17	利用	_	VERB	_	_	11	conj	_	Gloss=_|SpaceAfter=No|Translit=lì_yòng
-18	机器	_	NOUN	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=jī_qì
-19	学习	_	VERB	_	_	20	mod	_	Gloss=_|SpaceAfter=No|Translit=xué_xí
-20	算法	_	NOUN	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suàn_fǎ
-21	建立	_	VERB	_	_	17	comp:svc	_	Gloss=_|SpaceAfter=No|Translit=jiàn_lì
-22	所述	_	ADJ	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-23	关键	_	ADJ	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=guān_jiàn
-24	参数	_	NOUN	_	_	33	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
-25	与	_	CCONJ	_	_	32	cc	_	Gloss=_|SpaceAfter=No|Translit=yǔ
-26	对应	_	VERB	_	_	27	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dùi_yìng
-27	的	_	PART	_	_	29	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-28	栅控	_	ADJ	_	_	29	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
-29	器件	_	NOUN	_	_	30	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
-30	的	_	PART	_	_	32	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-31	集电极	_	NOUN	_	_	32	mod	_	Gloss=_|SpaceAfter=No|Translit=jí_diàn_jí
-32	电流	_	NOUN	_	_	24	conj	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
-33	之	_	PART	_	_	34	mod	_	Gloss=_|SpaceAfter=No|Translit=zhī
-34	间	_	NOUN	_	_	35	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiān
-35	的	_	PART	_	_	36	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-36	关系	_	NOUN	_	_	21	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=guān_xì
-37	；	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+1	2.3	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=2.3
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	NOUN	_	_	13	mod	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
+4	步	_	VERB	_	_	7	subj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=bù
+5	骤	_	VERB	_	_	4	conj@m	_	Gloss=_|SpaceAfter=No|Translit=zòu
+6	2.2	_	NUM	_	_	4	appos	_	Gloss=_|SpaceAfter=No|Translit=2.2
+7	采集	_	VERB	_	_	8	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cǎi_jí
+8	的	_	PART	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+9	多	_	ADJ	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=duō
+10	组	_	NOUN	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=zǔ
+11	测试	_	VERB	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=cè_shì
+12	数据	_	NOUN	_	_	3	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
+13	建立	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiàn_lì
+14	统计	_	VERB	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=tǒng_jì
+15	数据	_	NOUN	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
+16	模型	_	NOUN	_	_	13	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
+17	，	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+18	即	_	SCONJ	_	_	19	cc	_	Gloss=_|SpaceAfter=No|Translit=jí
+19	利用	_	VERB	_	_	13	conj	_	Gloss=_|SpaceAfter=No|Translit=lì_yòng
+20	机器	_	NOUN	_	_	21	mod	_	Gloss=_|SpaceAfter=No|Translit=jī_qì
+21	学习	_	VERB	_	_	22	mod	_	Gloss=_|SpaceAfter=No|Translit=xué_xí
+22	算法	_	NOUN	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suàn_fǎ
+23	建立	_	VERB	_	_	19	comp:svc	_	Gloss=_|SpaceAfter=No|Translit=jiàn_lì
+24	所述	_	ADJ	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+25	关键	_	ADJ	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=guān_jiàn
+26	参数	_	NOUN	_	_	35	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
+27	与	_	CCONJ	_	_	34	cc	_	Gloss=_|SpaceAfter=No|Translit=yǔ
+28	对应	_	VERB	_	_	29	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dùi_yìng
+29	的	_	PART	_	_	31	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+30	栅控	_	ADJ	_	_	31	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
+31	器件	_	NOUN	_	_	32	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
+32	的	_	PART	_	_	34	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+33	集电极	_	NOUN	_	_	34	mod	_	Gloss=_|SpaceAfter=No|Translit=jí_diàn_jí
+34	电流	_	NOUN	_	_	26	conj	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
+35	之	_	PART	_	_	36	mod	_	Gloss=_|SpaceAfter=No|Translit=zhī
+36	间	_	NOUN	_	_	37	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiān
+37	的	_	PART	_	_	38	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+38	关系	_	NOUN	_	_	23	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=guān_xì
+39	；	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__42
+# sent_id = zh_patentchar-sud-test__42
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 所述测量阶段为：
 1	所述	_	ADJ	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -1110,7 +1140,7 @@
 4	为	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=wèi
 5	：	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__43
+# sent_id = zh_patentchar-sud-test__43
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 在栅控器件应用电路中，实时采集所述关键参数，并将采集的关键参数带入经验数据软测量建模建立的统计数据模型进行计算，得到所述栅控器件的集电极电流。
 1	在	_	ADP	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
@@ -1154,57 +1184,60 @@
 39	电流	_	NOUN	_	_	33	comp	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
 40	。	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__44
+# sent_id = zh_patentchar-sud-test__44
 # patent_id = CN102017000879802CN00001076221670AFULZH20180123CN00T
 # text = 2.根据权利要求1所述的用于栅控器件的集电极电流软测量方法，其特征在于，所述关键参数包括能够直接测量的过程参数和由所述过程参数推导的在线应用参数。
-1	2.	_	NUM	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
-2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
-4	要求	_	VERB	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
-5	1	_	NUM	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=1
-6	所述	_	ADJ	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-7	的	_	PART	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-8	用	_	VERB	_	_	12	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yòng
-9	于	_	ADP	_	_	8	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-10	栅控	_	ADJ	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
-11	器件	_	NOUN	_	_	9	comp	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
-12	的	_	PART	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-13	集电极	_	NOUN	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=jí_diàn_jí
-14	电流	_	NOUN	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
-15	软测量	_	VERB	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=ruǎn_cè_liàng
-16	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
-17	，	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-18	其	_	PRON	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
-19	特征	_	NOUN	_	_	20	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
-20	在	_	VERB	_	_	16	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
-21	于	_	ADP	_	_	20	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-22	，	_	PUNCT	_	_	26	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-23	所述	_	ADJ	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-24	关键	_	ADJ	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=guān_jiàn
-25	参数	_	NOUN	_	_	26	subj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
-26	包括	_	VERB	_	_	21	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
-27	能够	_	AUX	_	_	30	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=néng_gòu
-28	直接	_	ADV	_	_	29	mod	_	Gloss=_|SpaceAfter=No|Translit=zhí_jiē
-29	测量	_	VERB	_	_	27	comp:aux	_	Gloss=_|SpaceAfter=No|Translit=cè_liàng
-30	的	_	NOUN	_	_	32	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-31	过程	_	NOUN	_	_	32	mod	_	Gloss=_|SpaceAfter=No|Translit=guò_chéng
-32	参数	_	NOUN	_	_	26	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
-33	和	_	CCONJ	_	_	42	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
-34	由	_	ADP	_	_	38	mod	_	Gloss=_|SpaceAfter=No|Translit=yóu
-35	所述	_	ADJ	_	_	37	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-36	过程	_	NOUN	_	_	37	mod	_	Gloss=_|SpaceAfter=No|Translit=guò_chéng
-37	参数	_	NOUN	_	_	34	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
-38	推导	_	VERB	_	_	39	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=tūi_dǎo
-39	的	_	PART	_	_	42	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-40	在线	_	ADJ	_	_	41	mod	_	Gloss=_|SpaceAfter=No|Translit=zài_xiàn
-41	应用	_	ADJ	_	_	42	mod	_	Gloss=_|SpaceAfter=No|Translit=yìng_yòng
-42	参数	_	NOUN	_	_	32	conj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
-43	。	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=。
+1	2.	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	NOUN	_	_	9	mod	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
+4	权	_	NOUN	_	_	6	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=quán
+5	利	_	NOUN	_	_	4	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+6	要	_	VERB	_	_	3	comp:obj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=yào
+7	求	_	VERB	_	_	6	conj@m	_	Gloss=_|SpaceAfter=No|Translit=qíu
+8	1	_	NUM	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=1
+9	所述	_	ADJ	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+10	的	_	PART	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	用	_	VERB	_	_	15	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yòng
+12	于	_	ADP	_	_	11	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+13	栅控	_	ADJ	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=zhà_kòng
+14	器件	_	NOUN	_	_	12	comp	_	Gloss=_|SpaceAfter=No|Translit=qì_jiàn
+15	的	_	PART	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+16	集电极	_	NOUN	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=jí_diàn_jí
+17	电流	_	NOUN	_	_	18	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_líu
+18	软测量	_	VERB	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=ruǎn_cè_liàng
+19	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
+20	，	_	PUNCT	_	_	23	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+21	其	_	PRON	_	_	22	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
+22	特征	_	NOUN	_	_	23	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
+23	在	_	VERB	_	_	19	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
+24	于	_	ADP	_	_	23	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+25	，	_	PUNCT	_	_	29	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+26	所述	_	ADJ	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+27	关键	_	ADJ	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=guān_jiàn
+28	参数	_	NOUN	_	_	29	subj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
+29	包括	_	VERB	_	_	24	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
+30	能够	_	AUX	_	_	33	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=néng_gòu
+31	直接	_	ADV	_	_	32	mod	_	Gloss=_|SpaceAfter=No|Translit=zhí_jiē
+32	测量	_	VERB	_	_	30	comp:aux	_	Gloss=_|SpaceAfter=No|Translit=cè_liàng
+33	的	_	NOUN	_	_	35	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+34	过程	_	NOUN	_	_	35	mod	_	Gloss=_|SpaceAfter=No|Translit=guò_chéng
+35	参数	_	NOUN	_	_	29	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
+36	和	_	CCONJ	_	_	45	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
+37	由	_	ADP	_	_	41	mod	_	Gloss=_|SpaceAfter=No|Translit=yóu
+38	所述	_	ADJ	_	_	40	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+39	过程	_	NOUN	_	_	40	mod	_	Gloss=_|SpaceAfter=No|Translit=guò_chéng
+40	参数	_	NOUN	_	_	37	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
+41	推导	_	VERB	_	_	42	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=tūi_dǎo
+42	的	_	PART	_	_	45	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+43	在线	_	ADJ	_	_	44	mod	_	Gloss=_|SpaceAfter=No|Translit=zài_xiàn
+44	应用	_	ADJ	_	_	45	mod	_	Gloss=_|SpaceAfter=No|Translit=yìng_yòng
+45	参数	_	NOUN	_	_	35	conj	_	Gloss=_|SpaceAfter=No|Translit=cān_shù
+46	。	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__45
+# sent_id = zh_patentchar-sud-test__45
 # patent_id = CN102016000580170CN00001076443880AFULZH20180130CN00G
 # text = 1.一种基于卡片点的数学图形认知思维可视化系统，通过联网的桌面设备或者移动设备的软硬件平台终端实现，其特征在于，包含：
-1	1.	_	NUM	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	13	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	基	_	VERB	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jī
@@ -1240,7 +1273,7 @@
 34	包含	_	VERB	_	_	32	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bāo_hán
 35	：	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__46
+# sent_id = zh_patentchar-sud-test__46
 # patent_id = CN102016000580170CN00001076443880AFULZH20180130CN00G
 # text = 数学思维可视化模块，数据收集模块，数据统计模块，以数据通信方式连接。
 1	数学	_	NOUN	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=shù_xué
@@ -1263,10 +1296,10 @@
 18	连接	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=lián_jiē
 19	。	_	PUNCT	_	_	18	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__47
+# sent_id = zh_patentchar-sud-test__47
 # patent_id = CN102016000580170CN00001076443880AFULZH20180130CN00G
 # text = 2.如权利要求1所述的基于卡片点的数学图形认知思维可视化系统，其特征在于，所述数学思维可视化模块，通过学生在终端界面上对卡片点的绘制连线显示其思维过程。
-1	2.	_	NUM	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	如	_	VERB	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=rú
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	VERB	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -1312,10 +1345,10 @@
 44	过程	_	NOUN	_	_	41	comp/m	_	Gloss=_|SpaceAfter=No|Translit=guò_chéng
 45	。	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__48
+# sent_id = zh_patentchar-sud-test__48
 # patent_id = CN102017000096674CN00001076438380AFULZH20180130CN00Q
 # text = 1.一种触控笔，其特征在于，包含:
-1	1.	_	NUM	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	触控笔	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=hóng_kòng_bǐ
@@ -1328,14 +1361,14 @@
 11	包含	_	VERB	_	_	9	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bāo_hán
 12	:	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=:
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__49
+# sent_id = zh_patentchar-sud-test__49
 # patent_id = CN102017000096674CN00001076438380AFULZH20180130CN00Q
 # text = 一桶状部；
 1	一	_	NUM	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 2	桶状部	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=tǒng_zhuàng_bù
 3	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__50
+# sent_id = zh_patentchar-sud-test__50
 # patent_id = CN102017000096674CN00001076438380AFULZH20180130CN00Q
 # text = 一接近传感器，设定为根据接近传感器上的触摸的存在或不存在，来输出一接近度接近数据；
 1	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
@@ -1364,7 +1397,7 @@
 24	数据	_	NOUN	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
 25	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__51
+# sent_id = zh_patentchar-sud-test__51
 # patent_id = CN102017000096674CN00001076438380AFULZH20180130CN00Q
 # text = 一滑动传感器，设定为根据该滑动传感器上的触摸的位置，输出一梯度数据；
 1	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
@@ -1389,7 +1422,7 @@
 20	数据	_	NOUN	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
 21	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__52
+# sent_id = zh_patentchar-sud-test__52
 # patent_id = CN102017000096674CN00001076438380AFULZH20180130CN00Q
 # text = 一处理电路，具有一通信子电路。
 1	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
@@ -1403,10 +1436,10 @@
 9	电路	_	NOUN	_	_	5	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=diàn_lù
 10	。	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__53
+# sent_id = zh_patentchar-sud-test__53
 # patent_id = CN102017000096674CN00001076438380AFULZH20180130CN00Q
 # text = 2.如权利要求1所述的触控笔，其特征在于，当该滑动传感器根据该滑动传感器上的触摸的位置，输出一梯度数据时，该通信子电路传送该梯度数据。
-1	2.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	如	_	VERB	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=rú
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	VERB	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -1450,10 +1483,10 @@
 42	数据	_	NOUN	_	_	39	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
 43	。	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__54
+# sent_id = zh_patentchar-sud-test__54
 # patent_id = CN102016000266989CN00001073157170AFULZH20171103CN00D
 # text = 1.一种向量四则运算装置，用于根据向量四则运算指令执行向量四则运算，包括：
-1	1.	_	NUM	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	向量	_	NOUN	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=xiàng_liàng
@@ -1476,7 +1509,7 @@
 21	包括	_	VERB	_	_	9	parataxis	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 22	：	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__55
+# sent_id = zh_patentchar-sud-test__55
 # patent_id = CN102016000266989CN00001073157170AFULZH20171103CN00D
 # text = 存储单元，用于存储向量；
 1	存储	_	VERB	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=cún_chǔ
@@ -1488,7 +1521,7 @@
 7	向量	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xiàng_liàng
 8	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__56
+# sent_id = zh_patentchar-sud-test__56
 # patent_id = CN102016000266989CN00001073157170AFULZH20171103CN00D
 # text = 寄存器单元，用于存储向量地址，其中，向量地址为向量在存储单元中存储的地址；
 1	寄存器	_	NOUN	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=jì_cún_qì
@@ -1515,7 +1548,7 @@
 22	地址	_	NOUN	_	_	14	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dì_zhǐ
 23	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__57
+# sent_id = zh_patentchar-sud-test__57
 # patent_id = CN102016000266989CN00001073157170AFULZH20171103CN00D
 # text = 向量四则运算单元，用于获取向量四则运算指令，根据向量四则运算指令在寄存器单元中获取向量地址，然后，根据该向量地址在存储单元中获取相应的向量，接着，根据获取的向量进行向量四则运算，得到向量四则运算结果。
 1	向量	_	NOUN	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=xiàng_liàng
@@ -1570,38 +1603,47 @@
 50	四则	_	NOUN	_	_	51	mod	_	Gloss=_|SpaceAfter=No|Translit=sì_zé
 51	运算	_	VERB	_	_	48	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yùn_suàn
 52	，	_	PUNCT	_	_	53	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-53	得到	_	VERB	_	_	48	parataxis	_	Gloss=_|SpaceAfter=No|Translit=dé_dào
-54	向量	_	NOUN	_	_	56	mod	_	Gloss=_|SpaceAfter=No|Translit=xiàng_liàng
-55	四则	_	NOUN	_	_	56	mod	_	Gloss=_|SpaceAfter=No|Translit=sì_zé
-56	运算	_	VERB	_	_	57	mod	_	Gloss=_|SpaceAfter=No|Translit=yùn_suàn
-57	结果	_	NOUN	_	_	53	comp	_	Gloss=_|SpaceAfter=No|Translit=jié_guǒ
-58	。	_	PUNCT	_	_	4	parataxis	_	Gloss=_|SpaceAfter=No|Translit=。
+53	得	_	VERB	_	_	48	parataxis	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=dé
+54	到	_	VERB	_	_	53	comp@m	_	Gloss=_|SpaceAfter=No|Translit=dào
+55	向	_	NOUN	_	_	56	mod@m	_	Gloss=_|SpaceAfter=No|Translit=xiàng
+56	量	_	NOUN	_	_	59	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=liàng
+57	四	_	NUM	_	_	58	mod@m	_	Gloss=_|SpaceAfter=No|Translit=sì
+58	则	_	NOUN	_	_	59	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=zé
+59	运	_	VERB	_	_	61	mod	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=yùn
+60	算	_	NOUN	_	_	59	comp:obj@m	_	Gloss=_|SpaceAfter=No|Translit=suàn
+61	结	_	VERB	_	_	53	comp	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jié
+62	果	_	NOUN	_	_	61	comp@m	_	Gloss=_|SpaceAfter=No|Translit=guǒ
+63	。	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__58
+# sent_id = zh_patentchar-sud-test__58
 # patent_id = CN102016000266989CN00001073157170AFULZH20171103CN00D
 # text = 2.根据权利要求1所述的向量四则运算装置，其特征在于，还包括：
-1	2.	_	NUM	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
-2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
-4	要求	_	VERB	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
-5	1	_	NUM	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=1
-6	所述	_	ADJ	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-7	的	_	PART	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-8	向量	_	NOUN	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=xiàng_liàng
-9	四则	_	NOUN	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=sì_zé
-10	运算	_	VERB	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=yùn_suàn
-11	装置	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=zhuāng_zhì
-12	，	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-13	其	_	PRON	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
-14	特征	_	NOUN	_	_	15	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
-15	在	_	VERB	_	_	11	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
-16	于	_	ADP	_	_	15	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-17	，	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-18	还	_	ADV	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=huán
-19	包括	_	VERB	_	_	16	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
-20	：	_	DET	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=：
+1	2.	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	NOUN	_	_	9	mod	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
+4	权	_	NOUN	_	_	6	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=quán
+5	利	_	NOUN	_	_	4	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+6	要	_	VERB	_	_	3	comp:obj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=yào
+7	求	_	VERB	_	_	6	conj@m	_	Gloss=_|SpaceAfter=No|Translit=qíu
+8	1	_	NUM	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=1
+9	所述	_	ADJ	_	_	10	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+10	的	_	PART	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	向量	_	NOUN	_	_	13	mod	_	Gloss=_|SpaceAfter=No|Translit=xiàng_liàng
+12	四则	_	NOUN	_	_	13	mod	_	Gloss=_|SpaceAfter=No|Translit=sì_zé
+13	运算	_	VERB	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=yùn_suàn
+14	装置	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=zhuāng_zhì
+15	，	_	PUNCT	_	_	18	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+16	其	_	PRON	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
+17	特征	_	NOUN	_	_	18	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
+18	在	_	VERB	_	_	14	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
+19	于	_	ADP	_	_	18	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+20	，	_	PUNCT	_	_	22	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+21	还	_	ADV	_	_	22	mod	_	Gloss=_|SpaceAfter=No|Translit=huán
+22	包	_	VERB	_	_	19	comp:obj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+23	括	_	VERB	_	_	22	conj@m	_	Gloss=_|SpaceAfter=No|Translit=kuò
+24	：	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__59
+# sent_id = zh_patentchar-sud-test__59
 # patent_id = CN102016000266989CN00001073157170AFULZH20171103CN00D
 # text = 指令缓存单元，用于存储待执行的向量四则运算指令。
 1	指令	_	NOUN	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǐ_lìng
@@ -1619,10 +1661,10 @@
 13	指令	_	NOUN	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhǐ_lìng
 14	。	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__60
+# sent_id = zh_patentchar-sud-test__60
 # patent_id = CN102016000578730CN00001076440300AFULZH20180130CN00C
 # text = 1.一种分布式数据库数据同步方法，应用于所述分布式数据库中的目的数据节点，其特征在于，所述目的数据节点在执行应用客户端发送的数据操作指令时，还包括：
-1	1.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	分布式	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=fēn_bù_shì
@@ -1666,7 +1708,7 @@
 42	包括	_	VERB	_	_	24	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 43	：	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__61
+# sent_id = zh_patentchar-sud-test__61
 # patent_id = CN102016000578730CN00001076440300AFULZH20180130CN00C
 # text = 接收源数据节点发送的数据复制日志，所述复制日志中携带需要同步到所述目的节点的数据；
 1	接收	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
@@ -1693,7 +1735,7 @@
 22	数据	_	NOUN	_	_	14	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
 23	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__62
+# sent_id = zh_patentchar-sud-test__62
 # patent_id = CN102016000578730CN00001076440300AFULZH20180130CN00C
 # text = 获取所述源数据节点的版本，确定所述源数据节点的版本高于自身的版本时，缓存所述复制日志；
 1	获取	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=huò_qǔ
@@ -1722,7 +1764,7 @@
 24	日志	_	NOUN	_	_	21	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=rì_zhì
 25	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__63
+# sent_id = zh_patentchar-sud-test__63
 # patent_id = CN102016000578730CN00001076440300AFULZH20180130CN00C
 # text = 接收元数据服务器发送的升级指令，所述升级指令用于指示所述目的数据节点进行版本升级；
 1	接收	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
@@ -1748,7 +1790,7 @@
 21	升级	_	VERB	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shēng_jí
 22	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__64
+# sent_id = zh_patentchar-sud-test__64
 # patent_id = CN102016000578730CN00001076440300AFULZH20180130CN00C
 # text = 根据所述升级指令进行升级，在升级完成后，根据所述缓存的复制日志进行数据复制。
 1	根据	_	ADP	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -1774,7 +1816,7 @@
 21	复制	_	VERB	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=fù_zhì
 22	。	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__65
+# sent_id = zh_patentchar-sud-test__65
 # patent_id = CN102016000578730CN00001076440300AFULZH20180130CN00C
 # text = 2.根据权利要求1所述的方法，其特征在于，所述获取源数据节点的版本包括：
 1	2.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
@@ -1800,7 +1842,7 @@
 21	包括	_	VERB	_	_	13	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 22	：	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__66
+# sent_id = zh_patentchar-sud-test__66
 # patent_id = CN102016000578730CN00001076440300AFULZH20180130CN00C
 # text = 根据所述数据复制日志获取所述源数据节点的版本，所述数据复制日志中携带所述源数据节点的版本；
 1	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -1828,7 +1870,7 @@
 23	版本	_	NOUN	_	_	18	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bǎn_běn
 24	；	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__67
+# sent_id = zh_patentchar-sud-test__67
 # patent_id = CN102016000578730CN00001076440300AFULZH20180130CN00C
 # text = 接收所述源数据节点发送的通知消息，所述通知消息中携带所述源数据节点的版本，根据所述通知消息获取所述源数据节点的版本。
 1	接收	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
@@ -1865,10 +1907,10 @@
 32	版本	_	NOUN	_	_	26	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bǎn_běn
 33	。	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__68
+# sent_id = zh_patentchar-sud-test__68
 # patent_id = CN102016000556074CN00001076237070AFULZH20180123CN005
 # text = 1.一种数据同步的系统，其特征在于，包括数据库和用于执行数据操作的设备；
-1	1.	_	NUM	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	数据	_	NOUN	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
@@ -1880,20 +1922,23 @@
 10	特征	_	NOUN	_	_	11	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
 11	在	_	VERB	_	_	7	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
 12	于	_	ADP	_	_	11	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-13	，	_	NOUN	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-14	包括	_	VERB	_	_	12	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
-15	数据库	_	NOUN	_	_	14	comp	_	Gloss=_|SpaceAfter=No|Translit=shù_jù_kù
-16	和	_	CCONJ	_	_	23	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
-17	用	_	VERB	_	_	22	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yòng
-18	于	_	ADP	_	_	17	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-19	执行	_	VERB	_	_	18	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhí_xíng
-20	数据	_	NOUN	_	_	21	mod	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
-21	操作	_	VERB	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cāo_zuò
-22	的	_	PART	_	_	23	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-23	设备	_	NOUN	_	_	15	conj	_	Gloss=_|SpaceAfter=No|Translit=shè_bèi
-24	；	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+13	，	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+14	包	_	NOUN	_	_	12	comp:cleft	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+15	括	_	NOUN	_	_	14	conj@m	_	Gloss=_|SpaceAfter=No|Translit=kuò
+16	数	_	NOUN	_	_	17	mod@m	_	Gloss=_|SpaceAfter=No|Translit=shù
+17	据	_	NOUN	_	_	18	mod@m	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jù
+18	库	_	NOUN	_	_	14	comp	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=kù
+19	和	_	CCONJ	_	_	26	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
+20	用	_	VERB	_	_	25	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yòng
+21	于	_	ADP	_	_	20	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+22	执行	_	VERB	_	_	21	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhí_xíng
+23	数据	_	NOUN	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
+24	操作	_	VERB	_	_	22	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cāo_zuò
+25	的	_	PART	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+26	设备	_	NOUN	_	_	18	conj	_	Gloss=_|SpaceAfter=No|Translit=shè_bèi
+27	；	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__69
+# sent_id = zh_patentchar-sud-test__69
 # patent_id = CN102016000556074CN00001076237070AFULZH20180123CN005
 # text = 所述设备，用于向数据库发送携带有基准事件标识的第一查询请求，接收所述数据库发送的目标数据标识，向所述数据库发送携带有所述目标数据标识的第二查询请求，以及，接收并保存所述数据库发送的目标数据信息；
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -1937,22 +1982,24 @@
 39	第二	_	NUM	_	_	41	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
 40	查询	_	VERB	_	_	41	mod	_	Gloss=_|SpaceAfter=No|Translit=chá_xún
 41	请求	_	NOUN	_	_	31	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qǐng_qíu
-42	，	_	PUNCT	_	_	45	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-43	以及	_	CCONJ	_	_	45	cc	_	Gloss=_|SpaceAfter=No|Translit=yǐ_jí
-44	，	_	NOUN	_	_	45	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-45	接收	_	VERB	_	_	31	conj	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
-46	并	_	CCONJ	_	_	47	cc	_	Gloss=_|SpaceAfter=No|Translit=bìng
-47	保存	_	VERB	_	_	45	conj	_	Gloss=_|SpaceAfter=No|Translit=bǎo_cún
-48	所述	_	ADJ	_	_	49	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-49	数据库	_	NOUN	_	_	50	subj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù_kù
-50	发送	_	VERB	_	_	51	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=fā_sòng
-51	的	_	PART	_	_	54	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-52	目标	_	NOUN	_	_	54	mod	_	Gloss=_|SpaceAfter=No|Translit=mù_biāo
-53	数据	_	NOUN	_	_	54	mod	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
-54	信息	_	NOUN	_	_	45	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
-55	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+42	，	_	PUNCT	_	_	46	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+43	以	_	CCONJ	_	_	46	cc	_	ExtPos=CCONJ|Gloss=_|SpaceAfter=No|Translit=yǐ
+44	及	_	CCONJ	_	_	43	flat@m	_	Gloss=_|SpaceAfter=No|Translit=jí
+45	，	_	PUNCT	_	_	46	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+46	接	_	VERB	_	_	31	conj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=jiē
+47	收	_	VERB	_	_	46	conj@m	_	Gloss=_|SpaceAfter=No|Translit=shōu
+48	并	_	CCONJ	_	_	49	cc	_	Gloss=_|SpaceAfter=No|Translit=bìng
+49	保存	_	VERB	_	_	46	conj	_	Gloss=_|SpaceAfter=No|Translit=bǎo_cún
+50	所述	_	ADJ	_	_	51	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+51	数据库	_	NOUN	_	_	52	subj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù_kù
+52	发送	_	VERB	_	_	53	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=fā_sòng
+53	的	_	PART	_	_	56	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+54	目标	_	NOUN	_	_	56	mod	_	Gloss=_|SpaceAfter=No|Translit=mù_biāo
+55	数据	_	NOUN	_	_	56	mod	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
+56	信息	_	NOUN	_	_	46	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
+57	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__70
+# sent_id = zh_patentchar-sud-test__70
 # patent_id = CN102016000556074CN00001076237070AFULZH20180123CN005
 # text = 所述数据库，用于接收所述第一查询请求，根据所述基准事件标识确定目标事件标识，在事件表中查找所述目标事件标识对应的所述目标数据标识并向所述设备发送，接收所述第二查询请求，以及，在数据信息表中查找所述目标数据标识对应的所述目标数据信息并向所述设备发送；
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2026,7 +2073,7 @@
 69	发送	_	VERB	_	_	54	conj	_	Gloss=_|SpaceAfter=No|Translit=fā_sòng
 70	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__71
+# sent_id = zh_patentchar-sud-test__71
 # patent_id = CN102016000556074CN00001076237070AFULZH20180123CN005
 # text = 其中，所述基准事件标识用于反映所述设备上已保存的数据信息，所述目标事件标识用于反映所述设备上未保存的数据信息；
 1	其中	_	ADV	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
@@ -2064,7 +2111,7 @@
 33	信息	_	NOUN	_	_	25	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
 34	；	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__72
+# sent_id = zh_patentchar-sud-test__72
 # patent_id = CN102016000556074CN00001076237070AFULZH20180123CN005
 # text = 所述目标事件标识用于标识在所述系统中出现过的目标数据操作事件，所述目标数据标识用于标识所述目标数据信息，所述目标数据信息是所述目标数据操作事件产生的信息。
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2113,7 +2160,7 @@
 44	信息	_	NOUN	_	_	36	comp:pred	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
 45	。	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__73
+# sent_id = zh_patentchar-sud-test__73
 # patent_id = CN102016000556074CN00001076237070AFULZH20180123CN005
 # text = 2.根据权利要求1所述的系统，其特征在于，
 1	2.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
@@ -2131,7 +2178,7 @@
 13	于	_	ADP	_	_	12	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 14	，	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__74
+# sent_id = zh_patentchar-sud-test__74
 # patent_id = CN102016000556074CN00001076237070AFULZH20180123CN005
 # text = 所述设备，还用于响应于开机启动的触发指令，向所述数据库发送第三查询请求，以及，接收并保存所述数据信息表中所有的数据信息；
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2171,7 +2218,7 @@
 35	信息	_	NOUN	_	_	27	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
 36	；	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__75
+# sent_id = zh_patentchar-sud-test__75
 # patent_id = CN102016000556074CN00001076237070AFULZH20180123CN005
 # text = 所述数据库，还用于接收所述第三查询请求，响应于第三查询请求将所述数据信息表中所有的数据信息发送给所述设备。
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2206,7 +2253,7 @@
 30	设备	_	NOUN	_	_	28	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shè_bèi
 31	。	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__76
+# sent_id = zh_patentchar-sud-test__76
 # patent_id = CN102016000571511CN00001076441100AFULZH20180130CN00R
 # text = 1.一种水平井水淹程度评价方法，其特征在于，该水平井水淹程度评价方法包括：
 1	1.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
@@ -2232,7 +2279,7 @@
 21	包括	_	VERB	_	_	13	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 22	：	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__77
+# sent_id = zh_patentchar-sud-test__77
 # patent_id = CN102016000571511CN00001076441100AFULZH20180130CN00R
 # text = 步骤1，根据区块数据建立地质模型；
 1	步骤	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
@@ -2246,7 +2293,7 @@
 9	模型	_	NOUN	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
 10	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__78
+# sent_id = zh_patentchar-sud-test__78
 # patent_id = CN102016000571511CN00001076441100AFULZH20180130CN00R
 # text = 步骤2，根据生产资料进行历史数据历史拟合；
 1	步骤	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
@@ -2262,7 +2309,7 @@
 11	拟合	_	VERB	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=nǐ_hé
 12	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__79
+# sent_id = zh_patentchar-sud-test__79
 # patent_id = CN102016000571511CN00001076441100AFULZH20180130CN00R
 # text = 步骤3，对地质模型各网格的含水饱和度数据进行统计；
 1	步骤	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
@@ -2281,7 +2328,7 @@
 14	统计	_	VERB	_	_	13	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=tǒng_jì
 15	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__80
+# sent_id = zh_patentchar-sud-test__80
 # patent_id = CN102016000571511CN00001076441100AFULZH20180130CN00R
 # text = 步骤4，绘制含水饱和度等值线图；
 1	步骤	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
@@ -2294,7 +2341,7 @@
 8	线图	_	NOUN	_	_	4	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xiàn_tú
 9	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__81
+# sent_id = zh_patentchar-sud-test__81
 # patent_id = CN102016000571511CN00001076441100AFULZH20180130CN00R
 # text = 步骤5，利用相渗数据计算含水率与含水饱和度的关系曲线，并根据含水率对水淹程度进行划分；
 1	步骤	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
@@ -2322,7 +2369,7 @@
 23	划分	_	VERB	_	_	22	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=huá_fēn
 24	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__82
+# sent_id = zh_patentchar-sud-test__82
 # patent_id = CN102016000571511CN00001076441100AFULZH20180130CN00R
 # text = 步骤6，对水平井进行水淹程度划分，并评价水平井整体的水淹情况。
 1	步骤	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
@@ -2345,56 +2392,58 @@
 18	情况	_	NOUN	_	_	13	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qíng_kuàng
 19	。	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__83
+# sent_id = zh_patentchar-sud-test__83
 # patent_id = CN102016000571511CN00001076441100AFULZH20180130CN00R
 # text = 2.根据权利要求1所述的水平井水淹程度评价方法，其特征在于，在步骤1中，统计工区含油面积、油层厚度、孔隙度和渗透率等数据，进行地质建模。
-1	2.	_	NUM	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
-2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
-4	要求	_	VERB	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
-5	1	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=1
-6	所述	_	ADJ	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-7	的	_	PART	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-8	水平井	_	NOUN	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=shǔi_píng_jǐng
-9	水淹	_	VERB	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=shǔi_yān
-10	程度	_	NOUN	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=chéng_dù
-11	评价	_	VERB	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=píng_jià
-12	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
-13	，	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-14	其	_	PRON	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
-15	特	_	ADJ	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=tè
-16	征	_	NOUN	_	_	17	subj	_	Gloss=_|SpaceAfter=No|Translit=zhēng
-17	在	_	VERB	_	_	12	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
-18	于	_	ADP	_	_	17	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-19	，	_	PUNCT	_	_	25	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-20	在	_	ADP	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
-21	步骤	_	NOUN	_	_	23	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
-22	1	_	NOUN	_	_	21	mod	_	Gloss=_|SpaceAfter=No|Translit=1
-23	中	_	NOUN	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhōng
-24	，	_	PUNCT	_	_	25	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-25	统计	_	VERB	_	_	18	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=tǒng_jì
-26	工区	_	NOUN	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=gōng_qū
-27	含油	_	ADJ	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=hán_yóu
-28	面积	_	NOUN	_	_	25	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=miàn_jī
-29	、	_	PUNCT	_	_	31	punct	_	Gloss=_|SpaceAfter=No|Translit=、
-30	油层	_	NOUN	_	_	31	mod	_	Gloss=_|SpaceAfter=No|Translit=yóu_céng
-31	厚度	_	NOUN	_	_	28	conj	_	Gloss=_|SpaceAfter=No|Translit=hòu_dù
-32	、	_	PUNCT	_	_	33	punct	_	Gloss=_|SpaceAfter=No|Translit=、
-33	孔隙度	_	NOUN	_	_	31	conj	_	Gloss=_|SpaceAfter=No|Translit=kǒng_xì_dù
-34	和	_	CCONJ	_	_	35	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
-35	渗透率	_	NOUN	_	_	33	conj	_	Gloss=_|SpaceAfter=No|Translit=shèn_tòu_lv̀
-36	等	_	PART	_	_	35	conj	_	Gloss=_|SpaceAfter=No|Translit=děng
-37	数据	_	NOUN	_	_	25	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
-38	，	_	PUNCT	_	_	39	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-39	进行	_	VERB	_	_	25	conj	_	Gloss=_|SpaceAfter=No|Translit=jìn_xíng
-40	地质	_	NOUN	_	_	41	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_zhí
-41	建模	_	VERB	_	_	39	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiàn_mó
-42	。	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=。
+1	2.	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	NOUN	_	_	8	mod	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
+4	权	_	NOUN	_	_	6	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=quán
+5	利	_	NOUN	_	_	4	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+6	要求	_	VERB	_	_	3	comp:obj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=yào_qíu
+7	1	_	NOUN	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=1
+8	所述	_	ADJ	_	_	9	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+9	的	_	PART	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+10	水平井	_	NOUN	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=shǔi_píng_jǐng
+11	水淹	_	VERB	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=shǔi_yān
+12	程度	_	NOUN	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=chéng_dù
+13	评价	_	VERB	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=píng_jià
+14	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
+15	，	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+16	其	_	PRON	_	_	18	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
+17	特	_	ADJ	_	_	18	mod	_	Gloss=_|SpaceAfter=No|Translit=tè
+18	征	_	NOUN	_	_	19	subj	_	Gloss=_|SpaceAfter=No|Translit=zhēng
+19	在	_	VERB	_	_	14	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
+20	于	_	ADP	_	_	19	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+21	，	_	PUNCT	_	_	27	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+22	在	_	ADP	_	_	27	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
+23	步骤	_	NOUN	_	_	25	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
+24	1	_	NOUN	_	_	23	mod	_	Gloss=_|SpaceAfter=No|Translit=1
+25	中	_	NOUN	_	_	22	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhōng
+26	，	_	PUNCT	_	_	27	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+27	统计	_	VERB	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=tǒng_jì
+28	工区	_	NOUN	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=gōng_qū
+29	含油	_	ADJ	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=hán_yóu
+30	面积	_	NOUN	_	_	27	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=miàn_jī
+31	、	_	PUNCT	_	_	33	punct	_	Gloss=_|SpaceAfter=No|Translit=、
+32	油层	_	NOUN	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=yóu_céng
+33	厚度	_	NOUN	_	_	30	conj	_	Gloss=_|SpaceAfter=No|Translit=hòu_dù
+34	、	_	PUNCT	_	_	35	punct	_	Gloss=_|SpaceAfter=No|Translit=、
+35	孔隙度	_	NOUN	_	_	33	conj	_	Gloss=_|SpaceAfter=No|Translit=kǒng_xì_dù
+36	和	_	CCONJ	_	_	37	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
+37	渗透率	_	NOUN	_	_	35	conj	_	Gloss=_|SpaceAfter=No|Translit=shèn_tòu_lv̀
+38	等	_	PART	_	_	37	conj	_	Gloss=_|SpaceAfter=No|Translit=děng
+39	数据	_	NOUN	_	_	27	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
+40	，	_	PUNCT	_	_	41	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+41	进行	_	VERB	_	_	27	conj	_	Gloss=_|SpaceAfter=No|Translit=jìn_xíng
+42	地质	_	NOUN	_	_	43	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_zhí
+43	建模	_	VERB	_	_	41	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiàn_mó
+44	。	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__84
+# sent_id = zh_patentchar-sud-test__84
 # patent_id = CN102017000883219CN00001076218540AFULZH20180123CN00K
 # text = 1.一种能任意更动按键位置的键盘，包含基座、按键单元，及设置于该基座的扫描单元，其特征在于：
-1	1.	_	NUM	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	能	_	AUX	_	_	9	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=néng
@@ -2426,7 +2475,7 @@
 30	于	_	ADP	_	_	29	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 31	：	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__85
+# sent_id = zh_patentchar-sud-test__85
 # patent_id = CN102017000883219CN00001076218540AFULZH20180123CN00K
 # text = 所述基座包括多个嵌槽；
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2437,7 +2486,7 @@
 6	嵌槽	_	NOUN	_	_	3	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=qiàn_cáo
 7	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__86
+# sent_id = zh_patentchar-sud-test__86
 # patent_id = CN102017000883219CN00001076218540AFULZH20180123CN00K
 # text = 所述按键单元包括多个能随意地设置于所述嵌槽的按键模块，每个按键模块具有键帽，及与该键帽相连结的识别电路；
 1	所述	_	ADJ	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2475,7 +2524,7 @@
 33	电路	_	NOUN	_	_	23	conj	_	Gloss=_|SpaceAfter=No|Translit=diàn_lù
 34	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__87
+# sent_id = zh_patentchar-sud-test__87
 # patent_id = CN102017000883219CN00001076218540AFULZH20180123CN00K
 # text = 所述扫描单元是用于依序输出不同频率的侦测信号，同时接收所述侦测信号对所述识别电路电磁振荡而产生的回传信号，并根据所述回传信号的频率及强度来判断哪个按键模块的键帽被按下及按压的力量。
 1	所述	_	ADJ	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2520,102 +2569,109 @@
 40	及	_	CCONJ	_	_	41	cc	_	Gloss=_|SpaceAfter=No|Translit=jí
 41	强度	_	NOUN	_	_	39	conj	_	Gloss=_|SpaceAfter=No|Translit=qiáng_dù
 42	来	_	VERB	_	_	17	conj	_	Gloss=_|SpaceAfter=No|Translit=lái
-43	判断	_	VERB	_	_	42	comp:svc	_	Gloss=_|SpaceAfter=No|Translit=pàn_duàn
-44	哪个	_	NOUN	_	_	46	det	_	Gloss=_|SpaceAfter=No|Translit=nǎ_gè
-45	按键	_	NOUN	_	_	46	mod	_	Gloss=_|SpaceAfter=No|Translit=àn_jiàn
-46	模块	_	NOUN	_	_	47	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_kuài
-47	的	_	PART	_	_	48	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-48	键帽	_	NOUN	_	_	49	subj	_	Gloss=_|SpaceAfter=No|Translit=jiàn_mào
-49	被	_	PART	_	_	43	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bèi
-50	按下	_	VERB	_	_	49	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=àn_xià
-51	及	_	CCONJ	_	_	54	cc	_	Gloss=_|SpaceAfter=No|Translit=jí
-52	按压	_	VERB	_	_	53	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=àn_yā
-53	的	_	PART	_	_	54	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-54	力量	_	NOUN	_	_	49	conj	_	Gloss=_|SpaceAfter=No|Translit=lì_liàng
-55	。	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=。
+43	判	_	VERB	_	_	42	comp:svc	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=pàn
+44	断	_	VERB	_	_	43	conj@m	_	Gloss=_|SpaceAfter=No|Translit=duàn
+45	哪	_	DET	_	_	46	mod@m	_	Gloss=_|SpaceAfter=No|Translit=nǎ
+46	个	_	DET	_	_	50	det	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=gè
+47	按	_	NOUN	_	_	48	mod@m	_	Gloss=_|SpaceAfter=No|Translit=àn
+48	键	_	NOUN	_	_	50	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jiàn
+49	模	_	NOUN	_	_	50	mod@m	_	Gloss=_|SpaceAfter=No|Translit=mó
+50	块	_	NOUN	_	_	51	comp:obj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=kuài
+51	的	_	PART	_	_	52	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+52	键帽	_	NOUN	_	_	53	subj	_	Gloss=_|SpaceAfter=No|Translit=jiàn_mào
+53	被	_	PART	_	_	43	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bèi
+54	按下	_	VERB	_	_	53	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=àn_xià
+55	及	_	CCONJ	_	_	58	cc	_	Gloss=_|SpaceAfter=No|Translit=jí
+56	按压	_	VERB	_	_	57	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=àn_yā
+57	的	_	PART	_	_	58	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+58	力量	_	NOUN	_	_	53	conj	_	Gloss=_|SpaceAfter=No|Translit=lì_liàng
+59	。	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__88
+# sent_id = zh_patentchar-sud-test__88
 # patent_id = CN102017000883219CN00001076218540AFULZH20180123CN00K
 # text = 2.根据权利要求1所述的能任意更动按键位置的键盘，其特征在于，每个按键模块的识别电路为调谐电路且具有一共振频率，当一侦测信号的频率实质上相同于该共振频率时，该扫描单元所接收到的回传信号的频率将实质上相同于该侦测信号的频率。
-1	2.	_	NUM	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
-2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
-4	要求	_	VERB	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
-5	1	_	NUM	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=1
-6	所述	_	ADJ	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-7	的	_	NOUN	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-8	能	_	AUX	_	_	13	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=néng
-9	任意	_	ADV	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=rèn_yì
-10	更动	_	VERB	_	_	8	comp:aux	_	Gloss=_|SpaceAfter=No|Translit=gèng_dòng
-11	按键	_	NOUN	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=àn_jiàn
-12	位置	_	NOUN	_	_	10	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=wèi_zhì
-13	的	_	PART	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-14	键盘	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiàn_pán
-15	，	_	PUNCT	_	_	18	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-16	其	_	PRON	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
-17	特征	_	NOUN	_	_	18	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
-18	在	_	VERB	_	_	14	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
-19	于	_	ADP	_	_	18	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-20	，	_	PUNCT	_	_	28	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-21	每	_	DET	_	_	22	mod	_	Gloss=_|SpaceAfter=No|Translit=měi
-22	个	_	NOUN	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=gè
-23	按键	_	NOUN	_	_	24	mod	_	Gloss=_|SpaceAfter=No|Translit=àn_jiàn
-24	模块	_	NOUN	_	_	25	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_kuài
-25	的	_	PART	_	_	27	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-26	识别	_	VERB	_	_	27	mod	_	Gloss=_|SpaceAfter=No|Translit=shì_bié
-27	电路	_	NOUN	_	_	28	subj	_	Gloss=_|SpaceAfter=No|Translit=diàn_lù
-28	为	_	VERB	_	_	19	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=wèi
-29	调谐	_	ADJ	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=diào_xié
-30	电路	_	NOUN	_	_	28	comp:pred	_	Gloss=_|SpaceAfter=No|Translit=diàn_lù
-31	且	_	CCONJ	_	_	32	cc	_	Gloss=_|SpaceAfter=No|Translit=qiě
-32	具有	_	VERB	_	_	28	conj	_	Gloss=_|SpaceAfter=No|Translit=jù_yǒu
-33	一	_	NUM	_	_	35	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
-34	共振	_	ADJ	_	_	35	mod	_	Gloss=_|SpaceAfter=No|Translit=gòng_zhèn
-35	频率	_	NOUN	_	_	32	comp	_	Gloss=_|SpaceAfter=No|Translit=pín_lv̀
-36	，	_	PUNCT	_	_	63	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-37	当	_	SCONJ	_	_	63	mod	_	Gloss=_|SpaceAfter=No|Translit=dāng
-38	一	_	NUM	_	_	40	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
-39	侦测	_	VERB	_	_	40	mod	_	Gloss=_|SpaceAfter=No|Translit=zhēn_cè
-40	信号	_	NOUN	_	_	41	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_hào
-41	的	_	PART	_	_	42	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-42	频率	_	NOUN	_	_	45	subj	_	Gloss=_|SpaceAfter=No|Translit=pín_lv̀
-43	实质	_	NOUN	_	_	44	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shí_zhí
-44	上	_	PART	_	_	45	mod	_	Gloss=_|SpaceAfter=No|Translit=shàng
-45	相同	_	ADJ	_	_	50	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xiāng_tóng
-46	于	_	ADP	_	_	45	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-47	该	_	DET	_	_	49	mod	_	Gloss=_|SpaceAfter=No|Translit=gāi
-48	共振	_	ADJ	_	_	49	mod	_	Gloss=_|SpaceAfter=No|Translit=gòng_zhèn
-49	频率	_	NOUN	_	_	46	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=pín_lv̀
-50	时	_	ADP	_	_	37	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shí
-51	，	_	PUNCT	_	_	63	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-52	该	_	DET	_	_	54	mod	_	Gloss=_|SpaceAfter=No|Translit=gāi
-53	扫描	_	VERB	_	_	54	mod	_	Gloss=_|SpaceAfter=No|Translit=sǎo_miáo
-54	单元	_	NOUN	_	_	55	subj	_	Gloss=_|SpaceAfter=No|Translit=dān_yuán
-55	所	_	PART	_	_	58	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ
-56	接收	_	VERB	_	_	55	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
-57	到	_	VERB	_	_	56	comp:res	_	Gloss=_|SpaceAfter=No|Translit=dào
-58	的	_	NOUN	_	_	60	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-59	回传	_	VERB	_	_	60	mod	_	Gloss=_|SpaceAfter=No|Translit=húi_chuán
-60	信号	_	NOUN	_	_	61	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_hào
-61	的	_	NOUN	_	_	62	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-62	频率	_	NOUN	_	_	63	subj	_	Gloss=_|SpaceAfter=No|Translit=pín_lv̀
-63	将	_	PART	_	_	28	parataxis	_	Gloss=_|SpaceAfter=No|Translit=jiāng
-64	实质	_	NOUN	_	_	65	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shí_zhí
-65	上	_	NOUN	_	_	67	mod	_	Gloss=_|SpaceAfter=No|Translit=shàng
-66	相	_	ADV	_	_	67	mod	_	Gloss=_|SpaceAfter=No|Translit=xiāng
-67	同	_	ADJ	_	_	63	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=tóng
-68	于	_	ADP	_	_	67	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-69	该	_	DET	_	_	71	mod	_	Gloss=_|SpaceAfter=No|Translit=gāi
-70	侦测	_	VERB	_	_	71	mod	_	Gloss=_|SpaceAfter=No|Translit=zhēn_cè
-71	信号	_	NOUN	_	_	72	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_hào
-72	的	_	PART	_	_	73	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-73	频率	_	NOUN	_	_	68	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=pín_lv̀
-74	。	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=。
+1	2.	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	NOUN	_	_	9	mod	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
+4	权	_	NOUN	_	_	6	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=quán
+5	利	_	NOUN	_	_	4	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+6	要	_	VERB	_	_	3	comp:obj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=yào
+7	求	_	VERB	_	_	6	conj@m	_	Gloss=_|SpaceAfter=No|Translit=qíu
+8	1	_	NUM	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=1
+9	所述	_	ADJ	_	_	10	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+10	的	_	NOUN	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	能	_	AUX	_	_	16	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=néng
+12	任意	_	ADV	_	_	13	mod	_	Gloss=_|SpaceAfter=No|Translit=rèn_yì
+13	更动	_	VERB	_	_	11	comp:aux	_	Gloss=_|SpaceAfter=No|Translit=gèng_dòng
+14	按键	_	NOUN	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=àn_jiàn
+15	位置	_	NOUN	_	_	13	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=wèi_zhì
+16	的	_	PART	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+17	键盘	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiàn_pán
+18	，	_	PUNCT	_	_	21	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+19	其	_	PRON	_	_	20	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
+20	特征	_	NOUN	_	_	21	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
+21	在	_	VERB	_	_	17	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
+22	于	_	ADP	_	_	21	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+23	，	_	PUNCT	_	_	31	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+24	每	_	DET	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=měi
+25	个	_	NOUN	_	_	27	mod	_	Gloss=_|SpaceAfter=No|Translit=gè
+26	按键	_	NOUN	_	_	27	mod	_	Gloss=_|SpaceAfter=No|Translit=àn_jiàn
+27	模块	_	NOUN	_	_	28	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_kuài
+28	的	_	PART	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+29	识别	_	VERB	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=shì_bié
+30	电路	_	NOUN	_	_	31	subj	_	Gloss=_|SpaceAfter=No|Translit=diàn_lù
+31	为	_	VERB	_	_	22	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=wèi
+32	调谐	_	ADJ	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=diào_xié
+33	电路	_	NOUN	_	_	31	comp:pred	_	Gloss=_|SpaceAfter=No|Translit=diàn_lù
+34	且	_	CCONJ	_	_	35	cc	_	Gloss=_|SpaceAfter=No|Translit=qiě
+35	具有	_	VERB	_	_	31	conj	_	Gloss=_|SpaceAfter=No|Translit=jù_yǒu
+36	一	_	NUM	_	_	38	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
+37	共振	_	ADJ	_	_	38	mod	_	Gloss=_|SpaceAfter=No|Translit=gòng_zhèn
+38	频率	_	NOUN	_	_	35	comp	_	Gloss=_|SpaceAfter=No|Translit=pín_lv̀
+39	，	_	PUNCT	_	_	66	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+40	当	_	SCONJ	_	_	66	mod	_	Gloss=_|SpaceAfter=No|Translit=dāng
+41	一	_	NUM	_	_	43	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
+42	侦测	_	VERB	_	_	43	mod	_	Gloss=_|SpaceAfter=No|Translit=zhēn_cè
+43	信号	_	NOUN	_	_	44	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_hào
+44	的	_	PART	_	_	45	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+45	频率	_	NOUN	_	_	48	subj	_	Gloss=_|SpaceAfter=No|Translit=pín_lv̀
+46	实质	_	NOUN	_	_	47	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shí_zhí
+47	上	_	PART	_	_	48	mod	_	Gloss=_|SpaceAfter=No|Translit=shàng
+48	相同	_	ADJ	_	_	53	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xiāng_tóng
+49	于	_	ADP	_	_	48	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+50	该	_	DET	_	_	52	mod	_	Gloss=_|SpaceAfter=No|Translit=gāi
+51	共振	_	ADJ	_	_	52	mod	_	Gloss=_|SpaceAfter=No|Translit=gòng_zhèn
+52	频率	_	NOUN	_	_	49	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=pín_lv̀
+53	时	_	ADP	_	_	40	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shí
+54	，	_	PUNCT	_	_	66	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+55	该	_	DET	_	_	57	mod	_	Gloss=_|SpaceAfter=No|Translit=gāi
+56	扫描	_	VERB	_	_	57	mod	_	Gloss=_|SpaceAfter=No|Translit=sǎo_miáo
+57	单元	_	NOUN	_	_	58	subj	_	Gloss=_|SpaceAfter=No|Translit=dān_yuán
+58	所	_	PART	_	_	61	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=suǒ
+59	接收	_	VERB	_	_	58	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
+60	到	_	VERB	_	_	59	comp:res	_	Gloss=_|SpaceAfter=No|Translit=dào
+61	的	_	NOUN	_	_	63	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+62	回传	_	VERB	_	_	63	mod	_	Gloss=_|SpaceAfter=No|Translit=húi_chuán
+63	信号	_	NOUN	_	_	64	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_hào
+64	的	_	NOUN	_	_	65	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+65	频率	_	NOUN	_	_	66	subj	_	Gloss=_|SpaceAfter=No|Translit=pín_lv̀
+66	将	_	PART	_	_	31	parataxis	_	Gloss=_|SpaceAfter=No|Translit=jiāng
+67	实质	_	NOUN	_	_	68	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shí_zhí
+68	上	_	NOUN	_	_	70	mod	_	Gloss=_|SpaceAfter=No|Translit=shàng
+69	相	_	ADV	_	_	70	mod	_	Gloss=_|SpaceAfter=No|Translit=xiāng
+70	同	_	ADJ	_	_	66	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=tóng
+71	于	_	ADP	_	_	70	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+72	该	_	DET	_	_	74	mod	_	Gloss=_|SpaceAfter=No|Translit=gāi
+73	侦测	_	VERB	_	_	74	mod	_	Gloss=_|SpaceAfter=No|Translit=zhēn_cè
+74	信号	_	NOUN	_	_	75	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_hào
+75	的	_	PART	_	_	76	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+76	频率	_	NOUN	_	_	71	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=pín_lv̀
+77	。	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__89
+# sent_id = zh_patentchar-sud-test__89
 # patent_id = CN102016000270911CN00001073159590AFULZH20171103CN001
 # text = 1.一种移动终端业务安全的保障方法，应用在移动终端，其特征在于，所述方法包括：
-1	1.	_	NUM	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NUM	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	移动	_	VERB	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=yí_dòng
@@ -2641,7 +2697,7 @@
 24	包括	_	VERB	_	_	20	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 25	：	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__90
+# sent_id = zh_patentchar-sud-test__90
 # patent_id = CN102016000270911CN00001073159590AFULZH20171103CN001
 # text = 运行在主操作系统的客户端在接收到服务端发送的第一签名结果后，调用运行在可信执行环境TEE中的对应可信应用TA，其中，所述第一签名结果由所述服务端针对所述客户端发送的业务要素进行签名后返回给所述客户端；
 1	运行	_	VERB	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yùn_xíng
@@ -2701,7 +2757,7 @@
 55	客户端	_	NOUN	_	_	53	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=kè_hù_duān
 56	；	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__91
+# sent_id = zh_patentchar-sud-test__91
 # patent_id = CN102016000270911CN00001073159590AFULZH20171103CN001
 # text = 所述TA对所述第一签名结果进行校验，并在校验通过后，通过可信用户界面TUI接收用户输入的业务操作信息；
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2728,13 +2784,16 @@
 22	接收	_	VERB	_	_	3	conj	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
 23	用户	_	NOUN	_	_	24	subj	_	Gloss=_|SpaceAfter=No|Translit=yòng_hù
 24	输入	_	VERB	_	_	25	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shū_rù
-25	的	_	NOUN	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-26	业务	_	NOUN	_	_	27	mod	_	Gloss=_|SpaceAfter=No|Translit=yè_wù
-27	操作	_	VERB	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=cāo_zuò
-28	信息	_	NOUN	_	_	22	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
-29	；	_	NOUN	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+25	的	_	NOUN	_	_	30	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+26	业	_	NOUN	_	_	28	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=yè
+27	务	_	NOUN	_	_	26	conj@m	_	Gloss=_|SpaceAfter=No|Translit=wù
+28	操	_	NOUN	_	_	30	mod	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=cāo
+29	作	_	NOUN	_	_	28	conj@m	_	Gloss=_|SpaceAfter=No|Translit=zuò
+30	信	_	NOUN	_	_	22	comp:obj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=xìn
+31	息	_	NOUN	_	_	30	conj@m	_	Gloss=_|SpaceAfter=No|Translit=xī
+32	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__92
+# sent_id = zh_patentchar-sud-test__92
 # patent_id = CN102016000270911CN00001073159590AFULZH20171103CN001
 # text = 所述TA将所述业务操作信息发送给所述客户端；
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2750,7 +2809,7 @@
 11	客户端	_	NOUN	_	_	9	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=kè_hù_duān
 12	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__93
+# sent_id = zh_patentchar-sud-test__93
 # patent_id = CN102016000270911CN00001073159590AFULZH20171103CN001
 # text = 所述客户端将所述业务操作信息发送给所述服务端，并接收服务端基于所述业务操作信息返回的业务处理结果。
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2775,46 +2834,52 @@
 20	操作	_	VERB	_	_	21	mod	_	Gloss=_|SpaceAfter=No|Translit=cāo_zuò
 21	信息	_	NOUN	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
 22	返回	_	VERB	_	_	23	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=fǎn_húi
-23	的	_	PART	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-24	业务	_	NOUN	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=yè_wù
-25	处理	_	VERB	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ
-26	结果	_	NOUN	_	_	14	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jié_guǒ
-27	。	_	NOUN	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=。
+23	的	_	PART	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+24	业	_	NOUN	_	_	26	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=yè
+25	务	_	NOUN	_	_	24	conj@m	_	Gloss=_|SpaceAfter=No|Translit=wù
+26	处	_	VERB	_	_	28	mod	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=chù
+27	理	_	VERB	_	_	26	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lǐ
+28	结	_	VERB	_	_	14	comp:obj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jié
+29	果	_	NOUN	_	_	28	comp:obj@m	_	Gloss=_|SpaceAfter=No|Translit=guǒ
+30	。	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__94
+# sent_id = zh_patentchar-sud-test__94
 # patent_id = CN102016000270911CN00001073159590AFULZH20171103CN001
 # text = 2.根据权利要求1所述的方法，其特征在于，所述TA通过所述TUI接收用户输入的业务操作信息，包括：
-1	2.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
-2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
-4	要求	_	VERB	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
-5	1	_	NUM	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=1
-6	所述	_	ADJ	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-7	的	_	PART	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-8	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
-9	，	_	NOUN	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-10	其	_	PRON	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
-11	特征	_	NOUN	_	_	12	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
-12	在	_	VERB	_	_	8	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
-13	于	_	ADP	_	_	12	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-14	，	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-15	所述	_	ADJ	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-16	TA	_	PROPN	_	_	20	subj	_	Gloss=_|SpaceAfter=No|Translit=TA
-17	通过	_	ADP	_	_	20	mod	_	Gloss=_|SpaceAfter=No|Translit=tōng_guò
+1	2.	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+2	根	_	NOUN	_	_	3	mod@m	_	Gloss=_|SpaceAfter=No|Translit=gēn
+3	据	_	NOUN	_	_	9	mod	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
+4	权	_	NOUN	_	_	6	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=quán
+5	利	_	NOUN	_	_	4	conj@m	_	Gloss=_|SpaceAfter=No|Translit=lì
+6	要	_	VERB	_	_	3	comp:obj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=yào
+7	求	_	VERB	_	_	6	conj@m	_	Gloss=_|SpaceAfter=No|Translit=qíu
+8	1	_	NUM	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=1
+9	所述	_	ADJ	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+10	的	_	PART	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+11	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
+12	，	_	NOUN	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+13	其	_	PRON	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
+14	特征	_	NOUN	_	_	15	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
+15	在	_	VERB	_	_	11	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
+16	于	_	ADP	_	_	15	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
+17	，	_	PUNCT	_	_	23	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 18	所述	_	ADJ	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-19	TUI	_	PROPN	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=TUI
-20	接收	_	VERB	_	_	13	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
-21	用户	_	NOUN	_	_	22	subj	_	Gloss=_|SpaceAfter=No|Translit=yòng_hù
-22	输入	_	VERB	_	_	23	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shū_rù
-23	的	_	PART	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-24	业务	_	NOUN	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=yè_wù
-25	操作	_	VERB	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=cāo_zuò
-26	信息	_	NOUN	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
-27	，	_	PUNCT	_	_	28	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-28	包括	_	VERB	_	_	12	parataxis	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
-29	：	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=：
+19	TA	_	PROPN	_	_	23	subj	_	Gloss=_|SpaceAfter=No|Translit=TA
+20	通过	_	ADP	_	_	23	mod	_	Gloss=_|SpaceAfter=No|Translit=tōng_guò
+21	所述	_	ADJ	_	_	22	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+22	TUI	_	PROPN	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=TUI
+23	接收	_	VERB	_	_	16	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
+24	用户	_	NOUN	_	_	25	subj	_	Gloss=_|SpaceAfter=No|Translit=yòng_hù
+25	输入	_	VERB	_	_	26	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shū_rù
+26	的	_	PART	_	_	29	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+27	业务	_	NOUN	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=yè_wù
+28	操作	_	VERB	_	_	29	mod	_	Gloss=_|SpaceAfter=No|Translit=cāo_zuò
+29	信息	_	NOUN	_	_	23	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
+30	，	_	PUNCT	_	_	31	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+31	包括	_	VERB	_	_	15	parataxis	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
+32	：	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__95
+# sent_id = zh_patentchar-sud-test__95
 # patent_id = CN102016000270911CN00001073159590AFULZH20171103CN001
 # text = 所述TA通过所述TUI展示业务要素页面；
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2822,13 +2887,17 @@
 3	通过	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=tōng_guò
 4	所述	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
 5	TUI	_	PROPN	_	_	3	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=TUI
-6	展示	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=zhǎn_shì
-7	业务	_	NOUN	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=yè_wù
-8	要素	_	NOUN	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=yào_sù
-9	页面	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yè_miàn
-10	；	_	NOUN	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+6	展	_	VERB	_	_	0	root	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=zhǎn
+7	示	_	VERB	_	_	6	conj@m	_	Gloss=_|SpaceAfter=No|Translit=shì
+8	业	_	NOUN	_	_	11	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=yè
+9	务	_	NOUN	_	_	8	conj@m	_	Gloss=_|SpaceAfter=No|Translit=wù
+10	要	_	ADJ	_	_	11	mod@m	_	Gloss=_|SpaceAfter=No|Translit=yào
+11	素	_	NOUN	_	_	13	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=sù
+12	页	_	NOUN	_	_	13	mod@m	_	Gloss=_|SpaceAfter=No|Translit=yè
+13	面	_	NOUN	_	_	6	comp:obj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=miàn
+14	；	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__96
+# sent_id = zh_patentchar-sud-test__96
 # patent_id = CN102016000270911CN00001073159590AFULZH20171103CN001
 # text = 所述TA通过所述业务要素页面接收用户输入的所述业务操作信息。
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -2841,17 +2910,21 @@
 8	接收	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
 9	用户	_	NOUN	_	_	10	subj	_	Gloss=_|SpaceAfter=No|Translit=yòng_hù
 10	输入	_	VERB	_	_	11	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shū_rù
-11	的	_	PART	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-12	所述	_	ADJ	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-13	业务	_	NOUN	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=yè_wù
-14	操作	_	VERB	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=cāo_zuò
-15	信息	_	NOUN	_	_	8	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_xī
-16	。	_	NOUN	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=。
+11	的	_	PART	_	_	18	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+12	所	_	PART	_	_	18	mod	_	ExtPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
+13	述	_	VERB	_	_	12	comp@m	_	Gloss=_|SpaceAfter=No|Translit=shù
+14	业	_	NOUN	_	_	16	mod	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=yè
+15	务	_	NOUN	_	_	14	conj@m	_	Gloss=_|SpaceAfter=No|Translit=wù
+16	操	_	VERB	_	_	18	mod	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=cāo
+17	作	_	VERB	_	_	16	conj@m	_	Gloss=_|SpaceAfter=No|Translit=zuò
+18	信	_	NOUN	_	_	8	comp:obj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=xìn
+19	息	_	NOUN	_	_	18	conj@m	_	Gloss=_|SpaceAfter=No|Translit=xī
+20	。	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__97
+# sent_id = zh_patentchar-sud-test__97
 # patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
 # text = 1.一种基于多参数关联的在轨卫星异常状态监测方法，其特征在于，包括以下步骤：
-1	1.	_	NUM	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	基	_	VERB	_	_	9	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jī
@@ -2877,7 +2950,7 @@
 24	步骤	_	NOUN	_	_	22	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
 25	：	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__98
+# sent_id = zh_patentchar-sud-test__98
 # patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
 # text = 收集卫星遥测参数历史数据并获取对应散点图；
 1	收集	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=shōu_jí
@@ -2892,7 +2965,7 @@
 10	散点图	_	NOUN	_	_	8	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=sàn_diǎn_tú
 11	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__99
+# sent_id = zh_patentchar-sud-test__99
 # patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
 # text = 根据卫星在正常状态下的遥测参数历史数据对应的散点图，基于最大互信息系数得到遥测参数取值空间上的关联关系模型；
 1	根据	_	ADJ	_	_	22	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -2928,7 +3001,7 @@
 31	模型	_	NOUN	_	_	22	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
 32	；	_	PUNCT	_	_	22	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = claims1-2_ch.shinmanoko_train_ExtPos_pinyin_gloss__100
+# sent_id = zh_patentchar-sud-test__100
 # patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
 # text = 根据卫星在正常状态下和异常状态下的遥测参数历史数据对应的散点图结合关联关系模型计算出卫星在正常状态下和异常状态下的互信息系数并确定互信息系数的分布；
 1	根据	_	ADP	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -2977,7 +3050,7 @@
 44	分布	_	NOUN	_	_	39	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=fēn_bù
 45	；	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__1
+# sent_id = zh_patentchar-sud-test__101
 # patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
 # text = 接收在轨卫星的遥测参数数据，根据关联关系模型计算遥测参数之间的互信息系数；
 1	接收	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiē_shōu
@@ -3002,7 +3075,7 @@
 20	系数	_	NOUN	_	_	13	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xì_shù
 21	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__2
+# sent_id = zh_patentchar-sud-test__102
 # patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
 # text = 根据遥测参数之间的互信息系数与卫星在正常状态下以及异常状态下的互信息系数的分布计算马氏距离，根据马氏距离判断多参数关联状态是否异常。
 1	根据	_	ADP	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -3046,10 +3119,10 @@
 39	异常	_	ADJ	_	_	33	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=yì_cháng
 40	。	_	PUNCT	_	_	26	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__3
+# sent_id = zh_patentchar-sud-test__103
 # patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
 # text = 2.根据权利要求1所述的一种基于多参数关联的在轨卫星异常状态监测方法，其特征在于，所述遥测参数之间的关联关系模型确定方式包括以下步骤：
-1	2.	_	NUM	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -3091,7 +3164,7 @@
 40	步骤	_	NOUN	_	_	38	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
 41	：	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__4
+# sent_id = zh_patentchar-sud-test__104
 # patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
 # text = 遍历所有卫星S
 1	遍历	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=biàn_lì
@@ -3099,7 +3172,7 @@
 3	卫星	_	NOUN	_	_	1	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=wèi_xīng
 4	S	_	PROPN	_	_	3	appos	_	Gloss=_|SpaceAfter=No|Translit=S
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__5
+# sent_id = zh_patentchar-sud-test__105
 # patent_id = CN102017000852330CN00001076441480AFULZH20180130CN00Y
 # text = 重复上述第一网格划分方案的构建过程并以最终的第一网格划分方案作为遥测参数之间的关联关系模型。
 1	重复	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=zhòng_fù
@@ -3130,10 +3203,10 @@
 26	模型	_	NOUN	_	_	18	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
 27	。	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__6
+# sent_id = zh_patentchar-sud-test__106
 # patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
 # text = 1.一种变电站的智能电子设备，用于监视及分析智能变电站产生的信息，其特征在于，包括：
-1	1.	_	NUM	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一种	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
 3	变电站	_	NOUN	_	_	4	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=biàn_diàn_zhàn
 4	的	_	PART	_	_	7	mod	_	CpdPos=PART|Gloss=_|SpaceAfter=No|Translit=de
@@ -3160,7 +3233,7 @@
 25	包括	_	VERB	_	_	23	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 26	：	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__7
+# sent_id = zh_patentchar-sud-test__107
 # patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
 # text = 处理器，所述处理器配置有两个以上的SFP接口，其中，各所述SFP接口通过所述处理器内部的PHY芯片自适应10M/100M/1000M的以太口，进而，所述SFP接口可插接百兆光模块、千兆光模块、RJ45接口和SFP模块中的一种或两种以上。
 1	处理器	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ_qì
@@ -3228,10 +3301,10 @@
 63	以上	_	PART	_	_	62	mod	_	Gloss=_|SpaceAfter=No|Translit=yǐ_shàng
 64	。	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__8
+# sent_id = zh_patentchar-sud-test__108
 # patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
 # text = 2.根据权利要求1所述的变电站的智能电子设备，其特征在于：
-1	2.	_	NUM	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -3250,7 +3323,7 @@
 17	于	_	ADP	_	_	16	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 18	：	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__9
+# sent_id = zh_patentchar-sud-test__109
 # patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
 # text = 所述智能电子设备包括后端FPGA以及两个以上的DSP，所述处理器还配置有一个RGMII接口，所述后端FPGA配置有一个RGMII接口，所述后端FPGA的RGMII接口与所述处理器的RGMII接口连接；
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -3302,7 +3375,7 @@
 47	连接	_	VERB	_	_	5	parataxis	_	Gloss=_|SpaceAfter=No|Translit=lián_jiē
 48	；	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__10
+# sent_id = zh_patentchar-sud-test__110
 # patent_id = CN102017000953062CN00001076437890AFULZH20180130CN005
 # text = 其中，各所述DSP分别通过HPI接口连接至所述后端FPGA。
 1	其中	_	ADP	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
@@ -3320,10 +3393,10 @@
 13	后端	_	NOUN	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=hòu_duān
 14	FPGA。	_	PROPN	_	_	11	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=FPGA。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__11
+# sent_id = zh_patentchar-sud-test__111
 # patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
 # text = 1.一种封闭式液冷服务器，包括壳体和服务器主板；
-1	1.	_	NUM	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一种	_	NUM	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
 3	封闭式	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=fēng_bì_shì
 4	液冷	_	VERB	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=yè_lěng
@@ -3336,7 +3409,7 @@
 11	主板	_	NOUN	_	_	8	conj	_	Gloss=_|SpaceAfter=No|Translit=zhǔ_bǎn
 12	；	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__12
+# sent_id = zh_patentchar-sud-test__112
 # patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
 # text = 其特征在于：
 1	其	_	PRON	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
@@ -3345,7 +3418,7 @@
 4	于	_	ADP	_	_	3	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yú
 5	：	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__13
+# sent_id = zh_patentchar-sud-test__113
 # patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
 # text = 所述壳体内容纳有制冷剂；
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -3356,7 +3429,7 @@
 6	制冷剂	_	NOUN	_	_	5	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhì_lěng_jì
 7	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__14
+# sent_id = zh_patentchar-sud-test__114
 # patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
 # text = 所述服务器主板设置在壳体中，壳体内的制冷剂浸没服务器主板；
 1	所述	_	ADJ	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -3376,7 +3449,7 @@
 15	主板	_	NOUN	_	_	13	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhǔ_bǎn
 16	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__15
+# sent_id = zh_patentchar-sud-test__115
 # patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
 # text = 所述制冷剂为硅油。
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -3385,10 +3458,10 @@
 4	硅油	_	NOUN	_	_	3	comp:pred	_	Gloss=_|SpaceAfter=No|Translit=gūi_yóu
 5	。	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__16
+# sent_id = zh_patentchar-sud-test__116
 # patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
 # text = 2.根据权利要求1所述的一种封闭式液冷服务器，其特征在于：
-1	2.	_	NUM	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -3406,7 +3479,7 @@
 16	于	_	ADP	_	_	15	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 17	：	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__17
+# sent_id = zh_patentchar-sud-test__117
 # patent_id = CN102017001004271CN00001076438130AFULZH20180130CN00T
 # text = 所述壳体是一个金属的密封腔体或者金属铸造密封腔体，制冷剂和服务器主板设置于密封腔体内，制冷剂浸没服务器主板的所有发热元件。
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -3444,10 +3517,10 @@
 33	元件	_	NOUN	_	_	26	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yuán_jiàn
 34	。	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__18
+# sent_id = zh_patentchar-sud-test__118
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 1.一种燃煤热值修正方法，其特征在于，包括：
-1	1.	_	NUM	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一种	_	NUM	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
 3	燃煤	_	VERB	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=rán_méi
 4	热值	_	NOUN	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=rè_zhí
@@ -3462,7 +3535,7 @@
 13	包括	_	VERB	_	_	11	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 14	：	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__19
+# sent_id = zh_patentchar-sud-test__119
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 实时获取发电机功率和燃煤流量；
 1	实时	_	ADV	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=shí_shí
@@ -3474,7 +3547,7 @@
 7	流量	_	NOUN	_	_	4	conj	_	Gloss=_|SpaceAfter=No|Translit=líu_liàng
 8	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__20
+# sent_id = zh_patentchar-sud-test__120
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 分别对所述发电机功率和燃煤流量进行积分累积运算，得到当前时刻的发电机功率累积值和当前时刻的燃煤流量累积值；
 1	分别	_	ADV	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=fēn_bié
@@ -3506,7 +3579,7 @@
 27	累积值	_	NOUN	_	_	20	conj	_	Gloss=_|SpaceAfter=No|Translit=lèi_jī_zhí
 28	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__21
+# sent_id = zh_patentchar-sud-test__121
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 分别将所述当前时刻的发电机功率累积值和当前时刻的燃煤流量累积值存储到预设的存储器中；
 1	分别	_	ADV	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=fēn_bié
@@ -3533,7 +3606,7 @@
 22	中	_	NOUN	_	_	18	comp:obj	_	CpdPos=PART|Gloss=_|SpaceAfter=No|Translit=zhōng
 23	；	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__22
+# sent_id = zh_patentchar-sud-test__122
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 获取预设时长的发电机功率累积值和燃煤流量累积值；
 1	获取	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=huò_qǔ
@@ -3549,7 +3622,7 @@
 11	累积值	_	NOUN	_	_	7	conj	_	Gloss=_|SpaceAfter=No|Translit=lèi_jī_zhí
 12	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__23
+# sent_id = zh_patentchar-sud-test__123
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 依据所述预设时长的发电机功率累积值和燃煤流量累积值，计算煤电比；
 1	依据	_	ADP	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=yī_jù
@@ -3569,7 +3642,7 @@
 15	煤电比	_	NOUN	_	_	14	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=méi_diàn_bǐ
 16	；	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__24
+# sent_id = zh_patentchar-sud-test__124
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 依据所述煤电比对当前燃煤热值进行修正。
 1	依据	_	ADP	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=yī_jù
@@ -3583,10 +3656,10 @@
 9	修正	_	VERB	_	_	8	comp:svc	_	Gloss=_|SpaceAfter=No|Translit=xīu_zhèng
 10	。	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__25
+# sent_id = zh_patentchar-sud-test__125
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 2.根据权利要求1所述的方法，其特征在于，所述分别对所述发电机功率和燃煤流量进行积分累积运算，得到当前时刻的发电机功率累积值和当前时刻的燃煤流量累积值中，对所述发电机功率进行积分累积运算，得到发电机功率累积值，包括：
-1	2.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -3647,7 +3720,7 @@
 59	包括	_	VERB	_	_	17	parataxis	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 60	：	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__26
+# sent_id = zh_patentchar-sud-test__126
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 判断所述第一发电机功率累积值是否超过了预设的第一阈值，并判断所述第二发电机功率是否超过了预设的第二阈值；
 1	判断	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=pàn_duàn
@@ -3680,7 +3753,7 @@
 28	阈值	_	NOUN	_	_	23	comp	_	Gloss=_|SpaceAfter=No|Translit=yù_zhí
 29	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__27
+# sent_id = zh_patentchar-sud-test__127
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 若所述第一发电机功率累积值超过了预设的第一阈值，将所述第一积分运算器中的第一发电机功率累积值清零，并重新对所述发电机功率进行积分累积运算；
 1	若	_	SCONJ	_	_	14	cc	_	Gloss=_|SpaceAfter=No|Translit=ruò
@@ -3721,7 +3794,7 @@
 36	运算	_	VERB	_	_	33	comp:svc	_	Gloss=_|SpaceAfter=No|Translit=yùn_suàn
 37	；	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__28
+# sent_id = zh_patentchar-sud-test__128
 # patent_id = CN102017000832312CN00001076224510AFULZH20180123CN003
 # text = 从所述第一积分运算器和第二积分运算器中确定主积分运算器，主积分运算器中得到的积分运算结果为当前时刻的发电机功率累积值。
 1	从	_	ADP	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=cóng
@@ -3757,10 +3830,10 @@
 31	累积值	_	NOUN	_	_	25	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=lèi_jī_zhí
 32	。	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__29
+# sent_id = zh_patentchar-sud-test__129
 # patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L
 # text = 1.一种电子地图索引方法，其特征在于，包括：
-1	1.	_	NUM	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一种	_	DET	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
 3	电子	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=diàn_zǐ
 4	地图	_	NOUN	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=dì_tú
@@ -3775,7 +3848,7 @@
 13	包括	_	VERB	_	_	11	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 14	：	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__30
+# sent_id = zh_patentchar-sud-test__130
 # patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L
 # text = 根据用户的操作指令，在图层界面上显示业务数据显示区，所述业务数据显示区显示所述图层界面所对应的应用的业务数据项，当所述业务数据项被选中时，在所述图层界面上显示所述业务数据项对应的兴趣点；
 1	根据	_	ADP	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -3834,7 +3907,7 @@
 54	兴趣点	_	NOUN	_	_	47	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xīng_qù_diǎn
 55	；	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__31
+# sent_id = zh_patentchar-sud-test__131
 # patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L
 # text = 其中，所述图层界面显示在基础地图的上方。
 1	其中	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
@@ -3850,10 +3923,10 @@
 11	上方	_	NOUN	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shàng_fāng
 12	。	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__32
+# sent_id = zh_patentchar-sud-test__132
 # patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L
 # text = 2.根据权利要求1所述的方法，其特征在于，所述根据用户的操作指令，在图层界面上显示业务数据显示区，包括：
-1	2.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -3886,7 +3959,7 @@
 31	包括	_	VERB	_	_	26	parataxis	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 32	：	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__33
+# sent_id = zh_patentchar-sud-test__133
 # patent_id = CN102016000266195CN00001073157480AFULZH20171103CN00L
 # text = 响应于来自用户的显示业务数据显示区的操作指令，在所述图层界面上显示所述业务数据显示区。
 1	响应	_	VERB	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=xiǎng_yìng
@@ -3914,10 +3987,10 @@
 23	显示区	_	NOUN	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xiǎn_shì_qū
 24	。	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__34
+# sent_id = zh_patentchar-sud-test__134
 # patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
 # text = 1.一种相似用户识别方法，其特征在于，包括：
-1	1.	_	NUM	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一种	_	DET	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
 3	相似	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=xiāng_sì
 4	用户	_	NOUN	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=yòng_hù
@@ -3932,7 +4005,7 @@
 13	包括	_	VERB	_	_	11	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 14	：	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__35
+# sent_id = zh_patentchar-sud-test__135
 # patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
 # text = 提取用户通信行为发生的位置和时间；
 1	提取	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=tí_qǔ
@@ -3946,7 +4019,7 @@
 9	时间	_	NOUN	_	_	7	conj	_	Gloss=_|SpaceAfter=No|Translit=shí_jiān
 10	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__36
+# sent_id = zh_patentchar-sud-test__136
 # patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
 # text = 根据用户在预定时间段内通信行为发生的位置和时间计算用户相对于基站的基站常用指数；
 1	根据	_	ADP	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -3975,7 +4048,7 @@
 24	指数	_	NOUN	_	_	16	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhǐ_shù
 25	；	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__37
+# sent_id = zh_patentchar-sud-test__137
 # patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
 # text = 根据用户相对于不同基站的所述基站常用指数提取预定数量基站，生成用户常用基站特征向量；
 1	根据	_	ADP	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -4002,7 +4075,7 @@
 22	向量	_	NOUN	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xiàng_liàng
 23	；	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__38
+# sent_id = zh_patentchar-sud-test__138
 # patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
 # text = 根据不同用户的所述用户常用基站特征向量确定用户相似度指数。
 1	根据	_	ADP	_	_	11	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -4021,10 +4094,10 @@
 14	指数	_	NOUN	_	_	11	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhǐ_shù
 15	。	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__39
+# sent_id = zh_patentchar-sud-test__139
 # patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
 # text = 2.根据权利要求1所述的方法，其特征在于，
-1	2.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -4039,7 +4112,7 @@
 13	于	_	ADP	_	_	12	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 14	，	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__40
+# sent_id = zh_patentchar-sud-test__140
 # patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
 # text = 所述用户通信行为包括通话和/或连接数据网络；
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4056,7 +4129,7 @@
 12	网络	_	NOUN	_	_	10	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=wǎng_luò
 13	；	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__41
+# sent_id = zh_patentchar-sud-test__141
 # patent_id = CN102016000268871CN00001073160440AFULZH20171103CN00I
 # text = 所述用户通信行为发生的位置为用户发生通信行为时交互的基站。
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4077,10 +4150,10 @@
 16	基站	_	NOUN	_	_	8	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jī_zhàn
 17	。	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__42
+# sent_id = zh_patentchar-sud-test__142
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 1.一种触控显示面板，包括显示区和围绕所述显示区的非显示区，其特征在于，包括：
-1	1.	_	NUM	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一种	_	DET	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
 3	触控	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=hóng_kòng
 4	显示	_	VERB	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=xiǎn_shì
@@ -4104,7 +4177,7 @@
 22	包括	_	VERB	_	_	20	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 23	：	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__43
+# sent_id = zh_patentchar-sud-test__143
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 所述显示区设置有多个自容式触控位置检测电极；
 1	所述	_	NOUN	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4119,7 +4192,7 @@
 10	电极	_	NOUN	_	_	4	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=diàn_jí
 11	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__44
+# sent_id = zh_patentchar-sud-test__144
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 所述非显示区设置有驱动电路和多个压感触控单元；
 1	所述	_	ADJ	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4137,7 +4210,7 @@
 13	单元	_	NOUN	_	_	7	conj	_	Gloss=_|SpaceAfter=No|Translit=dān_yuán
 14	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__45
+# sent_id = zh_patentchar-sud-test__145
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 所述显示区设置有多条触控位置走线；
 1	所述	_	ADJ	_	_	2	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4151,7 +4224,7 @@
 9	走线	_	NOUN	_	_	4	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zǒu_xiàn
 10	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__46
+# sent_id = zh_patentchar-sud-test__146
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 每个所述自容式触控位置检测电极与至少一条所述触控位置走线电连接；
 1	每个	_	DET	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=měi_gè
@@ -4172,7 +4245,7 @@
 16	连接	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=lián_jiē
 17	；	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__47
+# sent_id = zh_patentchar-sud-test__147
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 所述压感触控单元包括第一输入端、第二输入端、第一输出端和第二输出端；
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4193,7 +4266,7 @@
 16	输出端	_	NOUN	_	_	10	conj	_	Gloss=_|SpaceAfter=No|Translit=shū_chū_duān
 17	；	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__48
+# sent_id = zh_patentchar-sud-test__148
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 所述压感触控单元的第一输入端与第一电源信号线电连接，所述压感触控单元的第二输入端与第二电源信号线电连接，所述压感触控单元的第一输出端与第一压感检测信号线电连接，所述压感触控单元的第二输出端与第二压感检测信号线电连接；
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4256,7 +4329,7 @@
 58	连接	_	VERB	_	_	13	parataxis	_	Gloss=_|SpaceAfter=No|Translit=lián_jiē
 59	；	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__49
+# sent_id = zh_patentchar-sud-test__149
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 所述第一电源信号线和所述第二电源信号线用于向所述压感触控单元输入偏置电压信号；
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4281,7 +4354,7 @@
 20	信号	_	NOUN	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_hào
 21	；	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__50
+# sent_id = zh_patentchar-sud-test__150
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 所述第一压感检测信号线和所述第二压感检测信号线用于从所述压感触控单元输出压感检测信号；
 1	所述	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4308,7 +4381,7 @@
 22	信号	_	NOUN	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_hào
 23	；	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__51
+# sent_id = zh_patentchar-sud-test__151
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 所述多条触控位置走线包括第一触控位置走线，所述第一触控位置走线复用为所述第一电源信号线、所述第二电源信号线、所述第一压感检测信号线和所述第二压感检测信号线中的至少一种；
 1	所述	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4356,7 +4429,7 @@
 43	一种	_	DET	_	_	27	conj	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
 44	；	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__52
+# sent_id = zh_patentchar-sud-test__152
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 所述第一触控位置走线通过开关选择器分别与所述驱动电路的触控位置检测接口以及对应的压感检测接口电连接；
 1	所述	_	ADJ	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4387,7 +4460,7 @@
 26	连接	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=lián_jiē
 27	；	_	PUNCT	_	_	26	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__53
+# sent_id = zh_patentchar-sud-test__153
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 在触控位置检测阶段，所述开关选择器控制所述第一触控位置走线与所述驱动电路的触控位置检测接口电连接；
 1	在	_	ADP	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
@@ -4418,7 +4491,7 @@
 26	连接	_	VERB	_	_	10	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=lián_jiē
 27	；	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__54
+# sent_id = zh_patentchar-sud-test__154
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 在压力检测阶段，所述开关选择器控制所述第一触控位置走线与对应的所述压感检测接口电连接。
 1	在	_	ADP	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
@@ -4446,10 +4519,10 @@
 23	连接	_	VERB	_	_	9	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=lián_jiē
 24	。	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__55
+# sent_id = zh_patentchar-sud-test__155
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 2.根据权利要求1所述的触控显示面板，其特征在于，所述第一触控位置走线复用为所述第一电源信号线；
-1	2.	_	NUM	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -4478,7 +4551,7 @@
 27	信号线	_	NOUN	_	_	23	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=xìn_hào_xiàn
 28	；	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__56
+# sent_id = zh_patentchar-sud-test__156
 # patent_id = CN102017001017494CN00001076438530AFULZH20180130CN00F
 # text = 所述压感检测接口包括地线接口，所述第一触控位置走线通过所述开关选择器分别与对应的所述触控位置检测接口以及所述地线接口电连接。
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4515,27 +4588,28 @@
 32	连接	_	VERB	_	_	5	parataxis	_	Gloss=_|SpaceAfter=No|Translit=lián_jiē
 33	。	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__57
+# sent_id = zh_patentchar-sud-test__157
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 1.面向XenServer平台的虚拟机内存取证方法，其特征是，包括：
-1	1.	_	NUM	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
-2	面向	_	ADP	_	_	5	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=miàn_xiàng
-3	XenServer	_	PROPN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=XenServer
-4	平台	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=píng_tái
-5	的	_	PART	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-6	虚拟机	_	NOUN	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=xū_nǐ_jī
-7	内存	_	NOUN	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=nèi_cún
-8	取证	_	VERB	_	_	9	mod	_	Gloss=_|SpaceAfter=No|Translit=qǔ_zhèng
-9	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
-10	，	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-11	其	_	PRON	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
-12	特征	_	NOUN	_	_	13	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
-13	是	_	VERB	_	_	9	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shì
-14	，	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-15	包括	_	VERB	_	_	13	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
-16	：	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=：
+1	1.	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+2	面	_	VERB	_	_	6	comp:obj	_	ExtPos=ADP|Gloss=_|SpaceAfter=No|Translit=miàn
+3	向	_	ADP	_	_	2	comp:obl@m	_	Gloss=_|SpaceAfter=No|Translit=xiàng
+4	XenServer	_	PROPN	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=XenServer
+5	平台	_	NOUN	_	_	3	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=píng_tái
+6	的	_	PART	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=de
+7	虚拟机	_	NOUN	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=xū_nǐ_jī
+8	内存	_	NOUN	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=nèi_cún
+9	取证	_	VERB	_	_	10	mod	_	Gloss=_|SpaceAfter=No|Translit=qǔ_zhèng
+10	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
+11	，	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+12	其	_	PRON	_	_	13	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
+13	特征	_	NOUN	_	_	14	subj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
+14	是	_	VERB	_	_	10	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shì
+15	，	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+16	包括	_	VERB	_	_	14	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
+17	：	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__58
+# sent_id = zh_patentchar-sud-test__158
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 获取宿主机的物理内存信息存为内存镜像文件；
 1	获取	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=huò_qǔ
@@ -4551,7 +4625,7 @@
 11	文件	_	NOUN	_	_	8	comp	_	Gloss=_|SpaceAfter=No|Translit=wén_jiàn
 12	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__59
+# sent_id = zh_patentchar-sud-test__159
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 获取宿主机中的内核符号表文件；
 1	获取	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=huò_qǔ
@@ -4563,7 +4637,7 @@
 7	文件	_	NOUN	_	_	1	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=wén_jiàn
 8	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__60
+# sent_id = zh_patentchar-sud-test__160
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 所述内核符号表文件，包括：
 1	所述	_	ADJ	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -4574,7 +4648,7 @@
 6	包括	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 7	：	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__61
+# sent_id = zh_patentchar-sud-test__161
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = vmcoreinfo_data的值和paddr_vmcoreinfo_xen的值；
 1	vmcoreinfo_data	_	PROPN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=vmcoreinfo_data
@@ -4586,7 +4660,7 @@
 7	值	_	NOUN	_	_	3	conj	_	Gloss=_|SpaceAfter=No|Translit=zhí
 8	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__62
+# sent_id = zh_patentchar-sud-test__162
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 从内存镜像文件中搜索vmcoreinfo_data内容；
 1	从	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=cóng
@@ -4599,7 +4673,7 @@
 8	内容	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=nèi_róng
 9	；	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__63
+# sent_id = zh_patentchar-sud-test__163
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 将vmcoreinfo_data>中获取的vmcoreinfo_data的值进行对比，获取到这两个值的差值，即为DIRECTMAP_VIRT_START的值；
 1	将	_	PART	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiāng
@@ -4627,7 +4701,7 @@
 23	值	_	NOUN	_	_	18	appos	_	Gloss=_|SpaceAfter=No|Translit=zhí
 24	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__64
+# sent_id = zh_patentchar-sud-test__164
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 在内核符号表文件中搜索获取paddr_vmcoreinfo_xen的值，将paddr_vmcoreinfo_xen的值和DIRECTMAP_VIRT_START的值进行做差运算，得到paddr_vmcoreinfo_xen的物理地址，根据paddr_vmcoreinfo_xen的物理地址在内存镜像文件中指向的值获取到vmcoreinfo_xen内容的物理地址；
 1	在	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
@@ -4681,7 +4755,7 @@
 49	地址	_	NOUN	_	_	44	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dì_zhǐ
 50	；	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__65
+# sent_id = zh_patentchar-sud-test__165
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 根据vmcoreinfo_xen内容的物理地址获取vmcoreinfo_xen的内容，从中解析出内核符号的虚拟地址domain_list和pgd_l4；
 1	根据	_	ADP	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -4707,7 +4781,7 @@
 21	和	_	CCONJ	_	_	22	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
 22	pgd_l4；	_	PROPN	_	_	19	conj	_	Gloss=_|SpaceAfter=No|Translit=pgd_l4；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__66
+# sent_id = zh_patentchar-sud-test__166
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 其中，domain_list指向虚拟机所对应的domain结构体；
 1	其中	_	ADP	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=qí_zhōng
@@ -4724,7 +4798,7 @@
 12	体	_	NOUN	_	_	5	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=tǐ
 13	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__67
+# sent_id = zh_patentchar-sud-test__167
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = pgd_l4指向转换domain结构体中各虚拟地址需要的页目录基地址；
 1	pgd_l4	_	PROPN	_	_	2	subj	_	Gloss=_|SpaceAfter=No|Translit=pgd_l4
@@ -4745,7 +4819,7 @@
 16	地址	_	NOUN	_	_	3	comp	_	Gloss=_|SpaceAfter=No|Translit=dì_zhǐ
 17	；	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__68
+# sent_id = zh_patentchar-sud-test__168
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 根据pgd_l4物理地址对domain_list进行地址转换，获取domain_list指向内容对应domain结构体地址；
 1	根据	_	ADP	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -4768,7 +4842,7 @@
 18	地址	_	NOUN	_	_	11	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dì_zhǐ
 19	；	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__69
+# sent_id = zh_patentchar-sud-test__169
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 根据domain、vcpu、ach_vcpu、hvm_vcpu、arch_vmx_struct结构体之间的关系来获取虚拟机对应的vmcs_struct结构体；
 1	根据	_	ADP	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
@@ -4795,7 +4869,7 @@
 22	结构体	_	NOUN	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jié_gōu_tǐ
 23	；	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__70
+# sent_id = zh_patentchar-sud-test__170
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 从vmcs_struct结构体中获取ept指针和guest cr3；
 1	从	_	ADP	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=cóng
@@ -4806,10 +4880,10 @@
 6	ept	_	PROPN	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=ept
 7	指针	_	NOUN	_	_	5	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhǐ_zhēn
 8	和	_	CCONJ	_	_	9	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
-9	guest	_	PROPN	_	_	7	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=guest
-10	cr3；	_	PROPN	_	_	9	goeswith	_	Gloss=_|SpaceAfter=No|Translit=cr3；
+9	guest	_	PROPN	_	_	7	conj	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=guest
+10	cr3；	_	PROPN	_	_	9	flat	_	Gloss=_|SpaceAfter=No|Translit=cr3；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__71
+# sent_id = zh_patentchar-sud-test__171
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 实现虚拟机物理地址的地址转换；
 1	实现	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=shí_xiàn
@@ -4821,7 +4895,7 @@
 7	转换	_	VERB	_	_	1	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhuǎn_huàn
 8	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__72
+# sent_id = zh_patentchar-sud-test__172
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 获取到虚拟机物理内存内容后，进行虚拟机操作系统版本的判定；
 1	获取	_	VERB	_	_	7	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=huò_qǔ
@@ -4842,7 +4916,7 @@
 16	判定	_	VERB	_	_	9	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=pàn_dìng
 17	；	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__73
+# sent_id = zh_patentchar-sud-test__173
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
 # text = 虚拟机操作系统确定后，根据虚拟机操作系统版本的不同使用相应的内存分析方法进行物理内存分析。
 1	虚拟机	_	NOUN	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=xū_nǐ_jī
@@ -4870,10 +4944,10 @@
 23	分析	_	VERB	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=fēn_xī
 24	。	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__74
+# sent_id = zh_patentchar-sud-test__174
 # patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
 # text = 1.一种数据快照创建的方法，其特征在于，包括：
-1	1.	_	NUM	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一种	_	DET	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
 3	数据	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
 4	快照	_	NOUN	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=kuài_zhào
@@ -4889,7 +4963,7 @@
 14	包括	_	VERB	_	_	12	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 15	：	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__75
+# sent_id = zh_patentchar-sud-test__175
 # patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
 # text = 将源数据添加第一时间戳，并实时同步到第一镜像；
 1	将	_	PART	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=jiāng
@@ -4907,7 +4981,7 @@
 13	镜像	_	NOUN	_	_	11	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jìng_xiàng
 14	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__76
+# sent_id = zh_patentchar-sud-test__176
 # patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
 # text = 当所述第一镜像中的数据的第一时间戳小于等于创建快照的第二时间戳时，将所述第一镜像中的数据同步到第二镜像，并将所述第二镜像的数据复制至快照数据存放区；
 1	当	_	ADP	_	_	18	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dāng
@@ -4955,7 +5029,7 @@
 43	存放区	_	NOUN	_	_	40	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=cún_fàng_qū
 44	；	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__77
+# sent_id = zh_patentchar-sud-test__177
 # patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
 # text = 当所述第一镜像中的数据的第一时间戳大于创建快照的第二时间戳时，停止将所述第一镜像中的数据同步到第二镜像；
 1	当	_	ADP	_	_	17	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dāng
@@ -4990,7 +5064,7 @@
 30	镜像	_	NOUN	_	_	28	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jìng_xiàng
 31	；	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__78
+# sent_id = zh_patentchar-sud-test__178
 # patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
 # text = 为所述快照数据存放区的数据建立快照。
 1	为	_	ADP	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=wèi
@@ -5004,10 +5078,10 @@
 9	快照	_	NOUN	_	_	8	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=kuài_zhào
 10	。	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__79
+# sent_id = zh_patentchar-sud-test__179
 # patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
 # text = 2.根据权利要求1所述的方法，其特征在于，所述将源数据添加第一时间戳，并实时同步到第一镜像之前，还包括：
-1	2.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -5042,7 +5116,7 @@
 33	包括	_	VERB	_	_	13	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 34	：	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__80
+# sent_id = zh_patentchar-sud-test__180
 # patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
 # text = 判断源数据是否需要创建快照；
 1	判断	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=pàn_duàn
@@ -5054,7 +5128,7 @@
 7	快照	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=kuài_zhào
 8	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__81
+# sent_id = zh_patentchar-sud-test__181
 # patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
 # text = 若是，则继续执行所述将源数据添加第一时间戳，并实时同步到第一镜像的步骤；
 1	若	_	SCONJ	_	_	5	mod	_	CpdPos=SCONJ|Gloss=_|SpaceAfter=No|Translit=ruò
@@ -5081,7 +5155,7 @@
 22	步骤	_	NOUN	_	_	6	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
 23	；	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__82
+# sent_id = zh_patentchar-sud-test__182
 # patent_id = CN102017000842930CN00001076219940AFULZH20180123CN000
 # text = 若否，则将源数据实时同步到第一镜像。
 1	若	_	SCONJ	_	_	5	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=ruò
@@ -5098,10 +5172,10 @@
 12	镜像	_	NOUN	_	_	10	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jìng_xiàng
 13	。	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__83
+# sent_id = zh_patentchar-sud-test__183
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = 1.一种客车结构优化方法，其特征在于，所述客车结构优化方法包括如下步骤：
-1	1.	_	NUM	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	7	mod	_	CpdPos=DET|Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	客车	_	NOUN	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=kè_chē
@@ -5124,7 +5198,7 @@
 21	步骤	_	NOUN	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bù_zòu
 22	：	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__84
+# sent_id = zh_patentchar-sud-test__184
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S1、建立整车梁单元初始模型，对其进行模态分析，并与同类型车的模态进行对比；
 1	S1	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S1
@@ -5153,7 +5227,7 @@
 24	对比	_	VERB	_	_	23	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dùi_bǐ
 25	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__85
+# sent_id = zh_patentchar-sud-test__185
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S2、根据对比结果，建立拓扑壳单元模型，同时删除其中所有梁单元；
 1	S2	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S2
@@ -5176,7 +5250,7 @@
 18	单元	_	NOUN	_	_	14	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dān_yuán
 19	；	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__86
+# sent_id = zh_patentchar-sud-test__186
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S3、基于所述拓扑壳单元模型，定义优化分析工况的弯曲工况以及扭转工况；
 1	S3	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S3
@@ -5201,7 +5275,7 @@
 20	工况	_	NOUN	_	_	17	conj	_	Gloss=_|SpaceAfter=No|Translit=gōng_kuàng
 21	；	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__87
+# sent_id = zh_patentchar-sud-test__187
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S4、基于所述拓扑壳单元模型，定义拓扑优化的边界条件和目标函数；
 1	S4	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S4
@@ -5225,7 +5299,7 @@
 19	函数	_	NOUN	_	_	16	conj	_	Gloss=_|SpaceAfter=No|Translit=hán_shù
 20	；	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__88
+# sent_id = zh_patentchar-sud-test__188
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S5、根据步骤S4的优化结果，对初始的拓扑壳单元模型进行修改，获得优化后的第一整车梁单元模型；
 1	S5	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S5
@@ -5258,7 +5332,7 @@
 28	模型	_	NOUN	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
 29	；	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__89
+# sent_id = zh_patentchar-sud-test__189
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S6、按照整车参数配置表，将载荷作用到优化后的第一整车梁单元模型上；
 1	S6	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S6
@@ -5283,7 +5357,7 @@
 20	上	_	NOUN	_	_	11	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shàng
 21	；	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__90
+# sent_id = zh_patentchar-sud-test__190
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S7、基于所述优化后的第一整车梁单元模型，定义优化分析工况的弯曲工况以及扭转工况；
 1	S7	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S7
@@ -5312,7 +5386,7 @@
 24	工况	_	NOUN	_	_	21	conj	_	Gloss=_|SpaceAfter=No|Translit=gōng_kuàng
 25	；	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__91
+# sent_id = zh_patentchar-sud-test__191
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S8、定义尺寸优化的设计变量；
 1	S8	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S8
@@ -5325,7 +5399,7 @@
 8	变量	_	NOUN	_	_	3	comp/m	_	Gloss=_|SpaceAfter=No|Translit=biàn_liàng
 9	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__92
+# sent_id = zh_patentchar-sud-test__192
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S9、根据定义的优化设计变量及设计规范，确定优化区域方钢规格，获得第二整车梁单元模型；
 1	S9	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S9
@@ -5354,7 +5428,7 @@
 24	模型	_	NOUN	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
 25	；	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__93
+# sent_id = zh_patentchar-sud-test__193
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S10、建立整车的壳单元模型，并按照整车参数配置表，把载荷作用到壳单元模型上；
 1	S10	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S10
@@ -5383,7 +5457,7 @@
 24	上	_	NOUN	_	_	20	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shàng
 25	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__94
+# sent_id = zh_patentchar-sud-test__194
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S11、基于所述整车的壳单元模型，定义优化分析工况的弯曲工况、扭转工况、转向工况以及制动工况；
 1	S11	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S11
@@ -5415,7 +5489,7 @@
 27	工况	_	NOUN	_	_	24	conj	_	Gloss=_|SpaceAfter=No|Translit=gōng_kuàng
 28	；	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__95
+# sent_id = zh_patentchar-sud-test__195
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = S12、对所述第二整车梁单元模型进行调整，确定最终结构优化方案。
 1	S12	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=S12
@@ -5437,10 +5511,10 @@
 17	方案	_	NOUN	_	_	13	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=fāng_àn
 18	。	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__96
+# sent_id = zh_patentchar-sud-test__196
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = 2.根据权利要求1所述的客车结构优化方法，其特征在于，所述步骤S3中，所述弯曲工况包括：
-1	2.	_	NUM	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根据	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
 3	权利	_	NOUN	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
 4	要求	_	NOUN	_	_	2	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
@@ -5468,7 +5542,7 @@
 26	包括	_	VERB	_	_	16	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
 27	：	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__97
+# sent_id = zh_patentchar-sud-test__197
 # patent_id = CN102017000861831CN00001076221610AFULZH20180123CN00O
 # text = 约束前轮胎接地点的所有平动自由度，约束后轮胎除行驶方向的所有平动自由度，将客车的载荷按照整车的设计质心，均匀地作用到车身上。
 1	约束	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=yuē_shù
@@ -5509,7 +5583,7 @@
 36	上	_	NOUN	_	_	34	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shàng
 37	。	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__98
+# sent_id = zh_patentchar-sud-test__198
 # patent_id = CN102016000283925CN00001073296440AFULZH20171107CN003
 # text = 获取通过虚拟控件接收的在目标位置的输入的第一操作指令；
 1	获取	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=huò_qǔ
@@ -5529,7 +5603,7 @@
 15	指令	_	NOUN	_	_	1	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhǐ_lìng
 16	；	_	PUNCT	_	_	1	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__99
+# sent_id = zh_patentchar-sud-test__199
 # patent_id = CN102016000283925CN00001073296440AFULZH20171107CN003
 # text = 所述虚拟控件显示于当前界面，用于接收用于控制所述当前界面包含的图标移动的操作指令；
 1	所述	_	ADJ	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
@@ -5558,7 +5632,7 @@
 24	指令	_	NOUN	_	_	11	comp	_	Gloss=_|SpaceAfter=No|Translit=zhǐ_lìng
 25	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
-# sent_id = G_claims1-2_ch_muposCpdPos.100.last_pinyin_gloss__100
+# sent_id = zh_patentchar-sud-test__200
 # patent_id = CN102017000851390CN00001076237870AFULZH20180123CN001
 # text = 在桌面的预设区域显示头像图标，所述头像图标为应用程序的未读消息的来源的头像；
 1	在	_	ADP	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
