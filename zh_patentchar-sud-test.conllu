@@ -1,7 +1,7 @@
 # sent_id = zh_patentchar-sud-test__1
 # patent_id = CN102017000573680CN00001076219020AFULZH20180123CN00F
 # text = 1.一种压力传感器，所述压力传感器包括：
-1	1.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NUM	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	压	_	VERB	_	_	5	mod/m	_	Gloss=_|SpaceAfter=No|Translit=yā
