@@ -7576,7 +7576,7 @@
 
 # sent_id = zh_patentchar-sud-test__170
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
-# text = 从vmcs_struct结构体中获取ept指针和guest cr3；
+# text = 从vmcs_struct结构体中获取ept指针和guest_cr3；
 1	从	_	ADP	_	_	7	mod	_	Gloss=_|SpaceAfter=No|Translit=cóng
 2	vmcs_struct	_	PROPN	_	_	5	mod	_	Gloss=_|SpaceAfter=No|Translit=vmcs_struct
 3	结	_	VERB	_	_	5	mod/m	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jié
@@ -7589,9 +7589,8 @@
 10	指	_	VERB	_	_	11	mod/m	_	Gloss=_|SpaceAfter=No|Translit=zhǐ
 11	针	_	NOUN	_	_	7	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=zhēn
 12	和	_	CCONJ	_	_	13	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
-13	guest	_	PROPN	_	_	11	conj	_	CpdPos=PROPN|Gloss=_|SpaceAfter=No|Translit=guest
-14	cr3	_	PROPN	_	_	13	flat	_	Gloss=_|SpaceAfter=No|Translit=cr3
-15	；	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+13	guest_cr3	_	PROPN	_	_	11	conj	_	Gloss=_|SpaceAfter=No|Translit=guest_cr3
+14	；	_	PUNCT	_	_	7	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
 # sent_id = zh_patentchar-sud-test__171
 # patent_id = CN102017000966659CN00001076219710AFULZH20180123CN00G
