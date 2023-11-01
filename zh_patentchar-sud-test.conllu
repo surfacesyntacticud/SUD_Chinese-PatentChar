@@ -5,7 +5,7 @@
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NUM	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	压	_	VERB	_	_	5	mod/m	_	Gloss=_|SpaceAfter=No|Translit=yā
-5	力	_	NOUN	_	_	6	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=lì
+5	力	_	NOUN	_	_	8	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=lì
 6	传	_	VERB	_	_	8	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=chuán
 7	感	_	NOUN	_	_	6	comp:obj/m	_	Gloss=_|SpaceAfter=No|Translit=gǎn
 8	器	_	NOUN	_	_	0	root	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qì
@@ -13,7 +13,7 @@
 10	所	_	PART	_	_	16	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
 11	述	_	VERB	_	_	10	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 12	压	_	VERB	_	_	13	mod/m	_	Gloss=_|SpaceAfter=No|Translit=yā
-13	力	_	NOUN	_	_	14	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=lì
+13	力	_	NOUN	_	_	16	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=lì
 14	传	_	VERB	_	_	16	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=chuán
 15	感	_	NOUN	_	_	14	comp:obj/m	_	Gloss=_|SpaceAfter=No|Translit=gǎn
 16	器	_	NOUN	_	_	17	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qì
@@ -46,7 +46,7 @@
 20	区	_	NOUN	_	_	14	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qū
 21	的	_	PART	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 22	压	_	VERB	_	_	23	mod/m	_	Gloss=_|SpaceAfter=No|Translit=yā
-23	力	_	NOUN	_	_	24	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=lì
+23	力	_	NOUN	_	_	26	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=lì
 24	感	_	VERB	_	_	26	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=gǎn
 25	测	_	VERB	_	_	24	conj/m	_	Gloss=_|SpaceAfter=No|Translit=cè
 26	区	_	NOUN	_	_	27	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qū
@@ -232,7 +232,7 @@
 27	力	_	NOUN	_	_	22	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=lì
 28	施	_	NOUN	_	_	22	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shī
 29	加	_	NOUN	_	_	28	conj/m	_	Gloss=_|SpaceAfter=No|Translit=jiā
-30	到	_	NOUN	_	_	28	comp:aux	_	Gloss=_|SpaceAfter=No|Translit=dào
+30	到	_	NOUN	_	_	28	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dào
 31	所	_	NOUN	_	_	37	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=suǒ
 32	述	_	NOUN	_	_	31	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 33	第	_	NOUN	_	_	37	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=dì
@@ -262,13 +262,13 @@
 57	电	_	NOUN	_	_	56	comp/m	_	Gloss=_|SpaceAfter=No|Translit=diàn
 58	部	_	NOUN	_	_	68	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bù
 59	分	_	NOUN	_	_	58	comp/m	_	Gloss=_|SpaceAfter=No|Translit=fēn
-60	与	_	CCONJ	_	_	58	conj	_	Gloss=_|SpaceAfter=No|Translit=yǔ
+60	与	_	CCONJ	_	_	66	cc	_	Gloss=_|SpaceAfter=No|Translit=yǔ
 61	所	_	PART	_	_	66	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=suǒ
 62	述	_	VERB	_	_	61	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 63	第	_	PART	_	_	66	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=dì
 64	二	_	NUM	_	_	63	comp/m	_	Gloss=_|SpaceAfter=No|Translit=èr
 65	导	_	VERB	_	_	66	mod/m	_	Gloss=_|SpaceAfter=No|Translit=dǎo
-66	体	_	NOUN	_	_	60	cc	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=tǐ
+66	体	_	NOUN	_	_	58	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=tǐ
 67	之	_	PART	_	_	68	mod/m	_	Gloss=_|SpaceAfter=No|Translit=zhī
 68	间	_	NOUN	_	_	69	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jiān
 69	的	_	PART	_	_	70	mod	_	Gloss=_|SpaceAfter=No|Translit=de
@@ -303,12 +303,12 @@
 98	化	_	VERB	_	_	97	conj/m	_	Gloss=_|SpaceAfter=No|Translit=huà
 99	不	_	ADV	_	_	100	mod	_	Gloss=_|SpaceAfter=No|Translit=bù
 100	同	_	ADJ	_	_	16	parataxis	_	Gloss=_|SpaceAfter=No|Translit=tóng
-101	。	_	NOUN	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=。
+101	。	_	PUNCT	_	_	16	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
 # sent_id = zh_patentchar-sud-test__9
 # patent_id = CN102016000555366CN00001076220650AFULZH20180123CN00A
 # text = 1.一种数据处理方法，其特征在于，所述方法包括：
-1	1.	_	NUM	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod/m	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	8	mod	_	CpdPos=DET|Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	数	_	NOUN	_	_	5	mod/m	_	Gloss=_|SpaceAfter=No|Translit=shù
@@ -1054,7 +1054,7 @@
 13	少	_	ADJ	_	_	12	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shǎo
 14	一	_	NUM	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 15	个	_	NOUN	_	_	16	mod	_	Gloss=_|SpaceAfter=No|Translit=gè
-16	规	_	NOUN	_	_	11	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=gūi
+16	规	_	NOUN	_	_	10	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=gūi
 17	则	_	NOUN	_	_	16	conj/m	_	Gloss=_|SpaceAfter=No|Translit=zé
 18	。	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
@@ -2058,7 +2058,7 @@
 71	思	_	NOUN	_	_	74	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=sī
 72	维	_	NOUN	_	_	71	flat/m	_	Gloss=_|SpaceAfter=No|Translit=wéi
 73	过	_	VERB	_	_	74	mod/m	_	Gloss=_|SpaceAfter=No|Translit=guò
-74	程	_	NOUN	_	_	68	comp/m	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=chéng
+74	程	_	NOUN	_	_	68	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=chéng
 75	。	_	PUNCT	_	_	28	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
 # sent_id = zh_patentchar-sud-test__48
@@ -2675,7 +2675,7 @@
 23	的	_	PART	_	_	25	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 24	版	_	NOUN	_	_	25	mod/m	_	Gloss=_|SpaceAfter=No|Translit=bǎn
 25	本	_	NOUN	_	_	26	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=běn
-26	高	_	ADJ	_	_	14	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=gāo
+26	高	_	ADJ	_	_	14	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=gāo
 27	于	_	ADP	_	_	26	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 28	自	_	PRON	_	_	29	mod/m	_	Gloss=_|SpaceAfter=No|Translit=zì
 29	身	_	NOUN	_	_	30	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=shēn
@@ -2784,7 +2784,7 @@
 # sent_id = zh_patentchar-sud-test__65
 # patent_id = CN102016000578730CN00001076440300AFULZH20180130CN00C
 # text = 2.根据权利要求1所述的方法，其特征在于，所述获取源数据节点的版本包括：
-1	2.	_	NUM	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根	_	NOUN	_	_	3	mod/m	_	Gloss=_|SpaceAfter=No|Translit=gēn
 3	据	_	NOUN	_	_	9	mod	_	CpdPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
 4	权	_	NOUN	_	_	6	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=quán
@@ -2816,7 +2816,7 @@
 30	的	_	PART	_	_	32	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 31	版	_	NOUN	_	_	32	mod/m	_	Gloss=_|SpaceAfter=No|Translit=bǎn
 32	本	_	NOUN	_	_	33	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=běn
-33	包	_	VERB	_	_	19	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+33	包	_	VERB	_	_	19	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 34	括	_	VERB	_	_	33	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 35	：	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -2951,7 +2951,7 @@
 15	在	_	VERB	_	_	9	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
 16	于	_	ADP	_	_	15	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 17	，	_	PUNCT	_	_	18	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-18	包	_	NOUN	_	_	16	comp:cleft	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+18	包	_	NOUN	_	_	16	comp:obj	_	ExtPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 19	括	_	NOUN	_	_	18	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 20	数	_	NOUN	_	_	21	mod/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 21	据	_	NOUN	_	_	22	mod/m	_	ExtPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jù
@@ -3342,7 +3342,7 @@
 # sent_id = zh_patentchar-sud-test__73
 # patent_id = CN102016000556074CN00001076237070AFULZH20180123CN005
 # text = 2.根据权利要求1所述的系统，其特征在于，
-1	2.	_	NUM	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
+1	2.	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
 2	根	_	NOUN	_	_	3	mod/m	_	Gloss=_|SpaceAfter=No|Translit=gēn
 3	据	_	NOUN	_	_	9	mod	_	CpdPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
 4	权	_	NOUN	_	_	6	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=quán
@@ -3377,9 +3377,9 @@
 9	响	_	VERB	_	_	8	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=xiǎng
 10	应	_	VERB	_	_	9	conj/m	_	Gloss=_|SpaceAfter=No|Translit=yìng
 11	于	_	ADP	_	_	9	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
-12	开	_	VERB	_	_	14	conj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=kāi
+12	开	_	VERB	_	_	16	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=kāi
 13	机	_	NOUN	_	_	12	comp:obj/m	_	Gloss=_|SpaceAfter=No|Translit=jī
-14	启	_	VERB	_	_	16	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=qǐ
+14	启	_	VERB	_	_	12	comp:svc	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=qǐ
 15	动	_	VERB	_	_	14	conj/m	_	Gloss=_|SpaceAfter=No|Translit=dòng
 16	的	_	PART	_	_	19	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 17	触	_	VERB	_	_	19	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=hóng
@@ -3487,7 +3487,7 @@
 # sent_id = zh_patentchar-sud-test__76
 # patent_id = CN102016000571511CN00001076441100AFULZH20180130CN00R
 # text = 1.一种水平井水淹程度评价方法，其特征在于，该水平井水淹程度评价方法包括：
-1	1.	_	NUM	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+1	1.	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
 2	一	_	NUM	_	_	3	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 3	种	_	NOUN	_	_	13	mod	_	Gloss=_|SpaceAfter=No|Translit=zhǒng
 4	水	_	NOUN	_	_	5	mod/m	_	Gloss=_|SpaceAfter=No|Translit=shǔi
@@ -3520,7 +3520,7 @@
 31	价	_	NOUN	_	_	30	comp:obj/m	_	Gloss=_|SpaceAfter=No|Translit=jià
 32	方	_	NOUN	_	_	34	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=fāng
 33	法	_	NOUN	_	_	32	conj/m	_	Gloss=_|SpaceAfter=No|Translit=fǎ
-34	包	_	VERB	_	_	20	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+34	包	_	VERB	_	_	20	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 35	括	_	VERB	_	_	34	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 36	：	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -3554,7 +3554,7 @@
 4	，	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 5	根	_	NOUN	_	_	6	mod/m	_	Gloss=_|SpaceAfter=No|Translit=gēn
 6	据	_	NOUN	_	_	11	mod	_	CpdPos=ADP|Gloss=_|SpaceAfter=No|Translit=jù
-7	生	_	VERB	_	_	9	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shēng
+7	生	_	VERB	_	_	10	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shēng
 8	产	_	VERB	_	_	7	conj/m	_	Gloss=_|SpaceAfter=No|Translit=chǎn
 9	资	_	NOUN	_	_	10	mod/m	_	Gloss=_|SpaceAfter=No|Translit=zī
 10	料	_	NOUN	_	_	6	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=liào
@@ -3790,7 +3790,7 @@
 13	的	_	PART	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 14	键	_	NOUN	_	_	15	mod/m	_	Gloss=_|SpaceAfter=No|Translit=jiàn
 15	盘	_	NOUN	_	_	0	root	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=pán
-16	，	_	PART	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+16	，	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 17	包	_	VERB	_	_	15	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 18	含	_	VERB	_	_	17	conj/m	_	Gloss=_|SpaceAfter=No|Translit=hán
 19	基	_	ADJ	_	_	20	mod/m	_	Gloss=_|SpaceAfter=No|Translit=jī
@@ -3907,7 +3907,7 @@
 10	依	_	VERB	_	_	12	mod	_	CpdPos=ADV|Gloss=_|SpaceAfter=No|Translit=yī
 11	序	_	NOUN	_	_	10	comp:obj/m	_	Gloss=_|SpaceAfter=No|Translit=xù
 12	输	_	VERB	_	_	9	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shū
-13	出	_	VERB	_	_	12	comp:res/m	_	Gloss=_|SpaceAfter=No|Translit=chū
+13	出	_	VERB	_	_	12	comp	_	Gloss=_|SpaceAfter=No|Translit=chū
 14	不	_	ADV	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=bù
 15	同	_	ADJ	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=tóng
 16	频	_	NOUN	_	_	17	mod/m	_	Gloss=_|SpaceAfter=No|Translit=pín
@@ -3935,7 +3935,7 @@
 38	别	_	VERB	_	_	37	conj/m	_	Gloss=_|SpaceAfter=No|Translit=bié
 39	电	_	NOUN	_	_	40	mod/m	_	Gloss=_|SpaceAfter=No|Translit=diàn
 40	路	_	NOUN	_	_	34	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=lù
-41	电	_	NOUN	_	_	43	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=diàn
+41	电	_	NOUN	_	_	43	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=diàn
 42	磁	_	NOUN	_	_	41	conj/m	_	Gloss=_|SpaceAfter=No|Translit=cí
 43	振	_	VERB	_	_	48	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zhèn
 44	荡	_	VERB	_	_	43	conj/m	_	Gloss=_|SpaceAfter=No|Translit=dàng
@@ -3975,7 +3975,7 @@
 78	的	_	PART	_	_	80	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 79	键	_	NOUN	_	_	80	mod/m	_	Gloss=_|SpaceAfter=No|Translit=jiàn
 80	帽	_	NOUN	_	_	81	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=mào
-81	被	_	PART	_	_	70	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=bèi
+81	被	_	PART	_	_	70	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=bèi
 82	按	_	VERB	_	_	81	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=àn
 83	下	_	VERB	_	_	82	comp:res/m	_	Gloss=_|SpaceAfter=No|Translit=xià
 84	及	_	CCONJ	_	_	89	cc	_	Gloss=_|SpaceAfter=No|Translit=jí
@@ -4030,7 +4030,7 @@
 39	别	_	VERB	_	_	38	conj/m	_	Gloss=_|SpaceAfter=No|Translit=bié
 40	电	_	NOUN	_	_	41	mod/m	_	Gloss=_|SpaceAfter=No|Translit=diàn
 41	路	_	NOUN	_	_	42	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=lù
-42	为	_	VERB	_	_	29	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=wèi
+42	为	_	VERB	_	_	29	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=wèi
 43	调	_	VERB	_	_	46	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=diào
 44	谐	_	VERB	_	_	43	comp:res/m	_	Gloss=_|SpaceAfter=No|Translit=xié
 45	电	_	NOUN	_	_	46	mod/m	_	Gloss=_|SpaceAfter=No|Translit=diàn
@@ -4138,7 +4138,7 @@
 33	述	_	VERB	_	_	32	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 34	方	_	NOUN	_	_	36	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=fāng
 35	法	_	NOUN	_	_	34	conj/m	_	Gloss=_|SpaceAfter=No|Translit=fǎ
-36	包	_	VERB	_	_	30	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+36	包	_	VERB	_	_	30	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 37	括	_	VERB	_	_	36	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 38	：	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -4340,7 +4340,7 @@
 15	发	_	VERB	_	_	6	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=fā
 16	送	_	VERB	_	_	15	conj/m	_	Gloss=_|SpaceAfter=No|Translit=sòng
 17	给	_	ADP	_	_	15	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=gěi
-18	所	_	PART	_	_	20	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
+18	所	_	PART	_	_	22	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
 19	述	_	VERB	_	_	18	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 20	服	_	VERB	_	_	22	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=fú
 21	务	_	NOUN	_	_	20	conj:obj/m	_	Gloss=_|SpaceAfter=No|Translit=wù
@@ -4389,7 +4389,7 @@
 11	的	_	PART	_	_	12	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 12	方	_	NOUN	_	_	0	root	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=fāng
 13	法	_	NOUN	_	_	12	conj/m	_	Gloss=_|SpaceAfter=No|Translit=fǎ
-14	，	_	NOUN	_	_	18	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+14	，	_	PUNCT	_	_	18	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 15	其	_	PRON	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=qí
 16	特	_	ADJ	_	_	17	mod/m	_	Gloss=_|SpaceAfter=No|Translit=tè
 17	征	_	NOUN	_	_	18	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=zhēng
@@ -4404,7 +4404,7 @@
 26	所	_	PART	_	_	28	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
 27	述	_	VERB	_	_	26	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 28	TUI	_	PROPN	_	_	24	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=TUI
-29	接	_	VERB	_	_	19	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=jiē
+29	接	_	VERB	_	_	19	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=jiē
 30	收	_	VERB	_	_	29	conj/m	_	Gloss=_|SpaceAfter=No|Translit=shōu
 31	用	_	NOUN	_	_	32	mod/m	_	Gloss=_|SpaceAfter=No|Translit=yòng
 32	户	_	NOUN	_	_	33	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=hù
@@ -4487,7 +4487,7 @@
 6	多	_	ADJ	_	_	8	mod	_	Gloss=_|SpaceAfter=No|Translit=duō
 7	参	_	VERB	_	_	8	mod/m	_	Gloss=_|SpaceAfter=No|Translit=cān
 8	数	_	NOUN	_	_	9	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=shù
-9	关	_	VERB	_	_	5	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=guān
+9	关	_	VERB	_	_	5	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=guān
 10	联	_	VERB	_	_	9	conj/m	_	Gloss=_|SpaceAfter=No|Translit=lián
 11	的	_	PART	_	_	22	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 12	在	_	ADP	_	_	15	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=zài
@@ -4786,7 +4786,7 @@
 62	是	_	VERB	_	_	65	mod	_	CpdPos=ADV|Gloss=_|SpaceAfter=No|Translit=shì
 63	否	_	VERB	_	_	62	comp/m	_	Gloss=_|SpaceAfter=No|Translit=fǒu
 64	异	_	ADV	_	_	65	mod/m	_	Gloss=_|SpaceAfter=No|Translit=yì
-65	常	_	ADJ	_	_	53	comp:cleft	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=cháng
+65	常	_	ADJ	_	_	53	comp:obj	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=cháng
 66	。	_	PUNCT	_	_	40	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
 # sent_id = zh_patentchar-sud-test__103
@@ -4851,7 +4851,7 @@
 57	定	_	VERB	_	_	58	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=dìng
 58	方	_	NOUN	_	_	60	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=fāng
 59	式	_	NOUN	_	_	58	conj/m	_	Gloss=_|SpaceAfter=No|Translit=shì
-60	包	_	VERB	_	_	39	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+60	包	_	VERB	_	_	39	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 61	括	_	VERB	_	_	60	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 62	以	_	ADP	_	_	64	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=yǐ
 63	下	_	PRON	_	_	62	comp/m	_	Gloss=_|SpaceAfter=No|Translit=xià
@@ -4876,7 +4876,7 @@
 1	重	_	VERB	_	_	0	root	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zhòng
 2	复	_	VERB	_	_	1	conj/m	_	Gloss=_|SpaceAfter=No|Translit=fù
 3	上	_	NOUN	_	_	4	mod/m	_	Gloss=_|SpaceAfter=No|Translit=shàng
-4	述	_	VERB	_	_	11	mod/m	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=shù
+4	述	_	VERB	_	_	11	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=shù
 5	第	_	PART	_	_	9	mod	_	CpdPos=NUM|Gloss=_|SpaceAfter=No|Translit=dì
 6	一	_	NUM	_	_	5	comp/m	_	Gloss=_|SpaceAfter=No|Translit=yī
 7	网	_	NOUN	_	_	8	mod/m	_	Gloss=_|SpaceAfter=No|Translit=wǎng
@@ -4961,7 +4961,7 @@
 36	在	_	VERB	_	_	12	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zài
 37	于	_	ADP	_	_	36	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 38	，	_	PUNCT	_	_	39	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-39	包	_	VERB	_	_	37	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+39	包	_	VERB	_	_	37	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 40	括	_	VERB	_	_	39	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 41	：	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -5029,7 +5029,7 @@
 59	接	_	VERB	_	_	60	mod/m	_	Gloss=_|SpaceAfter=No|Translit=jiē
 60	口	_	NOUN	_	_	61	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=kǒu
 61	可	_	VERB	_	_	45	conj	_	Gloss=_|SpaceAfter=No|Translit=kě
-62	插	_	VERB	_	_	61	comp:aux	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=chā
+62	插	_	VERB	_	_	61	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=chā
 63	接	_	VERB	_	_	62	conj/m	_	Gloss=_|SpaceAfter=No|Translit=jiē
 64	百	_	NUM	_	_	65	mod	_	Gloss=_|SpaceAfter=No|Translit=bǎi
 65	兆	_	NOUN	_	_	68	mod	_	Gloss=_|SpaceAfter=No|Translit=zhào
@@ -5051,7 +5051,7 @@
 81	模	_	NOUN	_	_	82	mod/m	_	Gloss=_|SpaceAfter=No|Translit=mó
 82	块	_	NOUN	_	_	78	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=kuài
 83	中	_	NOUN	_	_	84	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=zhōng
-84	的	_	PART	_	_	86	comp/m	_	Gloss=_|SpaceAfter=No|Translit=de
+84	的	_	PART	_	_	86	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 85	一	_	NUM	_	_	86	mod	_	Gloss=_|SpaceAfter=No|Translit=yī
 86	种	_	NOUN	_	_	62	comp:obj	_	CpdPos=DET|Gloss=_|SpaceAfter=No|Translit=zhǒng
 87	或	_	CCONJ	_	_	89	cc	_	Gloss=_|SpaceAfter=No|Translit=huò
@@ -5413,7 +5413,7 @@
 16	在	_	ADP	_	_	10	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zài
 17	于	_	ADP	_	_	16	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 18	，	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-19	包	_	VERB	_	_	17	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+19	包	_	VERB	_	_	17	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 20	括	_	NOUN	_	_	19	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 21	：	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -5454,7 +5454,7 @@
 13	煤	_	NOUN	_	_	12	comp/m	_	Gloss=_|SpaceAfter=No|Translit=méi
 14	流	_	VERB	_	_	15	mod/m	_	Gloss=_|SpaceAfter=No|Translit=líu
 15	量	_	NOUN	_	_	10	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=liàng
-16	进	_	VERB	_	_	3	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=jìn
+16	进	_	VERB	_	_	3	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=jìn
 17	行	_	VERB	_	_	16	conj/m	_	Gloss=_|SpaceAfter=No|Translit=xíng
 18	积	_	VERB	_	_	22	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jī
 19	分	_	NOUN	_	_	18	comp/m	_	Gloss=_|SpaceAfter=No|Translit=fēn
@@ -5653,7 +5653,7 @@
 22	述	_	VERB	_	_	21	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 23	分	_	VERB	_	_	25	mod	_	CpdPos=ADV|Gloss=_|SpaceAfter=No|Translit=fēn
 24	别	_	VERB	_	_	23	conj/m	_	Gloss=_|SpaceAfter=No|Translit=bié
-25	对	_	ADP	_	_	19	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=dùi
+25	对	_	ADP	_	_	19	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=dùi
 26	所	_	PART	_	_	32	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
 27	述	_	VERB	_	_	26	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 28	发	_	VERB	_	_	30	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=fā
@@ -5756,7 +5756,7 @@
 14	值	_	NOUN	_	_	15	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=zhí
 15	是	_	VERB	_	_	17	mod	_	CpdPos=ADV|Gloss=_|SpaceAfter=No|Translit=shì
 16	否	_	VERB	_	_	15	conj/m	_	Gloss=_|SpaceAfter=No|Translit=fǒu
-17	超	_	VERB	_	_	1	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=chāo
+17	超	_	VERB	_	_	1	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=chāo
 18	过	_	VERB	_	_	17	comp:res/m	_	Gloss=_|SpaceAfter=No|Translit=guò
 19	了	_	PART	_	_	17	comp	_	Gloss=_|SpaceAfter=No|Translit=le
 20	预	_	ADV	_	_	21	mod/m	_	Gloss=_|SpaceAfter=No|Translit=yù
@@ -5950,7 +5950,7 @@
 16	在	_	VERB	_	_	10	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zài
 17	于	_	ADP	_	_	16	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 18	，	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-19	包	_	VERB	_	_	17	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+19	包	_	VERB	_	_	17	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 20	括	_	VERB	_	_	19	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 21	：	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -6116,7 +6116,7 @@
 36	界	_	NOUN	_	_	37	mod/m	_	Gloss=_|SpaceAfter=No|Translit=jiè
 37	面	_	NOUN	_	_	38	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=miàn
 38	上	_	NOUN	_	_	33	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=shàng
-39	显	_	VERB	_	_	19	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=xiǎn
+39	显	_	VERB	_	_	19	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=xiǎn
 40	示	_	VERB	_	_	39	conj/m	_	Gloss=_|SpaceAfter=No|Translit=shì
 41	业	_	NOUN	_	_	44	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=yè
 42	务	_	NOUN	_	_	41	conj/m	_	Gloss=_|SpaceAfter=No|Translit=wù
@@ -6139,7 +6139,7 @@
 4	来	_	VERB	_	_	8	comp	_	CpdPos=ADP|Gloss=_|SpaceAfter=No|Translit=lái
 5	自	_	ADP	_	_	4	comp:obl/m	_	Gloss=_|SpaceAfter=No|Translit=zì
 6	用	_	VERB	_	_	7	mod/m	_	Gloss=_|SpaceAfter=No|Translit=yòng
-7	户	_	NOUN	_	_	5	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=hù
+7	户	_	NOUN	_	_	4	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=hù
 8	的	_	PART	_	_	21	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 9	显	_	VERB	_	_	18	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=xiǎn
 10	示	_	VERB	_	_	9	conj/m	_	Gloss=_|SpaceAfter=No|Translit=shì
@@ -6198,7 +6198,7 @@
 16	在	_	VERB	_	_	10	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zài
 17	于	_	ADP	_	_	16	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 18	，	_	PUNCT	_	_	19	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-19	包	_	VERB	_	_	17	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+19	包	_	VERB	_	_	17	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 20	括	_	VERB	_	_	19	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 21	：	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -6233,7 +6233,7 @@
 5	在	_	ADP	_	_	14	mod	_	Gloss=_|SpaceAfter=No|Translit=zài
 6	预	_	ADV	_	_	7	mod/m	_	Gloss=_|SpaceAfter=No|Translit=yù
 7	定	_	VERB	_	_	10	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=dìng
-8	时	_	NOUN	_	_	9	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=shí
+8	时	_	NOUN	_	_	9	mod/m	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=shí
 9	间	_	NOUN	_	_	10	mod/m	_	Gloss=_|SpaceAfter=No|Translit=jiān
 10	段	_	NOUN	_	_	11	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=duàn
 11	内	_	NOUN	_	_	5	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=nèi
@@ -6456,7 +6456,7 @@
 22	示	_	VERB	_	_	21	conj/m	_	Gloss=_|SpaceAfter=No|Translit=shì
 23	区	_	NOUN	_	_	17	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qū
 24	的	_	PART	_	_	28	mod	_	Gloss=_|SpaceAfter=No|Translit=de
-25	非	_	ADV	_	_	26	mod	_	Gloss=_|SpaceAfter=No|Translit=fēi
+25	非	_	ADV	_	_	26	mod/m	_	Gloss=_|SpaceAfter=No|Translit=fēi
 26	显	_	VERB	_	_	28	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=xiǎn
 27	示	_	VERB	_	_	26	conj/m	_	Gloss=_|SpaceAfter=No|Translit=shì
 28	区	_	NOUN	_	_	15	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qū
@@ -6467,7 +6467,7 @@
 33	在	_	ADP	_	_	11	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zài
 34	于	_	ADP	_	_	33	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=yú
 35	，	_	PUNCT	_	_	36	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-36	包	_	VERB	_	_	34	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+36	包	_	VERB	_	_	34	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 37	括	_	VERB	_	_	36	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 38	：	_	PUNCT	_	_	11	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -6502,7 +6502,7 @@
 # text = 所述非显示区设置有驱动电路和多个压感触控单元；
 1	所	_	PART	_	_	6	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
 2	述	_	VERB	_	_	1	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
-3	非	_	ADV	_	_	4	mod	_	Gloss=_|SpaceAfter=No|Translit=fēi
+3	非	_	ADV	_	_	4	mod/m	_	Gloss=_|SpaceAfter=No|Translit=fēi
 4	显	_	VERB	_	_	6	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=xiǎn
 5	示	_	VERB	_	_	4	conj/m	_	Gloss=_|SpaceAfter=No|Translit=shì
 6	区	_	NOUN	_	_	7	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qū
@@ -6605,18 +6605,18 @@
 19	输	_	VERB	_	_	21	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shū
 20	入	_	VERB	_	_	19	comp/m	_	Gloss=_|SpaceAfter=No|Translit=rù
 21	端	_	NOUN	_	_	15	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=duān
-22	、	_	PUNCT	_	_	33	punct	_	Gloss=_|SpaceAfter=No|Translit=、
+22	、	_	PUNCT	_	_	27	punct	_	Gloss=_|SpaceAfter=No|Translit=、
 23	第	_	PART	_	_	27	mod	_	CpdPos=NUM|Gloss=_|SpaceAfter=No|Translit=dì
 24	一	_	NUM	_	_	23	comp/m	_	Gloss=_|SpaceAfter=No|Translit=yī
 25	输	_	VERB	_	_	27	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shū
 26	出	_	AUX	_	_	25	comp/m	_	Gloss=_|SpaceAfter=No|Translit=chū
-27	端	_	NOUN	_	_	33	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=duān
+27	端	_	NOUN	_	_	21	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=duān
 28	和	_	CCONJ	_	_	33	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
 29	第	_	PART	_	_	33	mod	_	CpdPos=NUM|Gloss=_|SpaceAfter=No|Translit=dì
 30	二	_	NUM	_	_	29	comp/m	_	Gloss=_|SpaceAfter=No|Translit=èr
 31	输	_	VERB	_	_	33	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shū
 32	出	_	VERB	_	_	31	comp/m	_	Gloss=_|SpaceAfter=No|Translit=chū
-33	端	_	NOUN	_	_	21	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=duān
+33	端	_	NOUN	_	_	27	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=duān
 34	；	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
 # sent_id = zh_patentchar-sud-test__148
@@ -6857,7 +6857,7 @@
 31	线	_	NOUN	_	_	33	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=xiàn
 32	复	_	ADV	_	_	33	mod/m	_	Gloss=_|SpaceAfter=No|Translit=fù
 33	用	_	VERB	_	_	11	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=yòng
-34	为	_	ADP	_	_	33	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=wèi
+34	为	_	ADP	_	_	33	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=wèi
 35	所	_	PART	_	_	43	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
 36	述	_	VERB	_	_	35	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 37	第	_	PART	_	_	43	mod	_	CpdPos=NUM|Gloss=_|SpaceAfter=No|Translit=dì
@@ -7101,7 +7101,7 @@
 33	走	_	VERB	_	_	34	mod/m	_	Gloss=_|SpaceAfter=No|Translit=zǒu
 34	线	_	NOUN	_	_	36	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=xiàn
 35	复	_	ADV	_	_	36	comp/m	_	Gloss=_|SpaceAfter=No|Translit=fù
-36	用	_	VERB	_	_	23	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=yòng
+36	用	_	VERB	_	_	23	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=yòng
 37	为	_	VERB	_	_	36	comp:res	_	Gloss=_|SpaceAfter=No|Translit=wèi
 38	所	_	PART	_	_	46	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
 39	述	_	VERB	_	_	38	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
@@ -7188,7 +7188,7 @@
 3	向	_	ADP	_	_	2	comp:obl/m	_	Gloss=_|SpaceAfter=No|Translit=xiàng
 4	XenServer	_	PROPN	_	_	6	mod	_	Gloss=_|SpaceAfter=No|Translit=XenServer
 5	平	_	ADJ	_	_	6	mod/m	_	Gloss=_|SpaceAfter=No|Translit=píng
-6	台	_	NOUN	_	_	3	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=tái
+6	台	_	NOUN	_	_	2	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=tái
 7	的	_	PART	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 8	虚	_	ADJ	_	_	9	mod/m	_	Gloss=_|SpaceAfter=No|Translit=xū
 9	拟	_	VERB	_	_	10	mod/m	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=nǐ
@@ -7205,7 +7205,7 @@
 20	征	_	NOUN	_	_	21	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=zhēng
 21	是	_	VERB	_	_	15	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shì
 22	，	_	PUNCT	_	_	23	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-23	包	_	VERB	_	_	21	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+23	包	_	VERB	_	_	21	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 24	括	_	VERB	_	_	23	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 25	：	_	PUNCT	_	_	15	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -7715,7 +7715,7 @@
 17	在	_	VERB	_	_	11	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zài
 18	于	_	ADP	_	_	17	comp:obl	_	Gloss=_|SpaceAfter=No|Translit=yú
 19	，	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-20	包	_	VERB	_	_	18	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+20	包	_	VERB	_	_	18	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 21	括	_	VERB	_	_	20	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 22	：	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -7818,7 +7818,7 @@
 67	快	_	ADV	_	_	68	mod/m	_	Gloss=_|SpaceAfter=No|Translit=kuài
 68	照	_	VERB	_	_	70	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=zhào
 69	数	_	NOUN	_	_	70	mod/m	_	Gloss=_|SpaceAfter=No|Translit=shù
-70	据	_	NOUN	_	_	71	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jù
+70	据	_	NOUN	_	_	73	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jù
 71	存	_	VERB	_	_	73	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=cún
 72	放	_	VERB	_	_	71	conj/m	_	Gloss=_|SpaceAfter=No|Translit=fàng
 73	区	_	NOUN	_	_	66	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=qū
@@ -7860,7 +7860,7 @@
 31	，	_	PUNCT	_	_	30	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 32	停	_	VERB	_	_	0	root	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=tíng
 33	止	_	VERB	_	_	32	conj/m	_	Gloss=_|SpaceAfter=No|Translit=zhǐ
-34	将	_	PART	_	_	32	comp:cleft	_	Gloss=_|SpaceAfter=No|Translit=jiāng
+34	将	_	PART	_	_	32	comp:obj	_	Gloss=_|SpaceAfter=No|Translit=jiāng
 35	所	_	PART	_	_	40	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=suǒ
 36	述	_	VERB	_	_	35	comp/m	_	Gloss=_|SpaceAfter=No|Translit=shù
 37	第	_	PART	_	_	40	mod	_	CpdPos=NUM|Gloss=_|SpaceAfter=No|Translit=dì
@@ -7953,7 +7953,7 @@
 46	前	_	NOUN	_	_	49	mod	_	CpdPos=PART|Gloss=_|SpaceAfter=No|Translit=qián
 47	，	_	PUNCT	_	_	46	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 48	还	_	ADV	_	_	49	mod	_	Gloss=_|SpaceAfter=No|Translit=huán
-49	包	_	VERB	_	_	19	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+49	包	_	VERB	_	_	19	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 50	括	_	VERB	_	_	49	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 51	：	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -7967,9 +7967,9 @@
 5	据	_	NOUN	_	_	8	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=jù
 6	是	_	VERB	_	_	8	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shì
 7	否	_	VERB	_	_	6	conj/m	_	Gloss=_|SpaceAfter=No|Translit=fǒu
-8	需	_	VERB	_	_	1	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=xū
+8	需	_	VERB	_	_	1	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=xū
 9	要	_	VERB	_	_	8	conj/m	_	Gloss=_|SpaceAfter=No|Translit=yào
-10	创	_	VERB	_	_	8	comp:aux	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=chuàng
+10	创	_	VERB	_	_	8	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=chuàng
 11	建	_	VERB	_	_	10	conj/m	_	Gloss=_|SpaceAfter=No|Translit=jiàn
 12	快	_	ADV	_	_	13	mod/m	_	Gloss=_|SpaceAfter=No|Translit=kuài
 13	照	_	VERB	_	_	10	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=zhào
@@ -8068,7 +8068,7 @@
 26	化	_	VERB	_	_	27	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=huà
 27	方	_	NOUN	_	_	29	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=fāng
 28	法	_	PROPN	_	_	27	conj/m	_	Gloss=_|SpaceAfter=No|Translit=fǎ
-29	包	_	VERB	_	_	17	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+29	包	_	VERB	_	_	17	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 30	括	_	VERB	_	_	29	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 31	如	_	PART	_	_	33	mod	_	CpdPos=ADJ|Gloss=_|SpaceAfter=No|Translit=rú
 32	下	_	NOUN	_	_	31	comp/m	_	Gloss=_|SpaceAfter=No|Translit=xià
@@ -8370,7 +8370,7 @@
 10	设	_	VERB	_	_	13	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shè
 11	计	_	VERB	_	_	10	conj/m	_	Gloss=_|SpaceAfter=No|Translit=jì
 12	变	_	VERB	_	_	13	mod/m	_	Gloss=_|SpaceAfter=No|Translit=biàn
-13	量	_	NOUN	_	_	3	comp/m	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=liàng
+13	量	_	NOUN	_	_	3	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=liàng
 14	；	_	PUNCT	_	_	3	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
 # sent_id = zh_patentchar-sud-test__192
@@ -8441,7 +8441,7 @@
 17	整	_	ADJ	_	_	18	mod/m	_	Gloss=_|SpaceAfter=No|Translit=zhěng
 18	车	_	NOUN	_	_	20	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=chē
 19	参	_	VERB	_	_	20	mod/m	_	Gloss=_|SpaceAfter=No|Translit=cān
-20	数	_	NOUN	_	_	21	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=shù
+20	数	_	NOUN	_	_	23	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=shù
 21	配	_	VERB	_	_	23	mod/m	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=pèi
 22	置	_	VERB	_	_	21	conj/m	_	Gloss=_|SpaceAfter=No|Translit=zhì
 23	表	_	NOUN	_	_	15	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=biǎo
@@ -8585,7 +8585,7 @@
 37	曲	_	NOUN	_	_	36	conj/m	_	Gloss=_|SpaceAfter=No|Translit=qū
 38	工	_	NOUN	_	_	39	mod/m	_	Gloss=_|SpaceAfter=No|Translit=gōng
 39	况	_	NOUN	_	_	40	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=kuàng
-40	包	_	VERB	_	_	25	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
+40	包	_	VERB	_	_	25	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=bāo
 41	括	_	VERB	_	_	40	conj/m	_	Gloss=_|SpaceAfter=No|Translit=kuò
 42	：	_	PUNCT	_	_	18	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
@@ -8722,7 +8722,7 @@
 31	的	_	PART	_	_	33	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 32	图	_	NOUN	_	_	33	mod/m	_	Gloss=_|SpaceAfter=No|Translit=tú
 33	标	_	NOUN	_	_	34	subj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=biāo
-34	移	_	VERB	_	_	21	comp:cleft	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=yí
+34	移	_	VERB	_	_	21	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=yí
 35	动	_	VERB	_	_	34	conj/m	_	Gloss=_|SpaceAfter=No|Translit=dòng
 36	的	_	PART	_	_	39	mod	_	Gloss=_|SpaceAfter=No|Translit=de
 37	操	_	VERB	_	_	39	mod	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=cāo
