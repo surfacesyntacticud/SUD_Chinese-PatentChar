@@ -3907,7 +3907,7 @@
 10	依	_	VERB	_	_	12	mod	_	CpdPos=ADV|Gloss=_|SpaceAfter=No|Translit=yī
 11	序	_	NOUN	_	_	10	comp:obj/m	_	Gloss=_|SpaceAfter=No|Translit=xù
 12	输	_	VERB	_	_	9	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=shū
-13	出	_	VERB	_	_	12	comp:res/m	_	Gloss=_|SpaceAfter=No|Translit=chū
+13	出	_	VERB	_	_	12	comp	_	Gloss=_|SpaceAfter=No|Translit=chū
 14	不	_	ADV	_	_	15	mod	_	Gloss=_|SpaceAfter=No|Translit=bù
 15	同	_	ADJ	_	_	17	mod	_	Gloss=_|SpaceAfter=No|Translit=tóng
 16	频	_	NOUN	_	_	17	mod/m	_	Gloss=_|SpaceAfter=No|Translit=pín
@@ -3935,7 +3935,7 @@
 38	别	_	VERB	_	_	37	conj/m	_	Gloss=_|SpaceAfter=No|Translit=bié
 39	电	_	NOUN	_	_	40	mod/m	_	Gloss=_|SpaceAfter=No|Translit=diàn
 40	路	_	NOUN	_	_	34	comp:obj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=lù
-41	电	_	NOUN	_	_	43	conj	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=diàn
+41	电	_	NOUN	_	_	43	mod	_	CpdPos=NOUN|Gloss=_|SpaceAfter=No|Translit=diàn
 42	磁	_	NOUN	_	_	41	conj/m	_	Gloss=_|SpaceAfter=No|Translit=cí
 43	振	_	VERB	_	_	48	comp:obj	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zhèn
 44	荡	_	VERB	_	_	43	conj/m	_	Gloss=_|SpaceAfter=No|Translit=dàng
