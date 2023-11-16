@@ -1,12 +1,17 @@
 # Summary
-A treebank of Chinese patent application texts collected from the Chinese patent office's website CNIPA.
+`Chinese-PatentChar` is a treebank of Chinese patent application texts collected from the Chinese patent office's website CNIPA.
 
 The sentences are randomly selected from the patent claims of the IPC section "G" from November 2017 to September 2018.
 
 # Introduction
-The syntactic analysis is originally done in SUD on the character level under the name SUD_Chinese-PatentChar. See SUD Guidelines : https://surfacesyntacticud.github.io/guidelines/u/
+The syntactic analysis is originally done in mSUD (on the character level).
+A regular SUD version is available in the `SUD_Chinese-PatentChar` folder.
 
 # Changelog
+
+* 2023-11-16 v2.13
+  * 100 additionnal sentences
+  * Annotation in the mSUD format, with conversion into SUD
 
 * 2022-11-15 v2.11
   * Initial release in Universal Dependencies.
